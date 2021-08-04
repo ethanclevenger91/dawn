@@ -82,6 +82,25 @@
         "layout": "image_first"
       }
     },
+    "16281191127f7c30d5": {
+      "type": "rich-text",
+      "blocks": {
+        "16281191127f7c30d5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Latest from Instagram",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16281191127f7c30d5-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": false
+      }
+    },
     "16281190877da4b4bf": {
       "type": "instafeed",
       "settings": {
@@ -96,6 +115,7 @@
     "image_banner",
     "featured_products",
     "image_text",
+    "16281191127f7c30d5",
     "16281190877da4b4bf"
   ]
 }
