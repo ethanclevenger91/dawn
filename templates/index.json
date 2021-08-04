@@ -81,11 +81,21 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "16281190877da4b4bf": {
+      "type": "instafeed",
+      "settings": {
+        "heading_font": "helvetica_n4",
+        "heading_size": 20,
+        "feed_width": 95,
+        "html_area": ""
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
-    "image_text"
+    "image_text",
+    "16281190877da4b4bf"
   ]
 }
