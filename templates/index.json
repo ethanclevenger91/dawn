@@ -109,6 +109,12 @@
         "feed_width": 95,
         "html_area": ""
       }
+    },
+    "16281192264530d9c8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div>&nbsp;<\/div>"
+      }
     }
   },
   "order": [
@@ -116,6 +122,7 @@
     "featured_products",
     "image_text",
     "16281191127f7c30d5",
-    "16281190877da4b4bf"
+    "16281190877da4b4bf",
+    "16281192264530d9c8"
   ]
 }
