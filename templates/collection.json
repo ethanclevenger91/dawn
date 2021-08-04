@@ -11,10 +11,11 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 16,
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
-        "show_vendor": false,
+        "show_image_outline": true,
+        "show_vendor": true,
         "enable_filtering": true,
         "enable_sorting": true,
         "collapse_on_larger_devices": false
