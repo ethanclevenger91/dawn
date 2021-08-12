@@ -1,14 +1,16 @@
 {
   "current": {
     "colors_accent_1": "#d64a28",
+    "colors_accent_2": "#924d26",
     "colors_text": "#434345",
     "colors_outline_button_labels": "#434345",
-    "colors_background_2": "rgba(0,0,0,0)",
-    "type_header_font": "neue_plak_n3",
+    "colors_background_2": "#ffecd1",
+    "type_header_font": "sans-serif",
     "type_body_font": "crimson_text_n4",
     "accent_icons": "text",
     "social_facebook_link": "https:\/\/facebook.com\/porterhouseclothing",
     "social_instagram_link": "https:\/\/instagram.com\/porterhouseclothing",
+    "favicon": "shopify:\/\/shop_images\/ph_web_head_textured_black.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -16,6 +18,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
+              "heading": "Welcome to our store",
               "color_scheme": "accent-1",
               "link": ""
             }
