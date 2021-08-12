@@ -81,6 +81,7 @@
   font-size: 1.4rem;
   line-height: 1.2;
   letter-spacing: 0.07rem;
+  font-family: var(--font-heading-family);
 }
 
 .shopify-payment-button__button--unbranded:hover,
@@ -252,7 +253,8 @@ a.product__text {
   margin-top: -1.5rem;
 }
 
-.product__text.caption-with-letter-spacing + .product__title {
+.product__text.caption-with-letter-spacing + .product__title,
+.product__text.uppercase + .product__title {
   margin-top: 0;
 }
 
