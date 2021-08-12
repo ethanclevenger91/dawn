@@ -35,7 +35,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/RGT_HERO_S.jpg",
         "desktop_text_box_position": "center",
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": true
       }
@@ -223,6 +223,21 @@
         "layout": "image_first"
       }
     },
+    "16288113190a56e667": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Summer Shirting",
+        "collection": "short-sleeve-shirts",
+        "products_to_show": 6,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true
+      }
+    },
     "16281191127f7c30d5": {
       "type": "rich-text",
       "blocks": {
@@ -256,6 +271,41 @@
       "settings": {
         "custom_liquid": "<div>&nbsp;<\/div>"
       }
+    },
+    "1628811602f5b491c4": {
+      "type": "image-with-text",
+      "blocks": {
+        "1628811602f5b491c4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Truman Boot"
+          }
+        },
+        "1628811602f5b491c4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Truman leather boots are built in here in Eugene, Oregon, and we're their only local retailer. For high-quality craftsmanship and a boot worth resoleing for years to come, look no further. Shop online now or drop by the store for a try-on.<\/p>"
+          }
+        },
+        "1628811602f5b491c4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Truman Boot",
+            "button_link": "shopify:\/\/collections\/truman-boot"
+          }
+        }
+      },
+      "block_order": [
+        "1628811602f5b491c4-0",
+        "1628811602f5b491c4-1",
+        "1628811602f5b491c4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Both-Crate-Metal-1-cropped.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -267,8 +317,10 @@
     "16288076191b5a1fb7",
     "image_text",
     "16288077053a9a5d56",
+    "16288113190a56e667",
     "16281191127f7c30d5",
     "16281190877da4b4bf",
-    "16281192264530d9c8"
+    "16281192264530d9c8",
+    "1628811602f5b491c4"
   ]
 }
