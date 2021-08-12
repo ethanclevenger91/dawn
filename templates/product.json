@@ -27,6 +27,20 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "ae065407-6136-400b-a6f0-0d595d57dd32": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "content": "<p>Items leave our shop Tuesday - Saturday. Shipping method can be selected at checkout. We offer USPS, UPS, and DHL for international shipments. Please double-check your size and review <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">our refund policy<\/a>. <\/p>",
+            "page": "",
+            "icon": "question_mark"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -44,23 +58,9 @@
             "show_dynamic_checkout": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
-          }
-        },
-        "ae065407-6136-400b-a6f0-0d595d57dd32": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & Returns",
-            "content": "<p>Items leave our shop Tuesday - Saturday. Shipping method can be selected at checkout. We offer USPS, UPS, and DHL for international shipments. Please double-check your size and review <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">our refund policy<\/a>. <\/p>",
-            "page": "",
-            "icon": "question_mark"
           }
         }
       },
@@ -69,12 +69,12 @@
         "title",
         "subtitle",
         "price",
+        "description",
+        "ae065407-6136-400b-a6f0-0d595d57dd32",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "share",
-        "ae065407-6136-400b-a6f0-0d595d57dd32"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
