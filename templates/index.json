@@ -6,14 +6,20 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "Rogue Territory In Stock Now"
+          }
+        },
+        "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
+          "type": "text",
+          "settings": {
+            "text": "Americana menswear made in Los Angeles, USA"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_label_1": "Shop Rogue Territory",
+            "button_link_1": "shopify:\/\/collections\/rogue-territory",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -23,21 +29,48 @@
       },
       "block_order": [
         "heading",
+        "c8db42a2-464a-407e-8bb2-ce24f8cad42b",
         "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/RGT_HERO_S.jpg",
         "desktop_text_box_position": "center",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": true
+      }
+    },
+    "1628807137d57ec9bb": {
+      "type": "rich-text",
+      "blocks": {
+        "1628807137d57ec9bb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop the Rogue Territory Collection",
+            "heading_size": "h1"
+          }
+        },
+        "1628807137d57ec9bb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our first foray into the Rogue Territory catalog focuses on pieces that fill holes in our current offerings.<br\/><br\/>The officer trouser in eye-catching nutmeg is a slim and stunning alternative to some of our current chinos. It goes with anything, so consider it a staple that belongs in your closet. The 15oz strong taper is the best fit yet in the shop for guys with big hips and slim calves. The denim is a proprietary fabric from Japan produced specifically for Rogue Territory. And the Waxed Supply Jacket, or the <a href=\"https:\/\/www.gearpatrol.com\/style\/a666322\/rogue-territory-james-bond\/\" target=\"_blank\" title=\"Gear Patrol article about James Bond jacket\">Bond Jacket<\/a>, is a year-round contender in Rogue Territory's lineup, and we'd be remiss to not have it in the shop.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1628807137d57ec9bb-0",
+        "1628807137d57ec9bb-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "collection": "",
+        "title": "",
+        "collection": "rogue-territory",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": false,
@@ -48,26 +81,106 @@
         "show_vendor": false
       }
     },
+    "16288074329a8902e0": {
+      "type": "rich-text",
+      "blocks": {
+        "16288074329a8902e0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Classic, durable and versatile menswear",
+            "heading_size": "h1"
+          }
+        },
+        "16288074329a8902e0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The modern man needs to dress to meet whatever the day might throw at him. From putting in the hours at the office or in the field, to a weekend excursion in the great outdoors, to drinks at the bar Friday night. If your clothes can get you to all three in style, you're ready for anything.<br\/><br\/>Porterhouse Clothing was founded for those men. With durable brands that wear in, not out, we're here to help guys look sharp doing everything.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16288074329a8902e0-0",
+        "16288074329a8902e0-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "162880743707132227": {
+      "type": "collage",
+      "blocks": {
+        "8b366dc2-5db2-4ee3-99e7-ad49f8587bc8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/152757985_424967245435593_2359371490356075800_n_1.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "a90b4d85-4449-4d1c-89b0-c1f7a09d27b2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1210225-resized.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "8e79859a-b8ad-4077-90c1-b642eb64dcd7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/149103690_171126867882176_599546203843072062_n.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "8b366dc2-5db2-4ee3-99e7-ad49f8587bc8",
+        "a90b4d85-4449-4d1c-89b0-c1f7a09d27b2",
+        "8e79859a-b8ad-4077-90c1-b642eb64dcd7"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
+        "mobile_layout": "column"
+      }
+    },
+    "16288076191b5a1fb7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Latest Arrivals",
+        "collection": "frontpage",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true
+      }
+    },
     "image_text": {
       "type": "image-with-text",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Denim Built to Last"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Like pre-1950s Levi's, the denim brands carried at Porterhouse are built to wear in, not out. Sewn on traditional shuttle looms, selvedge denim will put up with more and look better doing it. And because our brands are shipping raw, un-washed, un-distressed denim, no one gets to wear in your jeans before you do.<\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Shop Denim",
+            "button_link": "shopify:\/\/collections\/denim"
           }
         }
       },
@@ -77,6 +190,34 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Naked_and_Famous_selvedge_jeans.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16288077053a9a5d56": {
+      "type": "image-with-text",
+      "blocks": {
+        "16288077053a9a5d56-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Earn Rewards"
+          }
+        },
+        "16288077053a9a5d56-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You might notice there wasn't a popup offering you 15% off your first order. Instead, we like to reward our long-time customers. Earn $10 back in store credit for every $200 you spend with us, online and in-store. Redeem anywhere, anytime.<\/p><p>Get a head start by clicking that little present in the bottom-left corner.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16288077053a9a5d56-0",
+        "16288077053a9a5d56-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/141033765_523250715681965_7404227569025672185_n.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -119,8 +260,13 @@
   },
   "order": [
     "image_banner",
+    "1628807137d57ec9bb",
     "featured_products",
+    "16288074329a8902e0",
+    "162880743707132227",
+    "16288076191b5a1fb7",
     "image_text",
+    "16288077053a9a5d56",
     "16281191127f7c30d5",
     "16281190877da4b4bf",
     "16281192264530d9c8"
