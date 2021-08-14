@@ -238,40 +238,6 @@
         "show_vendor": true
       }
     },
-    "16281191127f7c30d5": {
-      "type": "rich-text",
-      "blocks": {
-        "16281191127f7c30d5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Latest from Instagram",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "16281191127f7c30d5-0"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": false
-      }
-    },
-    "16281190877da4b4bf": {
-      "type": "instafeed",
-      "settings": {
-        "heading_font": "helvetica_n4",
-        "heading_size": 20,
-        "feed_width": 95,
-        "html_area": ""
-      }
-    },
-    "16281192264530d9c8": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div>&nbsp;<\/div>"
-      }
-    },
     "1628811602f5b491c4": {
       "type": "image-with-text",
       "blocks": {
@@ -306,6 +272,40 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "16281191127f7c30d5": {
+      "type": "rich-text",
+      "blocks": {
+        "16281191127f7c30d5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Latest from Instagram",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16281191127f7c30d5-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": false
+      }
+    },
+    "16281190877da4b4bf": {
+      "type": "instafeed",
+      "settings": {
+        "heading_font": "helvetica_n4",
+        "heading_size": 20,
+        "feed_width": 95,
+        "html_area": ""
+      }
+    },
+    "16281192264530d9c8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div>&nbsp;<\/div>"
+      }
     }
   },
   "order": [
@@ -318,9 +318,9 @@
     "image_text",
     "16288077053a9a5d56",
     "16288113190a56e667",
+    "1628811602f5b491c4",
     "16281191127f7c30d5",
     "16281190877da4b4bf",
-    "16281192264530d9c8",
-    "1628811602f5b491c4"
+    "16281192264530d9c8"
   ]
 }
