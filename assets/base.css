@@ -2113,3 +2113,7 @@ details-disclosure > details {
   color: rgb(var(--color-foreground));
   word-break: break-word;
 }
+
+.esc-size-guide--title {
+  display:none;
+}
