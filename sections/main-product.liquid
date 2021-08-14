@@ -263,7 +263,7 @@
                   <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
                   <div class="product-form__buttons">
                     {% unless product.selected_or_first_available_variant.available %}
-                    	<a class="product-form__submit button button--full-width klaviyo-bis-trigger" href="#">Notify Me When Available</a>
+                    	<a class="product-form__submit button button--full-width button--secondary klaviyo-bis-trigger" href="#">Notify Me When Available</a>
                     {% endunless %}
                     <button
                       type="submit"
