@@ -27,6 +27,12 @@
           "settings": {
           }
         },
+        "a97d63b7-e61a-48b4-8b81-c98e3b27a37a": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{{ product.metafields.my_fields.short_description }}"
+          }
+        },
         "336c02db-a2f3-4a1e-8d12-98a0e28077b1": {
           "type": "custom_liquid",
           "settings": {
@@ -76,6 +82,7 @@
         "title",
         "subtitle",
         "price",
+        "a97d63b7-e61a-48b4-8b81-c98e3b27a37a",
         "336c02db-a2f3-4a1e-8d12-98a0e28077b1",
         "ae065407-6136-400b-a6f0-0d595d57dd32",
         "88abe9c6-eb6f-40d1-9d36-a5b8250f776a",
