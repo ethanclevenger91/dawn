@@ -262,6 +262,9 @@
                 {%- form 'product', product, id: product_form_id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' -%}
                   <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
                   <div class="product-form__buttons">
+                    {% unless product.selected_or_first_available_variant.available %}
+                    	<a class="button button--full-width klaviyo-bis-trigger" href="#">Notify Me When Available</a>
+                    {% endunless %}
                     <button
                       type="submit"
                       name="add"
@@ -274,9 +277,6 @@
                           {{ 'products.product.sold_out' | t }}
                         {%- endif -%}
                     </button>
-                    {% unless product.selected_or_first_available_variant.available %}
-                    	<a class="klaviyo-bis-trigger" href="#">Notify Me When Available</a>
-                    {% endunless %}
                     {%- if block.settings.show_dynamic_checkout -%}
                       {{ form | payment_button }}
                     {%- endif -%}
