@@ -6,20 +6,20 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Rogue Territory In Stock Now"
+            "heading": "Naked & Famous x Upstate Stock Watch Caps"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Americana menswear made in Los Angeles, USA"
+            "text": "Available now online. Available in-store 08\/24."
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Rogue Territory",
-            "button_link_1": "shopify:\/\/collections\/rogue-territory",
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/products\/upcycled-denim-watchcap",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -33,7 +33,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/RGT_HERO_S.jpg",
+        "image": "shopify:\/\/shop_images\/Upcycled_Denim_Watchcap_lifestyle_6_of_7_2.jpg",
         "desktop_text_box_position": "center",
         "color_scheme": "background-2",
         "stack_images_on_mobile": true,
