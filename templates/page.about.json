@@ -1,22 +1,8 @@
 {
   "sections": {
-    "1630178967f6fb3361": {
-      "type": "rich-text",
-      "blocks": {
-        "1630178967f6fb3361-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "About Porterhouse",
-            "heading_size": "h0"
-          }
-        }
-      },
-      "block_order": [
-        "1630178967f6fb3361-0"
-      ],
+    "main": {
+      "type": "main-page",
       "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
       }
     },
     "163017881973ce0266": {
@@ -136,19 +122,13 @@
         "color_scheme": "background-1",
         "layout": "text_first"
       }
-    },
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
     }
   },
   "order": [
-    "1630178967f6fb3361",
+    "main",
     "163017881973ce0266",
     "1630179008e537972d",
     "1630179880dc3556d7",
-    "163017988486549417",
-    "main"
+    "163017988486549417"
   ]
 }
