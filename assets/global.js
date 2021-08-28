@@ -606,7 +606,7 @@ class VariantSelects extends HTMLElement {
 
         if (price) price.classList.remove('visibility-hidden');
         this.toggleAddButton(!this.currentVariant.available, window.variantStrings.soldOut);
-        this.toggleNotifyButton(this.currentVariant.available);
+        // this.toggleNotifyButton(this.currentVariant.available);
     });
   }
 
