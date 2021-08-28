@@ -50,7 +50,7 @@
         "1630179008e537972d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Porterhouse Clothing & Supply was founded to give men a better option for clothing. Men deserve better than fast-fashion department stores, outlet malls, and overpriced suit stores. Porterhouse is here to connect men to the brands out there doing it right.<br\/><br\/>The brands we carry are creating classic, durable, versatile and sustainable clothes for the business casual guy, perfect for work, dates, and everything in between.<\/p>"
+            "text": "<p>Shopping online sucks, and Eugene, Oregon's best options for men's clothing were a Nordstrom (Rack) and J Crew (Mercantile). Porterhouse Clothing & Supply was founded to give the men of Eugene a better option. <\/p><p>You deserve better than fast-fashion department stores, outlet malls, and overpriced suit stores. Porterhouse is here to connect men to the brands out there doing it right.<\/p><p>Shop Porterhouse for brands creating classic, durable and versatile products.<br\/><\/p>"
           }
         }
       },
@@ -60,6 +60,50 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "1630180511748eaef5": {
+      "type": "multicolumn",
+      "blocks": {
+        "1630180511748eaef5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20200917_133911.jpg",
+            "title": "A Reliable Core",
+            "text": "<p>The heart of Porterhouse is menswear. We curate options core-first, helping our customers build a wardrobe that starts with well-built basics that won't go out of style. Selvedge denim, heavyweight tees and henleys, and well-built, solid-colored button-downs.<br\/><br\/><a href=\"\/collections\/core\" title=\"Core\">Shop Core Styles<\/a><\/p>"
+          }
+        },
+        "1630180511748eaef5-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1240916.jpg",
+            "title": "Seasonal Accents",
+            "text": "<p>Layered on top of our core goods come seasonal releases from each of our brands, prepping you for varying temps and adding a little flair to your wardrobe.<\/p><p>While the offerings swap out each season, anything you pick up should stay in style as long as it holds up.<br\/><br\/><a href=\"\/collections\/fall-winter-2021\" title=\"Fall\/Winter 2021\">Shop Autumn\/Winter 2021<\/a><\/p>"
+          }
+        },
+        "1630180511748eaef5-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/149103690_171126867882176_599546203843072062_n.jpg",
+            "title": "Finishing Touches",
+            "text": "<p>Finally, we carry the accessories, grooming products and home goods that keep you fresh. Boots, hats, gloves and ties to top off any outfit, shave goods and cologne to keep you fresh, and candles to make sure your home is welcoming to any and all guests.<br\/><br\/><a href=\"\/collections\/accessories\" title=\"Accessories\">Shop Accessories<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630180511748eaef5-0",
+        "1630180511748eaef5-1",
+        "1630180511748eaef5-2"
+      ],
+      "settings": {
+        "title": "Styling Our Customers",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "1630179880dc3556d7": {
@@ -128,6 +172,7 @@
     "main",
     "163017881973ce0266",
     "1630179008e537972d",
+    "1630180511748eaef5",
     "1630179880dc3556d7",
     "163017988486549417"
   ]
