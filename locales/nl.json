@@ -249,7 +249,7 @@
       "max_price": "De hoogste prijs is {{ price }}",
       "reset": "Opnieuw instellen",
       "to": "Tot",
-      "use_fewer_filters_html": "Minder filters gebruiken of <a class=\"{{ class }}\" href=\"{{ link }}\">alles wissen</a>",
+      "use_fewer_filters_html": "Minder filters gebruiken of <a class=\"{{ class }}\" href=\"{{ link }}\">alles wissen<\/a>",
       "filters_selected": {
         "one": "{{ count }} geselecteerd",
         "other": "{{ count }} geselecteerd"

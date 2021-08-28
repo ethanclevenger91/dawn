@@ -249,7 +249,7 @@
       "max_price": "O maior preço é {{ price }}",
       "reset": "Redefinir",
       "to": "Até",
-      "use_fewer_filters_html": "Usar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">limpar tudo</a>",
+      "use_fewer_filters_html": "Usar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">limpar tudo<\/a>",
       "filters_selected": {
         "one": "{{ count }} selecionado",
         "other": "{{ count }} selecionados"

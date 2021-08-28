@@ -76,7 +76,7 @@
     "of": "중",
     "skip_to_product_info": "제품 정보로 건너뛰기",
     "total_reviews": "총 리뷰",
-    "star_reviews_info": "별점: {{ rating_value }}/{{ rating_max }}"
+    "star_reviews_info": "별점: {{ rating_value }}\/{{ rating_max }}"
   },
   "blogs": {
     "article": {
@@ -245,7 +245,7 @@
       "max_price": "최고가는 {{ price }}입니다.",
       "reset": "재설정",
       "to": "최고가",
-      "use_fewer_filters_html": "더 적은 수의 필터를 사용하거나 <a class=\"{{ class }}\" href=\"{{ link }}\">모두 지우기</a>",
+      "use_fewer_filters_html": "더 적은 수의 필터를 사용하거나 <a class=\"{{ class }}\" href=\"{{ link }}\">모두 지우기<\/a>",
       "product_count": {
         "one": "{{ product_count }}\/{{ count }}개 제품",
         "other": "{{ product_count }}\/{{ count }}개 제품"
