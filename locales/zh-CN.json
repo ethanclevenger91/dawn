@@ -73,10 +73,10 @@
     "next_slide": "向右滑动",
     "previous_slide": "向左滑动",
     "loading": "正在加载…",
-    "of": "/",
+    "of": "\/",
     "skip_to_product_info": "跳至产品信息",
     "total_reviews": "总评论数",
-    "star_reviews_info": "{{ rating_value }}/{{ rating_max }} 星"
+    "star_reviews_info": "{{ rating_value }}\/{{ rating_max }} 星"
   },
   "blogs": {
     "article": {
@@ -245,7 +245,7 @@
       "max_price": "最高价格为 {{ price }}",
       "reset": "重置",
       "to": "到",
-      "use_fewer_filters_html": "减少使用的筛选条件数量或<a class=\"{{ class }}\" href=\"{{ link }}\">清除所有内容</a>",
+      "use_fewer_filters_html": "减少使用的筛选条件数量或<a class=\"{{ class }}\" href=\"{{ link }}\">清除所有内容<\/a>",
       "product_count": {
         "one": "{{ product_count }}\/{{ count }} 件产品",
         "other": "{{ product_count }}\/{{ count }} 件产品"
