@@ -627,6 +627,17 @@ class VariantSelects extends HTMLElement {
     if (!modifyClass) return;
   }
 
+  toggleNotifyButton(disable = true) {
+    const kbutton = document.getElementById('klaviyo-bis-trigger');
+    if (!kbutton) return;
+
+    if (disable) {
+        kbutton.classList.add('hidden');
+    } else {
+        kbutton.classList.remove('hidden');
+    }
+  }
+
   setUnavailable() {
     const button = document.getElementById(`product-form-${this.dataset.section}`);
     const addButton = button.querySelector('[name="add"]');
