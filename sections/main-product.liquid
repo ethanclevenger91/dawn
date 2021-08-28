@@ -273,7 +273,7 @@
                   <div class="product-form__buttons">
                     {% if product.tags contains 'Core' %}
                       {% unless product.selected_or_first_available_variant.available %}
-                          <a class="product-form__submit button button--full-width button--secondary klaviyo-bis-trigger" href="#">Notify Me When Available</a>
+                          <a id="klaviyo-bis-trigger" class="product-form__submit button button--full-width button--secondary klaviyo-bis-trigger" href="#">Notify Me When Available</a>
                       {% endunless %}
                     {% endif %}
                     <button
