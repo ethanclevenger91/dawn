@@ -91,7 +91,7 @@
           "type": "column",
           "settings": {
             "title": "Visiting Porterhouse at the Quackenbush",
-            "text": "<p>Porterhouse Clothing is located in downtown Eugene, Oregon in the historic Quackenbush Hardware storefront in the Broadway & Pearl shopping district.<br\/><br\/>Free customer parking is available behind the building off of Broadway Alley. Head South on Pearl from Broadway and turn right in front of Dark Pine Coffee.<br\/><br\/>While you're here, be sure to visit some of our wonderful neighbors. You can find more information via the Downtown Eugene, Inc. website.<\/p>"
+            "text": "<p>Porterhouse Clothing is located in downtown Eugene, Oregon in the historic Quackenbush Hardware storefront in the Broadway & Pearl shopping district.<br\/><br\/>Free customer parking is available behind the building off of Broadway Alley. Head South on Pearl from Broadway and turn right in front of Dark Pine Coffee.<br\/><br\/>While you're here, be sure to visit some of our wonderful neighbors. You can find more information via <a href=\"https:\/\/www.downtowneugene.com\/\" target=\"_blank\" title=\"https:\/\/www.downtowneugene.com\/\">the Downtown Eugene, Inc. website<\/a>.<\/p>"
           }
         }
       },
@@ -104,45 +104,37 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
     },
-    "16301790124ad8dfec": {
+    "163017988486549417": {
       "type": "image-with-text",
       "blocks": {
-        "16301790124ad8dfec-0": {
+        "163017988486549417-0": {
           "type": "heading",
           "settings": {
-            "heading": "Visiting Porterhouse at the Quackenbush"
+            "heading": "What's a Porterhouse?"
           }
         },
-        "16301790124ad8dfec-1": {
+        "163017988486549417-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Porterhouse Clothing is located in downtown Eugene, Oregon in the historic Quackenbush Hardware storefront in the Broadway & Pearl shopping district.<br\/><br\/>Free customer parking is available behind the building off of Broadway Alley. Head South on Pearl from Broadway and turn right in front of Dark Pine Coffee.<br\/><br\/>While you're here, be sure to visit some of our wonderful neighbors. You can find more information via <a href=\"https:\/\/www.downtowneugene.com\/\" target=\"_blank\" title=\"https:\/\/www.downtowneugene.com\/\">the Downtown Eugene, Inc. website.<\/a><\/p>"
-          }
-        },
-        "40e11652-915c-4365-ac63-fb6d569f89b1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Directions",
-            "button_link": "https:\/\/www.google.com\/maps\/dir\/\/Porterhouse+Clothing+%26+Supply,+160+E+Broadway+Ste+A,+Eugene,+OR+97401\/@44.0496523,-123.0925052,17z\/data=!4m9!4m8!1m0!1m5!1m1!1s0x54c11d292b6983b1:0x2947fa2cd04cbbe5!2m2!1d-123.0903031!2d44.0498242!3e0"
+            "text": "<p>Meet Porterhouse, late live mascot at Porterhouse Clothing owner Ethan Clevenger's alma mater Drake University. Photo courtesy Drake University.<\/p>"
           }
         }
       },
       "block_order": [
-        "16301790124ad8dfec-0",
-        "16301790124ad8dfec-1",
-        "40e11652-915c-4365-ac63-fb6d569f89b1"
+        "163017988486549417-0",
+        "163017988486549417-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/192339095_483260442934894_2592894689497455289_n.jpg",
+        "image": "shopify:\/\/shop_images\/11635918785_a8240a6d94_b_bd3af45b-3a4e-4219-81c2-f54081462261.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "main": {
@@ -156,7 +148,7 @@
     "163017881973ce0266",
     "1630179008e537972d",
     "1630179880dc3556d7",
-    "16301790124ad8dfec",
+    "163017988486549417",
     "main"
   ]
 }
