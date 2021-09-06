@@ -17,6 +17,19 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "32faf69c-25f4-402a-8033-554ce7a53397": {
+            "type": "announcement",
+            "settings": {
+              "text": "Labor Day Only - 30% off existing markdowns (applied automatically) and 20% off spring\/summer 2021 items (code \"LABORDAYSS21\")",
+              "color_scheme": "accent-1",
+              "link": "https:\/\/porterhouseclothing.com\/discount\/LABORDAYSS21?redirect=%2Fcollections%2Fspring-summer-2021"
+            }
+          }
+        },
+        "block_order": [
+          "32faf69c-25f4-402a-8033-554ce7a53397"
+        ],
         "settings": {
         }
       },
