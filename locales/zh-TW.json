@@ -51,9 +51,6 @@
       "close": "關閉分享"
     }
   },
-  "date_formats": {
-    "month_year": "%B %Y"
-  },
   "newsletter": {
     "label": "電子郵件",
     "success": "感謝您訂閱",
@@ -161,7 +158,9 @@
         "other": "找到「{{ terms }}」，共 {{ count }} 筆"
       },
       "title": "搜尋結果",
-      "page": "頁面"
+      "page": "頁面",
+      "products": "產品",
+      "search_for": "搜尋「{{ terms }}」"
     },
     "cart": {
       "cart": "購物車"

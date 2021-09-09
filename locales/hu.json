@@ -51,9 +51,6 @@
       "close": "Megosztás befejezése"
     }
   },
-  "date_formats": {
-    "month_year": "%Y. %B"
-  },
   "newsletter": {
     "label": "E-mail-cím",
     "success": "Köszönjük a feliratkozást",
@@ -161,7 +158,9 @@
         "other": "{{ count }} találat erre: {{ terms }}"
       },
       "title": "Találatok",
-      "page": "Oldal"
+      "page": "Oldal",
+      "products": "Termékek",
+      "search_for": "Keresés erre: {{ terms }}"
     },
     "cart": {
       "cart": "Kosár"

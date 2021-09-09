@@ -51,9 +51,6 @@
       "close": "Delen sluiten"
     }
   },
-  "date_formats": {
-    "month_year": "%B %Y"
-  },
   "newsletter": {
     "label": "E‑mail",
     "success": "Bedankt voor het abonneren",
@@ -161,7 +158,9 @@
         "other": "{{ count }} resultaten gevonden voor “{{ terms }}”"
       },
       "title": "Zoekresultaten",
-      "page": "Pagina"
+      "page": "Pagina",
+      "products": "Producten",
+      "search_for": "Zoeken naar '{{ terms }}'"
     },
     "cart": {
       "cart": "Winkelwagen"

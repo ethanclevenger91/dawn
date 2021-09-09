@@ -51,9 +51,6 @@
       "close": "Chiudi condivisione"
     }
   },
-  "date_formats": {
-    "month_year": "%B %Y"
-  },
   "newsletter": {
     "label": "Indirizzo email",
     "success": "Grazie per l'iscrizione",
@@ -161,7 +158,9 @@
         "one": "{{ count }} risultati trovati per \"{{ terms }}\"",
         "other": "{{ count }} risultati trovati per \"{{ terms }}\""
       },
-      "title": "Risultati della ricerca"
+      "title": "Risultati della ricerca",
+      "products": "Prodotti",
+      "search_for": "Cerca \"{{ terms }}\""
     },
     "cart": {
       "cart": "Carrello"

@@ -51,9 +51,6 @@
       "close": "共有を閉じる"
     }
   },
-  "date_formats": {
-    "month_year": "%Y年%-m月%"
-  },
   "newsletter": {
     "label": "メール",
     "success": "ご登録ありがとうございます",
@@ -161,7 +158,9 @@
         "other": "「{{ terms }}」の検索結果{{ count }}件"
       },
       "title": "検索結果",
-      "page": "ページ"
+      "page": "ページ",
+      "products": "商品管理",
+      "search_for": "「{{ terms }}」を検索"
     },
     "cart": {
       "cart": "カート"

@@ -51,9 +51,6 @@
       "close": "Fermer le partage"
     }
   },
-  "date_formats": {
-    "month_year": "%b %Y"
-  },
   "newsletter": {
     "label": "E-mail",
     "success": "Merci de votre inscription",
@@ -161,7 +158,9 @@
         "other": "{{ count }} résultats trouvés pour « {{ terms }} »"
       },
       "title": "Résultats de la recherche",
-      "page": "Page"
+      "page": "Page",
+      "products": "Produits",
+      "search_for": "Rechercher « {{ terms }} »"
     },
     "cart": {
       "cart": "Panier"

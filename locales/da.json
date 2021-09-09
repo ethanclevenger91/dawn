@@ -51,9 +51,6 @@
       "close": "Luk deling"
     }
   },
-  "date_formats": {
-    "month_year": "%B %Y"
-  },
   "newsletter": {
     "label": "Mail",
     "success": "Tak, fordi du har tegnet et abonnement",
@@ -161,7 +158,9 @@
         "other": "Der blev fundet {{ count }} resultater for “{{ terms }}”"
       },
       "title": "Søgeresultater",
-      "page": "Side"
+      "page": "Side",
+      "products": "Produkter",
+      "search_for": "Søg efter \"{{ terms }}\""
     },
     "cart": {
       "cart": "Indkøbskurv"

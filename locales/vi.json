@@ -51,9 +51,6 @@
       "close": "Đóng cửa sổ chia sẻ"
     }
   },
-  "date_formats": {
-    "month_year": "%B %Y"
-  },
   "newsletter": {
     "label": "Email",
     "success": "Cảm ơn bạn đã đăng ký",
@@ -161,7 +158,9 @@
         "other": "Tìm thấy {{ count }} kết quả cho “{{ terms }}”"
       },
       "title": "Kết quả tìm kiếm",
-      "page": "Trang"
+      "page": "Trang",
+      "products": "Sản phẩm",
+      "search_for": "Tìm kiếm “{{ terms }}”"
     },
     "cart": {
       "cart": "Giỏ hàng"

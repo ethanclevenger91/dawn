@@ -51,9 +51,6 @@
       "close": "Paylaşımı kapat"
     }
   },
-  "date_formats": {
-    "month_year": "%B %Y"
-  },
   "newsletter": {
     "label": "E-posta",
     "success": "Abone olduğunuz için teşekkür ederiz",
@@ -161,7 +158,9 @@
         "other": "\"{{ terms }}\" için {{ count }} sonuç bulundu"
       },
       "title": "Arama sonuçları",
-      "page": "Sayfa"
+      "page": "Sayfa",
+      "products": "Ürünler",
+      "search_for": "\"{{ terms }}\" için arama yap"
     },
     "cart": {
       "cart": "Sepet"
