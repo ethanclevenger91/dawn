@@ -563,7 +563,7 @@
         },
         "show_rating": {
           "label": "显示产品评分",
-          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -1102,7 +1102,7 @@
         },
         "show_rating": {
           "label": "显示产品评分",
-          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1418,7 +1418,7 @@
           "name": "产品评分",
           "settings": {
             "paragraph": {
-              "content": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+              "content": "若要显示评分，请添加产品评分应用。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-rating-block)"
             }
           }
         }
@@ -1480,7 +1480,7 @@
         },
         "show_rating": {
           "label": "显示产品评分",
-          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1680,7 +1680,7 @@
         },
         "show_rating": {
           "label": "显示产品评分",
-          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1883,7 +1883,7 @@
           "name": "产品评分",
           "settings": {
             "paragraph": {
-              "content": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
+              "content": "若要显示评分，请添加产品评分应用。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-product-rating)"
             }
           }
         }

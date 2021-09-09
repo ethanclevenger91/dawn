@@ -563,7 +563,7 @@
         },
         "show_rating": {
           "label": "제품 평점 표시",
-          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
+          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -1102,7 +1102,7 @@
         },
         "show_rating": {
           "label": "제품 평점 표시",
-          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
+          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1418,7 +1418,7 @@
           "name": "제품 평점",
           "settings": {
             "paragraph": {
-              "content": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+              "content": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-rating-block)"
             }
           }
         }
@@ -1480,7 +1480,7 @@
         },
         "show_rating": {
           "label": "제품 평점 표시",
-          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
+          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1680,7 +1680,7 @@
         },
         "show_rating": {
           "label": "제품 평점 표시",
-          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
+          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1883,7 +1883,7 @@
           "name": "제품 평점",
           "settings": {
             "paragraph": {
-              "content": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
+              "content": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-product-rating)"
             }
           }
         }

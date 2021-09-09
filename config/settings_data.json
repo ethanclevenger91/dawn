@@ -10,6 +10,7 @@
     "accent_icons": "text",
     "social_facebook_link": "https:\/\/facebook.com\/porterhouseclothing",
     "social_instagram_link": "https:\/\/instagram.com\/porterhouseclothing",
+    "predictive_search_show_vendor": true,
     "favicon": "shopify:\/\/shop_images\/ph_web_head_textured_black.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/ph_web_full-logo_textured_black_b304ed38-2581-4abf-9296-056a4243b16a.png",
     "checkout_accent_color": "#d64a28",
@@ -23,6 +24,7 @@
       "header": {
         "type": "header",
         "settings": {
+          "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/ph_web_full-logo_textured_black_b304ed38-2581-4abf-9296-056a4243b16a.png",
           "logo_width": 140,
           "logo_position": "middle-left",

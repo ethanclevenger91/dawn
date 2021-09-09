@@ -558,7 +558,7 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
-          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -1091,7 +1091,7 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
-          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1407,7 +1407,7 @@
           "name": "Productbeoordeling",
           "settings": {
             "paragraph": {
-              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-rating-block)"
             }
           }
         }
@@ -1469,7 +1469,7 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
-          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1665,7 +1665,7 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
-          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1867,7 +1867,7 @@
           "name": "Productbeoordeling",
           "settings": {
             "paragraph": {
-              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
+              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-product-rating)"
             }
           }
         }
