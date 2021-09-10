@@ -6,20 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Naked & Famous x Upstate Stock Watch Caps"
+            "heading": "Portuguese Flannel Fall\/Winter 21' Collection",
+            "heading_size": "medium"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Available now online. Available in-store 08\/24."
+            "text": "19 New Styles. Available now."
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/products\/upcycled-denim-watchcap",
+            "button_link_1": "https:\/\/porterhouseclothing.com\/search?q=Portuguese+Flannel+AW21&options%5Bprefix%5D=last",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -33,11 +34,14 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Upcycled_Denim_Watchcap_lifestyle_6_of_7_2.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF4849.jpg",
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
         "color_scheme": "background-2",
         "stack_images_on_mobile": true,
-        "adapt_height_first_image": true
+        "show_text_below": true
       }
     },
     "1628807137d57ec9bb": {
@@ -78,7 +82,8 @@
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "16288074329a8902e0": {
@@ -158,7 +163,8 @@
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": true
+        "show_vendor": true,
+        "show_rating": false
       }
     },
     "image_text": {
@@ -235,7 +241,8 @@
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": true
+        "show_vendor": true,
+        "show_rating": false
       }
     },
     "1628811602f5b491c4": {
