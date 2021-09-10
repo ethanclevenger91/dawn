@@ -44,48 +44,6 @@
         "show_text_below": true
       }
     },
-    "1628807137d57ec9bb": {
-      "type": "rich-text",
-      "blocks": {
-        "1628807137d57ec9bb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Shop the Rogue Territory Collection",
-            "heading_size": "h1"
-          }
-        },
-        "1628807137d57ec9bb-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our first foray into the Rogue Territory catalog focuses on pieces that fill holes in our current offerings.<br\/><br\/>The officer trouser in eye-catching nutmeg is a slim and stunning alternative to some of our current chinos. It goes with anything, so consider it a staple that belongs in your closet. The 15oz strong taper is the best fit yet in the shop for guys with big hips and slim calves. The denim is a proprietary fabric from Japan produced specifically for Rogue Territory. And the Waxed Supply Jacket, or the <a href=\"https:\/\/www.gearpatrol.com\/style\/a666322\/rogue-territory-james-bond\/\" target=\"_blank\" title=\"Gear Patrol article about James Bond jacket\">Bond Jacket<\/a>, is a year-round contender in Rogue Territory's lineup, and we'd be remiss to not have it in the shop.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1628807137d57ec9bb-0",
-        "1628807137d57ec9bb-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "rogue-territory",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "16288074329a8902e0": {
       "type": "rich-text",
       "blocks": {
@@ -110,6 +68,33 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "16312348604f33da59": {
+      "type": "image-with-text",
+      "blocks": {
+        "46e3e185-32d9-4cc2-b51a-2a6ac7f15d2f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Words of Wisdom..."
+          }
+        },
+        "16312348604f33da59-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Just had the greatest clothing purchase experience of my life. The sales associate was very knowledgeable and friendly. He was patient and helpful throughout the entire process. To any man wanting to experience what true customer service is all about, and complete their wardrobe, head to Porterhouse. You WON'T be disappointed.<\/p><p><em>- James, a smart fella<\/em><\/p><p><br\/><br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "46e3e185-32d9-4cc2-b51a-2a6ac7f15d2f",
+        "16312348604f33da59-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/P1090598.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "162880743707132227": {
@@ -232,9 +217,9 @@
     "16288113190a56e667": {
       "type": "featured-collection",
       "settings": {
-        "title": "Summer Shirting",
-        "collection": "short-sleeve-shirts",
-        "products_to_show": 6,
+        "title": "Outerwear made to last",
+        "collection": "outerwear",
+        "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": false,
         "image_ratio": "adapt",
@@ -317,9 +302,8 @@
   },
   "order": [
     "image_banner",
-    "1628807137d57ec9bb",
-    "featured_products",
     "16288074329a8902e0",
+    "16312348604f33da59",
     "162880743707132227",
     "16288076191b5a1fb7",
     "image_text",
