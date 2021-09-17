@@ -40,7 +40,7 @@
             "type": "text",
             "settings": {
               "heading": "At The Quackenbush",
-              "subtext": "<p>160 E Broadway Ste A<br\/>Eugene, OR 97401<br\/><br\/><strong>Tu-Fr<\/strong> 11am-6pm<br\/><strong>Sa<\/strong> 10am-6pm<br\/><strong>Su<\/strong> + Mo Closed<\/p>"
+              "subtext": "<p>160 E Broadway Ste A<br\/>Eugene, OR 97401<br\/><br\/><strong>Tu-Fr<\/strong> 11am-6pm<br\/><strong>Sa<\/strong> 10am-6pm<br\/><strong>Su + Mo<\/strong> Closed<\/p>"
             }
           },
           "footer-0": {
