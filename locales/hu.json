@@ -159,8 +159,8 @@
       },
       "max_price": "A legmagasabb ár {{ price }}",
       "product_count": {
-        "one": "{{ count }}/{{ product_count }} termék",
-        "other": "{{ count }}/{{ product_count }} termék"
+        "one": "{{ count }}\/{{ product_count }} termék",
+        "other": "{{ count }}\/{{ product_count }} termék"
       },
       "product_count_simple": {
         "one": "{{ count }} termék",
@@ -263,7 +263,7 @@
     "collection_template": {
       "title": "Kollekció",
       "empty": "Nincs találat",
-      "use_fewer_filters_html": "Használj kevesebb szűrőt, vagy <a class=\"{{ class }}\" href=\"{{ link }}\">töröld az összeset</a>."
+      "use_fewer_filters_html": "Használj kevesebb szűrőt, vagy <a class=\"{{ class }}\" href=\"{{ link }}\">töröld az összeset<\/a>."
     },
     "video": {
       "load_video": "Videó betöltése: {{ description }}"

@@ -281,7 +281,7 @@
         "many": "{{ product_count }} из {{ count }} прод."
       },
       "empty": "Продукты не найдены",
-      "use_fewer_filters_html": "Используйте меньше фильтров или <a class=\"{{ class }}\" href=\"{{ link }}\">удалите фильтры</a>",
+      "use_fewer_filters_html": "Используйте меньше фильтров или <a class=\"{{ class }}\" href=\"{{ link }}\">удалите фильтры<\/a>",
       "filters_selected": {
         "few": "Выбрано: {{ count }}",
         "many": "Выбрано: {{ count }}"

@@ -277,7 +277,7 @@
     "collection_template": {
       "title": "Kolekcia",
       "empty": "Nenašli sa žiadne produkty",
-      "use_fewer_filters_html": "Použiť menej filtrov alebo <a class=\"{{ class }}\" href=\"{{ link }}\">vymazať všetko</a>",
+      "use_fewer_filters_html": "Použiť menej filtrov alebo <a class=\"{{ class }}\" href=\"{{ link }}\">vymazať všetko<\/a>",
       "product_count": {
         "few": "Produkty {{ product_count }} z {{ count }}",
         "many": "Produkty {{ product_count }} z {{ count }}"

@@ -3,6 +3,7 @@
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
+        "show_vendor": true
       }
     },
     "cart-footer": {
@@ -24,13 +25,23 @@
         "buttons"
       ],
       "settings": {
+        "show_cart_note": false
       }
     },
     "featured-products": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all",
-        "image_ratio": "square"
+        "title": "Our Best SEllers",
+        "collection": "everyday-carry",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_rating": false
       }
     }
   },

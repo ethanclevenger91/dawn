@@ -258,9 +258,9 @@
       "view_all": "View all"
     },
     "collection_template": {
-      "empty": "No products found", 
+      "empty": "No products found",
       "title": "Collection",
-      "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">clear all</a>"
+      "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">clear all<\/a>"
     },
     "video": {
       "load_video": "Load video: {{ description }}"
