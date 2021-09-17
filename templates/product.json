@@ -74,6 +74,7 @@
         "share": {
           "type": "share",
           "settings": {
+            "share_label": "Share"
           }
         }
       },
@@ -93,6 +94,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "hide_variants": false,
         "enable_video_looping": false
       }
     },
@@ -103,8 +105,9 @@
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": true
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_rating": false
       }
     }
   },
