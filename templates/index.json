@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Portuguese Flannel Fall\/Winter '21 Collection",
+            "heading": "Universal Works Fall\/Winter '21 Collection",
             "heading_size": "medium"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "19 New Styles. Available now."
+            "text": "Available now."
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "https:\/\/porterhouseclothing.com\/search?q=Portuguese+Flannel+AW21&options%5Bprefix%5D=last",
+            "button_link_1": "shopify:\/\/collections\/universal-works",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -34,7 +34,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF4849_2.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF6387_1.jpg",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
