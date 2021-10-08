@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "Fonte",
-          "info": "A seleção de uma fonte diferente pode afetar a velocidade da loja. [Saiba mais sobre as fontes do sistema.](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "A seleção de uma fonte diferente pode afetar a velocidade da loja. [Saiba mais sobre as fontes do sistema.](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "Escala de tamanho da fonte"
@@ -479,7 +479,7 @@
         },
         "show_image": {
           "label": "Exibir imagem em destaque",
-          "info": "Use uma imagem com proporção 2:3 para ter os melhores resultados. [Saiba mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Use uma imagem com proporção 2:3 para ter os melhores resultados. [Saiba mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "soft_background": {
           "label": "Exibir plano de fundo secundário"
@@ -907,7 +907,7 @@
               "options__4": {
                 "label": "Grande"
               },
-              "info": "Use uma imagem com proporção 16:9 para ter os melhores resultados. [Saiba mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+              "info": "Use uma imagem com proporção 16:9 para ter os melhores resultados. [Saiba mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
             }
           }
         },
@@ -949,7 +949,7 @@
         },
         "show_image": {
           "label": "Exibir imagem em destaque",
-          "info": "Use uma imagem com proporção 2:3 para ter os melhores resultados. [Saiba mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Use uma imagem com proporção 2:3 para ter os melhores resultados. [Saiba mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "paragraph": {
           "content": "Edite os posts do blog para alterar os resumos. [Saiba mais](https:\/\/help.shopify.com\/en\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "Grande"
           },
-          "info": "Use uma imagem com proporção 2:3 para ter os melhores resultados. [Saiba mais.](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Use uma imagem com proporção 2:3 para ter os melhores resultados. [Saiba mais.](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },
@@ -1022,7 +1022,7 @@
         },
         "show_collection_image": {
           "label": "Exibir imagem da coleção",
-          "info": "Use uma imagem com proporção 16:9 para ter os melhores resultados. [Saiba mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Use uma imagem com proporção 16:9 para ter os melhores resultados. [Saiba mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

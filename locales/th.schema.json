@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "แบบอักษร",
-          "info": "การเลือกแบบอักษรอื่นอาจส่งผลต่อความเร็วของร้านค้าได้ [ดูข้อมูลเพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "การเลือกแบบอักษรอื่นอาจส่งผลต่อความเร็วของร้านค้าได้ [ดูข้อมูลเพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "ขนาดแบบอักษร"
@@ -903,7 +903,7 @@
               "options__3": {
                 "label": "ปานกลาง"
               },
-              "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "ใหญ่"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "ใหญ่"
           },
-          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 2:3 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 2:3 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

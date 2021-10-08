@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "Typsnitt",
-          "info": "Om du väljer ett annat typsnitt kan det påverka butikshastigheten. [Lär dig mer om typsnitt i system.](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Om du väljer ett annat typsnitt kan det påverka butikshastigheten. [Lär dig mer om typsnitt i system.](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "Skala för teckenstorlek"
@@ -903,7 +903,7 @@
               "options__3": {
                 "label": "Medel"
               },
-              "info": "Använd en bild med bildformat 16:9, för bästa resultat. [Mer information](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "Använd en bild med bildformat 16:9, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "Stor"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "Stor"
           },
-          "info": "Använd en bild med bildformat 2:3, för bästa resultat. [Mer information](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Använd en bild med bildformat 2:3, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "字体",
-          "info": "选择其他字体可能会影响您商店的速度。[详细了解系统字体。](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "选择其他字体可能会影响您商店的速度。[详细了解系统字体。](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "字号比例"
@@ -903,7 +903,7 @@
               "options__3": {
                 "label": "中"
               },
-              "info": "若要获得最佳效果，请使用纵横比为 16:9 的图片。[了解详细信息](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "若要获得最佳效果，请使用纵横比为 16:9 的图片。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "大"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "大"
           },
-          "info": "若要获得最佳效果，请使用纵横比为 2:3 的图片。[了解详细信息](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若要获得最佳效果，请使用纵横比为 2:3 的图片。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

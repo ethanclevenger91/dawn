@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "글꼴",
-          "info": "다른 글꼴을 선택하면 스토어 속도가 영향을 받을 수 있습니다. [시스템 글꼴에 대해 자세히 알아보십시오.](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "다른 글꼴을 선택하면 스토어 속도가 영향을 받을 수 있습니다. [시스템 글꼴에 대해 자세히 알아보십시오.](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "글꼴 크기 배율"
@@ -903,7 +903,7 @@
               "options__3": {
                 "label": "보통"
               },
-              "info": "최고의 결과를 얻으려면 이미지의 가로 세로 비율을 16:9로 사용하십시오. [자세히 알아보기](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "최고의 결과를 얻으려면 이미지의 가로 세로 비율을 16:9로 사용하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "크게"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "크게"
           },
-          "info": "최고의 결과를 얻으려면 이미지의 가로 세로 비율을 2:3으로 사용하십시오. [자세히 알아보기](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "최고의 결과를 얻으려면 이미지의 가로 세로 비율을 2:3으로 사용하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

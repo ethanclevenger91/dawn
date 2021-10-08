@@ -7,7 +7,7 @@
       "login_form_password_placeholder": "您的密码",
       "login_form_error": "密码错误！",
       "login_form_submit": "输入",
-      "admin_link_html": "您是否是店主？<a href=\"/admin\" class=\"link underlined-link\">在此处登录</a>",
+      "admin_link_html": "您是否是店主？<a href=\"\/admin\" class=\"link underlined-link\">在此处登录<\/a>",
       "powered_by_shopify_html": "此商店由 {{ shopify }} 提供支持"
     },
     "social": {
@@ -139,7 +139,7 @@
       },
       "view_full_details": "查看完整详细信息",
       "include_taxes": "含税费。",
-      "shipping_policy_html": "结账时计算的<a href=\"{{ link }}\">运费</a>。"
+      "shipping_policy_html": "结账时计算的<a href=\"{{ link }}\">运费<\/a>。"
     },
     "modal": {
       "label": "媒体图库"

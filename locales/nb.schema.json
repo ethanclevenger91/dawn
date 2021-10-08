@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "Skrifttype",
-          "info": "Dersom du velger en annen skrifttype kan det påvirke hastigheten i butikken. [Finn ut mer om systemskrifter.](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Dersom du velger en annen skrifttype kan det påvirke hastigheten i butikken. [Finn ut mer om systemskrifter.](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "Skriftstørrelsens skala"
@@ -904,7 +904,7 @@
               "options__3": {
                 "label": "Middels"
               },
-              "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "Stor"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "Stor"
           },
-          "info": "Bruk et bilde med størrelsesforhold 2:3 for best resultat. [Finn ut mer](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Bruk et bilde med størrelsesforhold 2:3 for best resultat. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

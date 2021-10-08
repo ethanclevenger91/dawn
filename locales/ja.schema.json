@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "フォント",
-          "info": "異なるフォントを選択すると、ストアの速度に影響を与える可能性があります。[システムフォントについて詳しく知る。](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "異なるフォントを選択すると、ストアの速度に影響を与える可能性があります。[システムフォントについて詳しく知る。](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "フォント・サイズ・スケール"
@@ -903,7 +903,7 @@
               "options__3": {
                 "label": "中"
               },
-              "info": "画像のアスペクト比が16:9のものを使用すると最適です。[詳しくはこちら](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "画像のアスペクト比が16:9のものを使用すると最適です。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "大"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "大"
           },
-          "info": "画像のアスペクト比が2:3のものを使用すると最適です。[詳しくはこちら](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "画像のアスペクト比が2:3のものを使用すると最適です。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

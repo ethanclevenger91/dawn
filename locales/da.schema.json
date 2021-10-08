@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "Skrifttype",
-          "info": "Valget af en anden skrifttype kan påvirke hastigheden i din butik. [Få mere at vide om systemskrifttyper.](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Valget af en anden skrifttype kan påvirke hastigheden i din butik. [Få mere at vide om systemskrifttyper.](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "Størrelsesskala for skrifttype"
@@ -904,7 +904,7 @@
               "options__3": {
                 "label": "Medium"
               },
-              "info": "Brug et billede med et højde-bredde-forhold på 16:9 for at opnå det bedste resultat. [Få mere at vide](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "Brug et billede med et højde-bredde-forhold på 16:9 for at opnå det bedste resultat. [Få mere at vide](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "Stor"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "Stor"
           },
-          "info": "Brug et billede med et højde-bredde-forhold på 2:3 for at opnå det bedste resultat. [Få mere at vide](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Brug et billede med et højde-bredde-forhold på 2:3 for at opnå det bedste resultat. [Få mere at vide](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

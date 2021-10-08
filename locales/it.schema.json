@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "Font",
-          "info": "La selezione di un font diverso può influenzare la velocità del tuo negozio. [Maggiori informazioni sui font di sistema.](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "La selezione di un font diverso può influenzare la velocità del tuo negozio. [Maggiori informazioni sui font di sistema.](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "Scalabilità dimensione font"
@@ -904,7 +904,7 @@
               "options__3": {
                 "label": "Media"
               },
-              "info": "Per un risultato ottimale utilizza un'immagine con proporzioni 16:9. [Maggiori informazioni](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "Per un risultato ottimale utilizza un'immagine con proporzioni 16:9. [Maggiori informazioni](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "Grande"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "Grande"
           },
-          "info": "Per un risultato ottimale, utilizza un'immagine con proporzioni 2:3. [Maggiori informazioni](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Per un risultato ottimale, utilizza un'immagine con proporzioni 2:3. [Maggiori informazioni](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

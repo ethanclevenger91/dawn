@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "Tipo de letra",
-          "info": "Selecionar um tipo de letra diferente pode afetar a velocidade da sua loja. [Saiba mais sobre tipos de letra do sistema.](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Selecionar um tipo de letra diferente pode afetar a velocidade da sua loja. [Saiba mais sobre tipos de letra do sistema.](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "Escala de tamanho do tipo de letra"
@@ -903,7 +903,7 @@
               "options__3": {
                 "label": "Médio"
               },
-              "info": "Para obter os melhores resultados, utilize uma imagem com uma proporção de 16:9. [Saber mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "Para obter os melhores resultados, utilize uma imagem com uma proporção de 16:9. [Saber mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "Grande"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "Grande"
           },
-          "info": "Para obter os melhores resultados, utilize uma imagem com uma proporção de 2:3. [Saber mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Para obter os melhores resultados, utilize uma imagem com uma proporção de 2:3. [Saber mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },

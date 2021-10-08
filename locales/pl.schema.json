@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "Czcionka",
-          "info": "Wybór innej czcionki może wpłynąć na szybkość działania Twojego sklepu. [Dowiedz się więcej o czcionkach systemowych.](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Wybór innej czcionki może wpłynąć na szybkość działania Twojego sklepu. [Dowiedz się więcej o czcionkach systemowych.](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "Skala rozmiaru czcionki"
@@ -971,7 +971,7 @@
         },
         "image_height": {
           "label": "Wysokość wyróżnionego obrazu",
-          "info": "Aby uzyskać najlepsze wyniki, użyj obrazu o współczynniku proporcji 2:3. [Dowiedz się więcej](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Aby uzyskać najlepsze wyniki, użyj obrazu o współczynniku proporcji 2:3. [Dowiedz się więcej](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__1": {
             "label": "Dostosuj do obrazu"
           },

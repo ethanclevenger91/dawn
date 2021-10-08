@@ -63,7 +63,7 @@
         },
         "type_body_font": {
           "label": "字型",
-          "info": "選取不同字型會影響商店速度。[深入瞭解系統字型。](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "選取不同字型會影響商店速度。[深入瞭解系統字型。](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "heading_scale": {
           "label": "字型大小縮放"
@@ -903,7 +903,7 @@
               "options__3": {
                 "label": "中等"
               },
-              "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+              "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
               "options__4": {
                 "label": "大"
               }
@@ -983,7 +983,7 @@
           "options__4": {
             "label": "大"
           },
-          "info": "若想要獲得最佳結果，請使用寬高比為 2:3 的圖片。[瞭解詳情](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若想要獲得最佳結果，請使用寬高比為 2:3 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },
