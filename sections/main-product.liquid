@@ -76,7 +76,7 @@
           {%- when '@app' -%}
             {% render block %}
           {%- when 'text' -%}
-            <p class="product__text{% if block.settings.text_style == 'uppercase' %} uppercase{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}" {{ block.shopify_attributes }}>
+            <p class="product__text{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}" {{ block.shopify_attributes }}>
               {{- block.settings.text -}}
             </p>
           {%- when 'title' -%}
@@ -109,12 +109,6 @@
                 {{ product.description }}
               </div>
             {%- endif -%}
-        <div data-app="eastsideco_sizeGuides"
-             data-shop="{{ shop.permanent_domain }}"
-             data-tags="{{ product.tags | join:',' | escape }}"
-             data-metafields="{{ product.metafields.esc-size-matters.tag }}"
-             data-popup="button">
-        </div>
           {%- when 'custom_liquid' -%}
             {{ block.settings.custom_liquid }}
           {%- when 'collapsible_tab' -%}
@@ -280,10 +274,6 @@
             </noscript>
           {%- when 'buy_buttons' -%}
             <div {{ block.shopify_attributes }}>
-              {%- form 'product', product, id: 'product-form-installment', class: 'installment caption-large' -%}
-                <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
-                {{ form | payment_terms }}
-              {%- endform -%}
               <product-form class="product-form">
                 <div class="product-form__error-message-wrapper" role="alert" hidden>
                   <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 13 13">
