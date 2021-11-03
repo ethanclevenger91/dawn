@@ -39,12 +39,6 @@
             "custom_liquid": "<div class=\"product__accordion accordion\" {{ block.shopify_attributes }}>\n              <details>\n                <summary>\n                  <div class=\"summary__title\">\n                    {% render 'icon-accordion', icon: 'pants' %}\n                    <h2 class=\"h4 accordion__title\">\n                      Description\n                    <\/h2>\n                  <\/div>\n                  {% render 'icon-caret' %}\n                <\/summary>\n                <div class=\"accordion__content rte\">\n  {{ product.description }}\n                <\/div>\n              <\/details>\n            <\/div>\n<div class=\"product__accordion accordion\" {{ block.shopify_attributes }}>\n              <details>\n                <summary>\n                  <div class=\"summary__title\">\n                    {% render 'icon-accordion', icon: 'ruler' %}\n                    <h2 class=\"h4 accordion__title\">\n                      Size Guide\n                    <\/h2>\n                  <\/div>\n                  {% render 'icon-caret' %}\n                <\/summary>\n                <div class=\"accordion__content rte\">\n  <div data-app=\"eastsideco_sizeGuides\"\n                data-shop=\"{{ shop.permanent_domain }}\"\n                data-tags=\"{{ product.tags | join:',' | escape }}\"\n                data-metafields=\"{{ product.metafields.esc-size-matters.tag }}\"\n                data-popup=\"button\">\n            <\/div>\n                <\/div>\n              <\/details>\n            <\/div>"
           }
         },
-        "88abe9c6-eb6f-40d1-9d36-a5b8250f776a": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"product__accordion accordion\" {{ block.shopify_attributes }}>\n              <details>\n                <summary>\n                  <div class=\"summary__title\">\n                    {% render 'icon-accordion', icon: 'star' %}\n                    <h2 class=\"h4 accordion__title\">\n                      Product Reviews\n                    <\/h2>\n                  <\/div>\n                  {% render 'icon-caret' %}\n                <\/summary>\n                <div class=\"accordion__content rte\">\n  <div id=\"shopify-product-reviews\" data-id=\"{{product.id}}\">{{ product.metafields.spr.reviews }}<\/div>\n                <\/div>\n              <\/details>\n            <\/div>"
-          }
-        },
         "ae065407-6136-400b-a6f0-0d595d57dd32": {
           "type": "collapsible_tab",
           "settings": {
@@ -85,7 +79,6 @@
         "price",
         "a97d63b7-e61a-48b4-8b81-c98e3b27a37a",
         "336c02db-a2f3-4a1e-8d12-98a0e28077b1",
-        "88abe9c6-eb6f-40d1-9d36-a5b8250f776a",
         "ae065407-6136-400b-a6f0-0d595d57dd32",
         "variant_picker",
         "quantity_selector",
@@ -96,6 +89,22 @@
         "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
+      }
+    },
+    "163484510562bb2d8e": {
+      "type": "apps",
+      "blocks": {
+        "e2ae9664-8fda-4079-9c5d-8f52fd3b4288": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "e2ae9664-8fda-4079-9c5d-8f52fd3b4288"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "product-recommendations": {
@@ -109,10 +118,18 @@
         "show_vendor": true,
         "show_rating": false
       }
+    },
+    "1635976218da905d91": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script type=\"text\/javascript\">\n  var _learnq = _learnq || [];\n  var item = {\n    Name: {{ product.title|json }},\n    ProductID: {{ product.id|json }},\n    Categories: {{ product.collections|map:'title'|json }},\n    ImageURL: \"https:{{ product.featured_image.src|img_url:'grande' }}\",\n    URL: \"{{ shop.secure_url }}{{ product.url }}\",\n    Brand: {{ product.vendor|json }},\n    Price: {{ product.price|money|json }},\n    CompareAtPrice: {{ product.compare_at_price_max|money|json }}\n  };\n  _learnq.push(['track', 'Viewed Product', item]);\n  _learnq.push(['trackViewedItem', {\n    Title: item.Name,\n    ItemId: item.ProductID,\n    Categories: item.Categories,\n    ImageUrl: item.ImageURL,\n    Url: item.URL,\n    Metadata: {\n      Brand: item.Brand,\n      Price: item.Price,\n      CompareAtPrice: item.CompareAtPrice\n    }\n  }]);\n<\/script>"
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "163484510562bb2d8e",
+    "product-recommendations",
+    "1635976218da905d91"
   ]
 }
