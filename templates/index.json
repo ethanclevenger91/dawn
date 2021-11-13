@@ -35,6 +35,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSCF6387_1.jpg",
+        "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
@@ -68,6 +69,50 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "1636766293918c1526": {
+      "type": "multicolumn",
+      "blocks": {
+        "16367662932b722947-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tissue.png",
+            "title": "Gift Wrapping Available",
+            "text": "<p>Post-consumer tissue paper + apparel box + eco-friendly kraft wrapping + twine. Low key, low footprint, and still looks sharp under the tree. Complimentary, next business day service. In-store only.<\/p>"
+          }
+        },
+        "16367662932b722947-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1060702.jpg",
+            "title": "2021 Gift Guide Incoming",
+            "text": "<p>While you wait, you can check out <a href=\"https:\/\/porterhouseclothing.com\/blogs\/news\/porterhouses-2020-holiday-gift-guide\" title=\"https:\/\/porterhouseclothing.com\/blogs\/news\/porterhouses-2020-holiday-gift-guide\">last year's gift guide<\/a>, full of perennial winners.<\/p>"
+          }
+        },
+        "16367662932b722947-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shipping-boxes-in-front-of-red-brick.jpg",
+            "title": "Shipping Considerations",
+            "text": "<p>To arrive by Christmas, USPS's current deadlines are Dec. 17 for first-class mail service, Dec. 18 for priority mail service and Dec. 23 for priority mail express service. So pitter patter.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16367662932b722947-0",
+        "16367662932b722947-1",
+        "16367662932b722947-2"
+      ],
+      "settings": {
+        "title": "Holiday Need-To-Knows",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "16312348604f33da59": {
@@ -303,6 +348,7 @@
   "order": [
     "image_banner",
     "16288074329a8902e0",
+    "1636766293918c1526",
     "16312348604f33da59",
     "162880743707132227",
     "16288076191b5a1fb7",
