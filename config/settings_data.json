@@ -23,9 +23,8 @@
         "blocks": {
           "4ece5594-85b0-4e89-825e-c931ac331b9d": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Black Friday 2021 Is On",
+              "text": "Black Friday Weekend Is On. Shop Deals Here",
               "color_scheme": "accent-1",
               "link": "shopify:\/\/collections\/black-friday-2021"
             }
