@@ -479,7 +479,7 @@
         },
         "show_image": {
           "label": "記事のサムネイルを表示する",
-          "info": "画像のアスペクト比が2:3のものを使用すると最適です。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "画像のアスペクト比が3:2のものを使用すると最適です。[詳しくはこちら](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "soft_background": {
           "label": "サブ背景を表示する"
@@ -751,7 +751,7 @@
           "label": "画像下にテキストを表示する"
         },
         "image_height": {
-          "label": "画像バナーの高さ",
+          "label": "バナーの高さ",
           "options__1": {
             "label": "小"
           },
@@ -761,7 +761,7 @@
           "options__3": {
             "label": "大"
           },
-          "info": "画像のアスペクト比が2:3のものを使用すると最適です。[詳しくはこちら](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "画像のアスペクト比が3:2のものを使用すると最適です。[詳しくはこちら](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         }
       },
       "blocks": {
@@ -962,8 +962,7 @@
           "content": "ブログ記事のカード"
         },
         "show_image": {
-          "label": "記事のサムネイルを表示する",
-          "info": "画像のアスペクト比が2:3のものを使用すると最適です。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "label": "記事のサムネイルを表示する"
         },
         "paragraph": {
           "content": "ブロブ記事を編集して抜粋を変更します。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
@@ -997,7 +996,7 @@
           "options__4": {
             "label": "大"
           },
-          "info": "画像のアスペクト比が2:3のものを使用すると最適です。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "画像のアスペクト比が3:2のものを使用すると最適です。[詳しくはこちら](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },
@@ -1545,6 +1544,12 @@
             },
             "text": {
               "label": "説明"
+            },
+            "link_label": {
+              "label": "リンクラベル"
+            },
+            "link": {
+              "label": "リンク"
             }
           },
           "name": "列"
@@ -1936,9 +1941,6 @@
         },
         "show_text_below": {
           "label": "モバイルで画像の下にテキストを表示する"
-        },
-        "adapt_height_image": {
-          "label": "バナーの高さを画像に合わせる"
         },
         "image_height": {
           "label": "バナーの高さ",

@@ -18,6 +18,7 @@ document.querySelectorAll('[id^="Details-"] summary').forEach((summary) => {
     event.currentTarget.setAttribute('aria-expanded', !event.currentTarget.closest('details').hasAttribute('open'));
   });
 
+  if (summary.closest('header-drawer')) return;
   summary.parentElement.addEventListener('keyup', onKeyUpEscape);
 });
 
@@ -306,24 +307,29 @@ class MenuDrawer extends HTMLElement {
     const openDetailsElement = event.target.closest('details[open]');
     if(!openDetailsElement) return;
 
-    openDetailsElement === this.mainDetailsToggle ? this.closeMenuDrawer(this.mainDetailsToggle.querySelector('summary')) : this.closeSubmenu(openDetailsElement);
+    openDetailsElement === this.mainDetailsToggle ? this.closeMenuDrawer(event, this.mainDetailsToggle.querySelector('summary')) : this.closeSubmenu(openDetailsElement);
   }
 
   onSummaryClick(event) {
     const summaryElement = event.currentTarget;
     const detailsElement = summaryElement.parentNode;
     const isOpen = detailsElement.hasAttribute('open');
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+
+    function addTrapFocus() {
+      trapFocus(summaryElement.nextElementSibling, detailsElement.querySelector('button'));
+      summaryElement.nextElementSibling.removeEventListener('transitionend', addTrapFocus);
+    }
 
     if (detailsElement === this.mainDetailsToggle) {
       if(isOpen) event.preventDefault();
-      isOpen ? this.closeMenuDrawer(summaryElement) : this.openMenuDrawer(summaryElement);
+      isOpen ? this.closeMenuDrawer(event, summaryElement) : this.openMenuDrawer(summaryElement);
     } else {
-      trapFocus(summaryElement.nextElementSibling, detailsElement.querySelector('button'));
-
       setTimeout(() => {
         detailsElement.classList.add('menu-opening');
         summaryElement.setAttribute('aria-expanded', true);
-      });
+        !reducedMotion || reducedMotion.matches ? addTrapFocus() : summaryElement.nextElementSibling.addEventListener('transitionend', addTrapFocus);
+      }, 100);
     }
   }
 
@@ -343,7 +349,6 @@ class MenuDrawer extends HTMLElement {
         details.removeAttribute('open');
         details.classList.remove('menu-opening');
       });
-      this.mainDetailsToggle.querySelector('summary').setAttribute('aria-expanded', false);
       document.body.classList.remove(`overflow-hidden-${this.dataset.breakpoint}`);
       removeTrapFocus(elementToFocus);
       this.closeAnimation(this.mainDetailsToggle);
@@ -527,13 +532,13 @@ class SliderComponent extends HTMLElement {
     this.currentPage = Math.round(this.slider.scrollLeft / this.sliderLastItem.clientWidth) + 1;
 
     if (this.currentPage === 1) {
-      this.prevButton.setAttribute('disabled', true);
+      this.prevButton.setAttribute('disabled', 'disabled');
     } else {
       this.prevButton.removeAttribute('disabled');
     }
 
     if (this.currentPage === this.totalPages) {
-      this.nextButton.setAttribute('disabled', true);
+      this.nextButton.setAttribute('disabled', 'disabled');
     } else {
       this.nextButton.removeAttribute('disabled');
     }
@@ -574,6 +579,7 @@ class VariantSelects extends HTMLElement {
       this.updateURL();
       this.updateVariantInput();
       this.renderProductInfo();
+      this.updateShareUrl();
     }
   }
 
@@ -616,6 +622,12 @@ class VariantSelects extends HTMLElement {
   updateURL() {
     if (!this.currentVariant || this.dataset.updateUrl === 'false') return;
     window.history.replaceState({ }, '', `${this.dataset.url}?variant=${this.currentVariant.id}`);
+  }
+
+  updateShareUrl() {
+    const shareButton = document.getElementById(`Share-${this.dataset.section}`);
+    if (!shareButton) return;
+    shareButton.updateUrl(`${window.shopUrl}${this.dataset.url}?variant=${this.currentVariant.id}`);
   }
 
   updateVariantInput() {
@@ -675,7 +687,7 @@ class VariantSelects extends HTMLElement {
     if (!addButton) return;
 
     if (disable) {
-      addButton.setAttribute('disabled', true);
+      addButton.setAttribute('disabled', 'disabled');
       if (text) addButtonText.textContent = text;
     } else {
       addButton.removeAttribute('disabled');

@@ -479,7 +479,7 @@
         },
         "show_image": {
           "label": "Näytä esittelykuva",
-          "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 2:3. [Lisätietoja](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 3:2. [Lisätietoja](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "soft_background": {
           "label": "Näytä toissijainen tausta"
@@ -751,7 +751,7 @@
           "label": "Näytä teksti kuvien alapuolella"
         },
         "image_height": {
-          "label": "Kuvabannerin korkeus",
+          "label": "Bannerin korkeus",
           "options__1": {
             "label": "Pieni"
           },
@@ -761,7 +761,7 @@
           "options__3": {
             "label": "Suuri"
           },
-          "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 2:3. [Lisätietoja](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 3:2. [Lisätietoja](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         }
       },
       "blocks": {
@@ -962,8 +962,7 @@
           "content": "Blogijulkaisukortti"
         },
         "show_image": {
-          "label": "Näytä esittelykuva",
-          "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 2:3. [Lisätietoja](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "label": "Näytä esittelykuva"
         },
         "paragraph": {
           "content": "Muuta otteita blogijulkaisujasi muokkaamalla. [Lisätietoja](https:\/\/help.shopify.com\/en\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
@@ -997,7 +996,7 @@
           "options__4": {
             "label": "Suuri"
           },
-          "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 2:3. [Lisätietoja](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 3:2. [Lisätietoja](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },
@@ -1546,6 +1545,12 @@
             },
             "text": {
               "label": "Kuvaus"
+            },
+            "link_label": {
+              "label": "Linkin teksti"
+            },
+            "link": {
+              "label": "Linkki"
             }
           }
         }
@@ -1936,9 +1941,6 @@
         },
         "show_text_below": {
           "label": "Näyttä kuvien alla oleva teksti mobiililaitteessa"
-        },
-        "adapt_height_image": {
-          "label": "Sovita bannerin korkeus kuvaan"
         },
         "image_height": {
           "label": "Bannerin korkeus",
