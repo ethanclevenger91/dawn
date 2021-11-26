@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Gitman Vintage aw21",
+            "heading": "Black Friday Weekend",
             "heading_size": "medium"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Made in America. Since 1978."
+            "text": "15% of markdowns. Specially priced Naked & Famous denim. Now through Monday. $10 gift card for every $100 spent."
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/gitman-vintage-aw21",
+            "button_label_1": "Shop The Deals",
+            "button_link_1": "shopify:\/\/collections\/black-friday-2021",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -34,10 +34,10 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF8336_1.jpg",
+        "image": "shopify:\/\/shop_images\/Black_Friday_No_Copy.jpg",
         "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
         "show_text_box": true,
         "image_overlay_opacity": 0,
         "color_scheme": "background-2",
