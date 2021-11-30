@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday Weekend",
+            "heading": "Holiday Gifts for Him",
             "heading_size": "medium"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "15% off markdowns. Specially priced Naked & Famous denim. $10 gift card for every $100 spent. Now through Monday."
+            "text": "Caps, colognes, socks and more. If you're in a pinch shopping for the guy on your list, this guide is for you."
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop The Deals",
-            "button_link_1": "shopify:\/\/collections\/black-friday-2021",
+            "button_label_1": "2021 Gift Guide",
+            "button_link_1": "shopify:\/\/blogs\/news\/porterhouse-2021-gifts-for-him",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -34,12 +34,12 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Black_Friday_No_Copy.jpg",
+        "image": "shopify:\/\/shop_images\/Gift_Guide21_Small_4671ef28-3e45-47c2-a5a6-786e8c81bd71.jpg",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 80,
         "color_scheme": "background-2",
         "stack_images_on_mobile": true,
         "show_text_below": true
