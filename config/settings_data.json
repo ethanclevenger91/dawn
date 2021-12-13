@@ -23,11 +23,10 @@
         "blocks": {
           "4ece5594-85b0-4e89-825e-c931ac331b9d": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Black Friday Weekend Is On. Shop Deals Here",
+              "text": "USPS's deadline for Priority Mail Christmas delivery is Dec. 18th. Your mileage my vary.",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/black-friday-2021"
+              "link": "shopify:\/\/collections\/2021-holiday-gift-guide"
             }
           }
         },
