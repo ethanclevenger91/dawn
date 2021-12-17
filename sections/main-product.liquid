@@ -289,11 +289,9 @@
                 {%- form 'product', product, id: product_form_id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' -%}
                   <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}" disabled>
                   <div class="product-form__buttons">
-                    {% comment %} {% if product.tags contains 'Core' %}
-                        <a id="klaviyo-bis-trigger" class="product-form__submit button button--full-width button--secondary klaviyo-bis-trigger {% if product.selected_or_first_available_variant.available %}hidden{% endif %}" href="#">Notify Me When Available</a>
-                    {% endif %} {% endcomment %}
                     <button
                       type="submit"
+                      id="dawn-AddToCart"
                       name="add"
                       class="product-form__submit button button--full-width {% if block.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
                     {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
