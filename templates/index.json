@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Holiday Gifts for Him",
+            "heading": "RGT Winter Styles",
             "heading_size": "medium"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Caps, colognes, socks and more. If you're in a pinch shopping for the guy on your list, this guide is for you."
+            "text": "High quality threads made in Los Angeles."
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "2021 Gift Guide",
-            "button_link_1": "shopify:\/\/blogs\/news\/porterhouse-2021-gifts-for-him",
+            "button_label_1": "RGT Collection",
+            "button_link_1": "shopify:\/\/collections\/rogue-territory",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -34,7 +34,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Gift_Guide21_Small_4671ef28-3e45-47c2-a5a6-786e8c81bd71.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF0498_2_1.jpg",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
