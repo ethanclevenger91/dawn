@@ -23,11 +23,10 @@
         "blocks": {
           "4ece5594-85b0-4e89-825e-c931ac331b9d": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "USPS's final deadline for Christmas delivery is Dec. 23 via Priority Mail Express. No guarantees.",
+              "text": "End of season LAST CALL sale live now. 25% off select styles. Shop 'em now.",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/2021-holiday-gift-guide"
+              "link": "shopify:\/\/collections\/january-sale"
             }
           }
         },
