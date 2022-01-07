@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "RGT Winter Styles",
+            "heading": "End of season sale",
             "heading_size": "medium"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "High quality threads made in Los Angeles."
+            "text": "25% off select items from around the shop."
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the latest",
-            "button_link_1": "shopify:\/\/collections\/rogue-territory",
+            "button_label_1": "Shop the sale",
+            "button_link_1": "shopify:\/\/collections\/end-of-season-sale",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -34,7 +34,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF0498_2_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF0607_2_1.jpg",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
