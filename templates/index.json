@@ -2,36 +2,26 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF0607_2_1_3d584c2e-768f-463c-b6b1-f79091c49ef5.jpg",
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
-        "image_overlay_opacity": 10,
-        "color_scheme": "background-2",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      },
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "End of season sale",
+            "heading": "Rogue Territory",
             "heading_size": "medium"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "25% off select items from around the shop."
+            "text": "Made in Los Angeles. Available at Porterhouse.",
+            "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the sale",
-            "button_link_1": "shopify:\/\/collections\/end-of-season-sale",
+            "button_label_1": "Shop Rogue Territory",
+            "button_link_1": "shopify:\/\/collections\/rogue-territory",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -43,7 +33,20 @@
         "heading",
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b",
         "button"
-      ]
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF0498_2_1.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     },
     "16288074329a8902e0": {
       "type": "rich-text",
@@ -68,7 +71,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "16312348604f33da59": {
@@ -77,13 +82,15 @@
         "46e3e185-32d9-4cc2-b51a-2a6ac7f15d2f": {
           "type": "heading",
           "settings": {
-            "heading": "Words of Wisdom..."
+            "heading": "Words of Wisdom...",
+            "heading_size": "h1"
           }
         },
         "16312348604f33da59-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Just had the greatest clothing purchase experience of my life. The sales associate was very knowledgeable and friendly. He was patient and helpful throughout the entire process. To any man wanting to experience what true customer service is all about, and complete their wardrobe, head to Porterhouse. You WON'T be disappointed.<\/p><p><em>- James, a smart fella<\/em><\/p><p><br\/><br\/><\/p>"
+            "text": "<p>Just had the greatest clothing purchase experience of my life. The sales associate was very knowledgeable and friendly. He was patient and helpful throughout the entire process. To any man wanting to experience what true customer service is all about, and complete their wardrobe, head to Porterhouse. You WON'T be disappointed.<\/p><p><em>- James, a smart fella<\/em><\/p><p><br\/><br\/><\/p>",
+            "text_style": "body"
           }
         }
       },
@@ -94,8 +101,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/P1090598.jpg",
         "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "162880743707132227": {
@@ -134,7 +148,9 @@
       "settings": {
         "heading": "",
         "desktop_layout": "left",
-        "mobile_layout": "column"
+        "mobile_layout": "column",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16288076191b5a1fb7": {
@@ -147,10 +163,10 @@
         "swipe_on_mobile": false,
         "image_ratio": "adapt",
         "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
         "show_vendor": true,
-        "show_rating": false
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_text": {
@@ -159,13 +175,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Denim Built to Last"
+            "heading": "Denim Built to Last",
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Like pre-1950s Levi's, the denim brands carried at Porterhouse are built to wear in, not out. Sewn on traditional shuttle looms, selvedge denim will put up with more and look better doing it. And because our brands are shipping raw, un-washed, un-distressed denim, no one gets to wear in your jeans before you do.<\/p>"
+            "text": "<p>Like pre-1950s Levi's, the denim brands carried at Porterhouse are built to wear in, not out. Sewn on traditional shuttle looms, selvedge denim will put up with more and look better doing it. And because our brands are shipping raw, un-washed, un-distressed denim, no one gets to wear in your jeans before you do.<\/p>",
+            "text_style": "body"
           }
         },
         "button": {
@@ -184,8 +202,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Naked_and_Famous_selvedge_jeans.jpg",
         "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16288077053a9a5d56": {
@@ -194,13 +219,15 @@
         "16288077053a9a5d56-0": {
           "type": "heading",
           "settings": {
-            "heading": "Earn Rewards"
+            "heading": "Earn Rewards",
+            "heading_size": "h1"
           }
         },
         "16288077053a9a5d56-1": {
           "type": "text",
           "settings": {
-            "text": "<p>You might notice there wasn't a popup offering you 15% off your first order. Instead, we like to reward our long-time customers. Earn $10 back in store credit for every $200 you spend with us, online and in-store. Redeem anywhere, anytime.<\/p><p>Get a head start by clicking that little present in the bottom-left corner.<\/p>"
+            "text": "<p>You might notice there wasn't a popup offering you 15% off your first order. Instead, we like to reward our long-time customers. Earn $10 back in store credit for every $200 you spend with us, online and in-store. Redeem anywhere, anytime.<\/p><p>Get a head start by clicking that little present in the bottom-left corner.<\/p>",
+            "text_style": "body"
           }
         }
       },
@@ -211,8 +238,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/141033765_523250715681965_7404227569025672185_n.jpg",
         "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16288113190a56e667": {
@@ -225,10 +259,10 @@
         "swipe_on_mobile": false,
         "image_ratio": "adapt",
         "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
         "show_vendor": true,
-        "show_rating": false
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1628811602f5b491c4": {
@@ -237,13 +271,15 @@
         "1628811602f5b491c4-0": {
           "type": "heading",
           "settings": {
-            "heading": "Truman Boot"
+            "heading": "Truman Boot",
+            "heading_size": "h1"
           }
         },
         "1628811602f5b491c4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Truman leather boots are built in here in Eugene, Oregon, and we're their only local retailer. For high-quality craftsmanship and a boot worth resoleing for years to come, look no further. Shop online now or drop by the store for a try-on.<\/p>"
+            "text": "<p>Truman leather boots are built in here in Eugene, Oregon, and we're their only local retailer. For high-quality craftsmanship and a boot worth resoleing for years to come, look no further. Shop online now or drop by the store for a try-on.<\/p>",
+            "text_style": "body"
           }
         },
         "1628811602f5b491c4-2": {
@@ -262,8 +298,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Both-Crate-Metal-1-cropped.jpg",
         "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16281191127f7c30d5": {
@@ -282,7 +325,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": false
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "16281190877da4b4bf": {
@@ -297,7 +342,9 @@
     "16281192264530d9c8": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div>&nbsp;<\/div>"
+        "custom_liquid": "<div>&nbsp;<\/div>",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
