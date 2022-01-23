@@ -223,6 +223,26 @@
         "section_padding_heading": "Relleno de sección",
         "padding_top": "Relleno superior",
         "padding_bottom": "Relleno inferior"
+      },
+      "spacing": "Espaciado",
+      "colors": {
+        "accent_1": {
+          "label": "Acento 1"
+        },
+        "accent_2": {
+          "label": "Acento 2"
+        },
+        "background_1": {
+          "label": "Fondo 1"
+        },
+        "background_2": {
+          "label": "Fondo 2"
+        },
+        "inverse": {
+          "label": "Invertir"
+        },
+        "label": "Esquema de colores",
+        "has_cards_info": "Para cambiar el esquema de color de la tarjeta, actualiza la configuración del tema."
       }
     },
     "announcement-bar": {
@@ -292,27 +312,8 @@
               "label": "Imagen"
             },
             "image_padding": {
-              "label": "Agregar relleno de imagen",
-              "info": "Selecciona relleno de imagen si no deseas que se corte tu imagen."
-            },
-            "color_scheme": {
-              "options__1": {
-                "label": "Acento 1"
-              },
-              "options__2": {
-                "label": "Acento 2"
-              },
-              "options__3": {
-                "label": "Fondo 1"
-              },
-              "options__4": {
-                "label": "Fondo 2"
-              },
-              "options__5": {
-                "label": "Invertir"
-              },
-              "label": "Esquema de colores",
-              "info": "Selecciona relleno de imagen para que el color sea visible."
+              "label": "Usar la relación de aspecto de imagen original",
+              "info": "Selecciona si no deseas que se corte tu imagen."
             }
           }
         },
@@ -376,8 +377,8 @@
               "placeholder": "Utiliza una URL de YouTube o Vimeo"
             },
             "image_padding": {
-              "label": "Agregar relleno de imagen",
-              "info": "Selecciona relleno de imagen si no deseas que se corte tu imagen de portada."
+              "label": "Usar la relación de aspecto de imagen original",
+              "info": "Selecciona si no deseas que se corte tu imagen."
             },
             "description": {
               "label": "Texto alternativo del video",
@@ -487,9 +488,6 @@
         "show_image": {
           "label": "Mostrar imagen destacada",
           "info": "Para resultados óptimos, utiliza una imagen con una relación de aspecto 3:2. [Más información](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "Mostrar fondo secundario"
         },
         "show_date": {
           "label": "Mostrar fecha"
@@ -643,6 +641,9 @@
         },
         "payment_enable": {
           "label": "Mostrar íconos de pago"
+        },
+        "margin_top": {
+          "label": "Margen superior"
         }
       }
     },
@@ -696,6 +697,9 @@
             "label": "Invertir"
           },
           "label": "Esquema de colores"
+        },
+        "margin_bottom": {
+          "label": "Margen inferior"
         }
       }
     },
@@ -1430,7 +1434,7 @@
                 "label": "Desplegable"
               },
               "options__2": {
-                "label": "Botón"
+                "label": "Pills"
               }
             }
           }
@@ -1727,9 +1731,6 @@
           },
           "options__2": {
             "label": "Mostrar como fondo de columna"
-          },
-          "options__3": {
-            "label": "Mostrar como fondo de sección"
           }
         },
         "button_label": {
@@ -2029,7 +2030,7 @@
                 "label": "Desplegable"
               },
               "options__2": {
-                "label": "Botón"
+                "label": "Pills"
               }
             }
           }

@@ -337,6 +337,26 @@
         "section_padding_heading": "섹션 패딩",
         "padding_top": "상단 패딩",
         "padding_bottom": "하단 패딩"
+      },
+      "spacing": "간격",
+      "colors": {
+        "accent_1": {
+          "label": "강조 1"
+        },
+        "accent_2": {
+          "label": "강조 2"
+        },
+        "background_1": {
+          "label": "배경 1"
+        },
+        "background_2": {
+          "label": "배경 2"
+        },
+        "inverse": {
+          "label": "서로 바꾸기"
+        },
+        "label": "색상 배합",
+        "has_cards_info": "카드 색상 배합을 변경하려면 테마 설정을 업데이트하십시오."
       }
     },
     "announcement-bar": {
@@ -405,27 +425,8 @@
               "label": "이미지"
             },
             "image_padding": {
-              "label": "이미지 패딩 추가",
-              "info": "이미지가 잘리는 것을 방지하려면 이미지 패딩을 선택하십시오."
-            },
-            "color_scheme": {
-              "options__1": {
-                "label": "강조 1"
-              },
-              "options__2": {
-                "label": "강조 2"
-              },
-              "options__3": {
-                "label": "배경 1"
-              },
-              "options__4": {
-                "label": "배경 2"
-              },
-              "options__5": {
-                "label": "서로 바꾸기"
-              },
-              "label": "색상 배합",
-              "info": "색상이 보이도록 하려면 이미지 패딩을 선택하십시오."
+              "label": "원본 이미지 비율 사용",
+              "info": "이미지가 잘리는 것을 방지하려면 선택하십시오."
             }
           },
           "name": "이미지"
@@ -463,8 +464,8 @@
               "placeholder": "YouTube 또는 Vimeo URL 사용"
             },
             "image_padding": {
-              "label": "이미지 패딩 추가",
-              "info": "이미지가 잘리는 것을 방지하려면 이미지 패딩을 선택하십시오."
+              "label": "원본 이미지 비율 사용",
+              "info": "이미지가 잘리는 것을 방지하려면 선택하십시오."
             },
             "description": {
               "label": "동영상 대체 텍스트",
@@ -554,9 +555,6 @@
         "show_image": {
           "label": "추천 이미지 표시",
           "info": "최고의 결과를 얻으려면 이미지의 가로 세로 비율을 3:2로 사용하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "보조 배경 표시"
         },
         "show_date": {
           "label": "날짜 표시"
@@ -704,6 +702,9 @@
         },
         "payment_enable": {
           "label": "결제 아이콘 표시"
+        },
+        "margin_top": {
+          "label": "상단 마진"
         }
       }
     },
@@ -757,6 +758,9 @@
             "label": "서로 바꾸기"
           },
           "label": "색상 배합"
+        },
+        "margin_bottom": {
+          "label": "하단 마진"
         }
       }
     },
@@ -1454,7 +1458,7 @@
                 "label": "드롭다운"
               },
               "options__2": {
-                "label": "버튼"
+                "label": "타원형"
               }
             }
           },
@@ -1755,9 +1759,6 @@
           },
           "options__2": {
             "label": "열의 배경으로 표시"
-          },
-          "options__3": {
-            "label": "섹션의 배경으로 표시"
           }
         },
         "button_label": {
@@ -2051,7 +2052,7 @@
                 "label": "드롭다운"
               },
               "options__2": {
-                "label": "버튼"
+                "label": "타원형"
               }
             }
           }

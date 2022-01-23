@@ -337,6 +337,26 @@
         "section_padding_heading": "Secção preenchimento",
         "padding_top": "Preenchimento superior",
         "padding_bottom": "Preenchimento inferior"
+      },
+      "spacing": "Espaçamento",
+      "colors": {
+        "accent_1": {
+          "label": "Destaque 1"
+        },
+        "accent_2": {
+          "label": "Destaque 2"
+        },
+        "background_1": {
+          "label": "Fundo 1"
+        },
+        "background_2": {
+          "label": "Fundo 2"
+        },
+        "inverse": {
+          "label": "Invertido"
+        },
+        "label": "Esquema de cores",
+        "has_cards_info": "Para alterar o esquema de cores do cartão, atualize as suas definições de tema."
       }
     },
     "announcement-bar": {
@@ -405,27 +425,8 @@
               "label": "Imagem"
             },
             "image_padding": {
-              "label": "Adicionar preenchimento de imagem",
-              "info": "Selecione o preenchimento de imagem caso não pretenda que a sua imagem seja cortada."
-            },
-            "color_scheme": {
-              "options__1": {
-                "label": "Destaque 1"
-              },
-              "options__2": {
-                "label": "Destaque 2"
-              },
-              "options__3": {
-                "label": "Fundo 1"
-              },
-              "options__4": {
-                "label": "Fundo 2"
-              },
-              "options__5": {
-                "label": "Inverter"
-              },
-              "label": "Esquema de cores",
-              "info": "Selecione o preenchimento de imagem para tornar a cor visível."
+              "label": "Utilizar proporção da imagem original",
+              "info": "Selecione caso não pretenda que a sua imagem seja cortada."
             }
           },
           "name": "Imagem"
@@ -463,8 +464,8 @@
               "placeholder": "Usar um URL de YouTube ou Vimeo"
             },
             "image_padding": {
-              "label": "Adicionar preenchimento de imagem",
-              "info": "Selecione um preenchimento de imagem se não quer que a sua imagem de capa seja cortada."
+              "label": "Utilizar proporção da imagem original",
+              "info": "Selecione caso não pretenda que a sua imagem seja cortada."
             },
             "description": {
               "label": "Texto alternativo do vídeo",
@@ -554,9 +555,6 @@
         "show_image": {
           "label": "Mostrar imagem em destaque",
           "info": "Para obter os melhores resultados, use uma imagem com uma proporção de 3:2. [Saber mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "Mostrar fundo secundário"
         },
         "show_date": {
           "label": "Mostrar data"
@@ -704,6 +702,9 @@
         },
         "payment_enable": {
           "label": "Mostrar ícones de pagamento"
+        },
+        "margin_top": {
+          "label": "Margem superior"
         }
       }
     },
@@ -757,6 +758,9 @@
             "label": "Inverter"
           },
           "label": "Esquema de cores"
+        },
+        "margin_bottom": {
+          "label": "Margem inferior"
         }
       }
     },
@@ -1454,7 +1458,7 @@
                 "label": "Pendente"
               },
               "options__2": {
-                "label": "Botão"
+                "label": "Comprimidos"
               }
             }
           },
@@ -1755,9 +1759,6 @@
           },
           "options__2": {
             "label": "Mostrar como fundo da coluna"
-          },
-          "options__3": {
-            "label": "Mostrar como fundo da secção"
           }
         },
         "button_label": {
@@ -2051,7 +2052,7 @@
                 "label": "Pendente"
               },
               "options__2": {
-                "label": "Botão"
+                "label": "Comprimidos"
               }
             }
           }

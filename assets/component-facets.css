@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(2, auto);
+  padding-top: 1rem;
 }
 
 .active-facets-mobile {
@@ -75,6 +76,21 @@
   width: auto;
 }
 
+.facet-filters__field .select:after,
+.facet-filters__field .select:before,
+.mobile-facets__sort .select:after, 
+.mobile-facets__sort .select:before {
+  content: none;
+}
+
+.facet-filters__field .select__select,
+.mobile-facets__sort .select__select {
+  border-radius: 0;
+  min-width: auto;
+  min-height: auto;
+  transition: none;
+}
+
 .facet-filters button {
   margin-left: 2.5rem;
 }
@@ -89,6 +105,10 @@
   margin: 0;
   padding-left: 0;
   padding-right: 1.75rem;
+}
+
+.facet-filters__sort + .icon-caret {
+  right: 0;
 }
 
 @media screen and (forced-colors: active) {

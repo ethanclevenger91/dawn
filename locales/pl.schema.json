@@ -223,6 +223,26 @@
         "section_padding_heading": "Dopełnienie sekcji",
         "padding_top": "Dopełnienie na górze",
         "padding_bottom": "Dopełnienie na dole"
+      },
+      "spacing": "Odstępy",
+      "colors": {
+        "accent_1": {
+          "label": "Akcent 1"
+        },
+        "accent_2": {
+          "label": "Akcent 2"
+        },
+        "background_1": {
+          "label": "Tło 1"
+        },
+        "background_2": {
+          "label": "Tło 2"
+        },
+        "inverse": {
+          "label": "Odwrócone"
+        },
+        "label": "Kolorystyka",
+        "has_cards_info": "Aby zmienić kolorystykę karty, zaktualizuj ustawienia szablonu."
       }
     },
     "announcement-bar": {
@@ -292,27 +312,8 @@
               "label": "Obraz"
             },
             "image_padding": {
-              "label": "Dodaj dopełnienie obrazu",
-              "info": "Wybierz dopełnienie obrazu, jeśli nie chcesz, aby obraz został przycięty."
-            },
-            "color_scheme": {
-              "options__1": {
-                "label": "Akcent 1"
-              },
-              "options__2": {
-                "label": "Akcent 2"
-              },
-              "options__3": {
-                "label": "Tło 1"
-              },
-              "options__4": {
-                "label": "Tło 2"
-              },
-              "options__5": {
-                "label": "Odwrócone"
-              },
-              "label": "Kolorystyka",
-              "info": "Wybierz dopełnienie obrazu, aby uwidocznić kolor."
+              "label": "Użyj oryginalnych proporcji obrazu",
+              "info": "Wybierz, jeśli nie chcesz, aby obraz został przycięty."
             }
           }
         },
@@ -376,8 +377,8 @@
               "placeholder": "Użyj adresu URL do YouTube lub Vimeo"
             },
             "image_padding": {
-              "label": "Dodaj dopełnienie obrazu",
-              "info": "Wybierz dopełnienie obrazu, jeśli nie chcesz, aby obraz z tle został przycięty."
+              "label": "Użyj oryginalnych proporcji obrazu",
+              "info": "Wybierz, jeśli nie chcesz, aby obraz został przycięty."
             },
             "description": {
               "label": "Alternatywny tekst filmu",
@@ -487,9 +488,6 @@
         "show_image": {
           "label": "Pokaż wyróżniony obraz",
           "info": "Aby uzyskać najlepszy efekt, użyj obrazu o współczynniku proporcji 2:3. [Dowiedz się więcej](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "Pokaż dodatkowe tło"
         },
         "show_date": {
           "label": "Pokaż datę"
@@ -643,6 +641,9 @@
         },
         "payment_enable": {
           "label": "Pokaż ikony płatności"
+        },
+        "margin_top": {
+          "label": "Górna granica"
         }
       }
     },
@@ -696,6 +697,9 @@
             "label": "Odwrócone"
           },
           "label": "Kolorystyka"
+        },
+        "margin_bottom": {
+          "label": "Dolna granica"
         }
       }
     },
@@ -1430,7 +1434,7 @@
                 "label": "Lista rozwijana"
               },
               "options__2": {
-                "label": "Przycisk"
+                "label": "Pigułki"
               }
             }
           }
@@ -1727,9 +1731,6 @@
           },
           "options__2": {
             "label": "Pokaż jako tło kolumny"
-          },
-          "options__3": {
-            "label": "Pokaż jako tło sekcji"
           }
         },
         "button_label": {
@@ -2029,7 +2030,7 @@
                 "label": "Lista rozwijana"
               },
               "options__2": {
-                "label": "Przycisk"
+                "label": "Pigułki"
               }
             }
           }

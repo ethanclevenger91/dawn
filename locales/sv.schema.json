@@ -223,6 +223,26 @@
         "section_padding_heading": "Padding för avsnitt",
         "padding_top": "Övre padding",
         "padding_bottom": "Nedre padding"
+      },
+      "spacing": "Radavstånd",
+      "colors": {
+        "accent_1": {
+          "label": "Accent 1"
+        },
+        "accent_2": {
+          "label": "Accent 2"
+        },
+        "background_1": {
+          "label": "Bakgrund 1"
+        },
+        "background_2": {
+          "label": "Bakgrund 2"
+        },
+        "inverse": {
+          "label": "Omvänd"
+        },
+        "label": "Färgschema",
+        "has_cards_info": "Uppdatera dina temainställningar för att ändra kortets färgsättning."
       }
     },
     "announcement-bar": {
@@ -291,27 +311,8 @@
               "label": "Bild"
             },
             "image_padding": {
-              "label": "Lägg till bild-padding",
-              "info": "Välj bild-padding om du inte vill att din bild ska beskäras."
-            },
-            "color_scheme": {
-              "options__1": {
-                "label": "Accent 1"
-              },
-              "options__2": {
-                "label": "Accent 2"
-              },
-              "options__3": {
-                "label": "Bakgrund 1"
-              },
-              "options__4": {
-                "label": "Bakgrund 2"
-              },
-              "options__5": {
-                "label": "Omvänd"
-              },
-              "label": "Färgschema",
-              "info": "Välj bild-padding för att visa färg."
+              "label": "Använd ursprungliga bildförhållanden",
+              "info": "Välj om du inte vill att din bild beskärs."
             }
           },
           "name": "Bild"
@@ -375,8 +376,8 @@
               "placeholder": "Använd en YouTube- eller en Vimeo-URL"
             },
             "image_padding": {
-              "label": "Lägg till bild-padding",
-              "info": "Välj bild-padding om du inte vill att din omslagsbild ska beskäras."
+              "label": "Använd ursprungliga bildförhållanden",
+              "info": "Välj om du inte vill att din bild beskärs."
             },
             "description": {
               "label": "Alt-text för video",
@@ -487,9 +488,6 @@
         "show_image": {
           "label": "Visa framhävd bild",
           "info": "Använd en bild med bildformat 3:2, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "Visa sekundär bakgrund"
         },
         "show_date": {
           "label": "Visa datum"
@@ -643,6 +641,9 @@
         },
         "payment_enable": {
           "label": "Visa betalningsikoner"
+        },
+        "margin_top": {
+          "label": "Övre marginal"
         }
       }
     },
@@ -696,6 +697,9 @@
             "label": "Omvänd"
           },
           "label": "Färgschema"
+        },
+        "margin_bottom": {
+          "label": "Nedre marginal"
         }
       }
     },
@@ -1420,7 +1424,7 @@
                 "label": "Rullgardinsmeny"
               },
               "options__2": {
-                "label": "Knapp"
+                "label": "Piller"
               }
             }
           },
@@ -1727,9 +1731,6 @@
           },
           "options__2": {
             "label": "Visa som kolumnbakgrund"
-          },
-          "options__3": {
-            "label": "Visa som sekundär bakgrund"
           }
         },
         "button_label": {
@@ -2029,7 +2030,7 @@
                 "label": "Rullgardinsmeny"
               },
               "options__2": {
-                "label": "Knapp"
+                "label": "Piller"
               }
             }
           }

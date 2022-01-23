@@ -337,6 +337,26 @@
         "section_padding_heading": "分区填充",
         "padding_top": "顶部填充",
         "padding_bottom": "底部填充"
+      },
+      "spacing": "间距",
+      "colors": {
+        "accent_1": {
+          "label": "强调色 1"
+        },
+        "accent_2": {
+          "label": "强调色 2"
+        },
+        "background_1": {
+          "label": "背景 1"
+        },
+        "background_2": {
+          "label": "背景 2"
+        },
+        "inverse": {
+          "label": "反转色"
+        },
+        "label": "配色方案",
+        "has_cards_info": "若要更改卡配色方案，请更新您的模板设置。"
       }
     },
     "announcement-bar": {
@@ -405,27 +425,8 @@
               "label": "图片"
             },
             "image_padding": {
-              "label": "添加图片填充",
-              "info": "如果您不希望裁剪图片，请选择图片填充。"
-            },
-            "color_scheme": {
-              "options__1": {
-                "label": "强调色 1"
-              },
-              "options__2": {
-                "label": "强调色 2"
-              },
-              "options__3": {
-                "label": "背景 1"
-              },
-              "options__4": {
-                "label": "背景 2"
-              },
-              "options__5": {
-                "label": "反转"
-              },
-              "label": "配色方案",
-              "info": "选择图片填充以使颜色可见。"
+              "label": "使用原始图片比",
+              "info": "如果您不希望裁剪图片，请选择此项。"
             }
           },
           "name": "图片"
@@ -463,8 +464,8 @@
               "placeholder": "使用 YouTube 或 Vimeo URL"
             },
             "image_padding": {
-              "label": "添加图片填充",
-              "info": "如果您不希望裁剪封面图片，请选择图片填充。"
+              "label": "使用原始图片比",
+              "info": "如果您不希望裁剪图片，请选择此项。"
             },
             "description": {
               "label": "视频替代文本",
@@ -554,9 +555,6 @@
         "show_image": {
           "label": "显示配图",
           "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "显示辅助背景"
         },
         "show_date": {
           "label": "显示日期"
@@ -704,6 +702,9 @@
         },
         "payment_enable": {
           "label": "显示付款图标"
+        },
+        "margin_top": {
+          "label": "上边距"
         }
       }
     },
@@ -757,6 +758,9 @@
             "label": "反转"
           },
           "label": "配色方案"
+        },
+        "margin_bottom": {
+          "label": "下边距"
         }
       }
     },
@@ -1454,7 +1458,7 @@
                 "label": "下拉菜单"
               },
               "options__2": {
-                "label": "按钮"
+                "label": "椭圆形框"
               }
             }
           },
@@ -1755,9 +1759,6 @@
           },
           "options__2": {
             "label": "显示为列背景"
-          },
-          "options__3": {
-            "label": "显示为分区背景"
           }
         },
         "button_label": {
@@ -2051,7 +2052,7 @@
                 "label": "下拉菜单"
               },
               "options__2": {
-                "label": "按钮"
+                "label": "椭圆形框"
               }
             }
           }

@@ -337,6 +337,26 @@
         "section_padding_heading": "Vnitřní okraj sekce",
         "padding_top": "Horní vnitřní okraj",
         "padding_bottom": "Dolní vnitřní okraj"
+      },
+      "spacing": "Rozestupy",
+      "colors": {
+        "accent_1": {
+          "label": "Zvýraznění 1"
+        },
+        "accent_2": {
+          "label": "Zvýraznění 2"
+        },
+        "background_1": {
+          "label": "Pozadí 1"
+        },
+        "background_2": {
+          "label": "Pozadí 2"
+        },
+        "inverse": {
+          "label": "Inverze"
+        },
+        "label": "Barevné schéma",
+        "has_cards_info": "Pokud chcete změnit barevné schéma karty, aktualizujte nastavení motivu."
       }
     },
     "announcement-bar": {
@@ -406,27 +426,8 @@
               "label": "Obrázek"
             },
             "image_padding": {
-              "label": "Přidat vnitřní okraj obrázku",
-              "info": "Pokud nechcete, aby došlo k oříznutí obrázku, vyberte u něj vnitřní okraj."
-            },
-            "color_scheme": {
-              "options__1": {
-                "label": "Zvýraznění 1"
-              },
-              "options__2": {
-                "label": "Zvýraznění 2"
-              },
-              "options__3": {
-                "label": "Pozadí 1"
-              },
-              "options__4": {
-                "label": "Pozadí 2"
-              },
-              "options__5": {
-                "label": "Inverze"
-              },
-              "label": "Barevné schéma",
-              "info": "Vyberte vnitřní okraj obrázku, aby se zobrazila barva."
+              "label": "Použít původní poměr obrázku",
+              "info": "Tuto možnost vyberte, pokud nechcete, aby došlo k oříznutí obrázku."
             }
           }
         },
@@ -464,8 +465,8 @@
               "placeholder": "Zadejte adresu URL z YouTube nebo Vimea"
             },
             "image_padding": {
-              "label": "Přidat vnitřní okraj obrázku",
-              "info": "Pokud nechcete, aby došlo k oříznutí vašeho titulního obrázku, vyberte u něj vnitřní okraj."
+              "label": "Použít původní poměr obrázku",
+              "info": "Tuto možnost vyberte, pokud nechcete, aby došlo k oříznutí obrázku."
             },
             "description": {
               "label": "Alternativní text videa",
@@ -554,9 +555,6 @@
         "show_image": {
           "label": "Zobrazit propagovaný obrázek",
           "info": "Nejlepších výsledků dosáhnete použitím obrázku s poměrem stran 3:2. [Zjistit více](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "Zobrazit sekundární pozadí"
         },
         "show_date": {
           "label": "Zobrazit datum"
@@ -704,6 +702,9 @@
         },
         "payment_enable": {
           "label": "Zobrazit ikony plateb"
+        },
+        "margin_top": {
+          "label": "Horní okraj"
         }
       }
     },
@@ -757,6 +758,9 @@
             "label": "Inverze"
           },
           "label": "Barevné schéma"
+        },
+        "margin_bottom": {
+          "label": "Dolní okraj"
         }
       }
     },
@@ -1461,7 +1465,7 @@
                 "label": "Rozevírací nabídka"
               },
               "options__2": {
-                "label": "Tlačítko"
+                "label": "Kulaté přepínače"
               }
             }
           }
@@ -1752,9 +1756,6 @@
           },
           "options__2": {
             "label": "Zobrazit jako pozadí sloupce"
-          },
-          "options__3": {
-            "label": "Zobrazit jako pozadí sekce"
           }
         },
         "button_label": {
@@ -2048,7 +2049,7 @@
                 "label": "Rozevírací nabídka"
               },
               "options__2": {
-                "label": "Tlačítko"
+                "label": "Kulaté přepínače"
               }
             }
           }
