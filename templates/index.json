@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Taylor Stitch ss22",
+            "heading": "Taylor Stitch SS22",
             "heading_size": "medium"
           }
         },
@@ -16,9 +16,6 @@
             "text": "Taylor Stitch warm  weather threads are here!",
             "text_style": "body"
           }
-        },
-        "text": {
-          "type": "text"
         },
         "button": {
           "type": "buttons",
