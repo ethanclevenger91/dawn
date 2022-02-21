@@ -17,6 +17,9 @@
             "text_style": "body"
           }
         },
+        "text": {
+          "type": "text"
+        },
         "button": {
           "type": "buttons",
           "settings": {
