@@ -18,7 +18,7 @@
         "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% for tag in product.tags %}\n        {% if tag contains 'PRES22' %}\n             <h2>President's Day 2022 Sale<\/h2>\n<p>This product is currently heavily discounted with LAST CALL pricing. The price may not be reflected until the item is in your cart.<\/p>\n<p><a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased as part of a LAST CALL sale are not eligible for return.<\/p>\n        {% endif %}\n      {% endfor %}"
+            "custom_liquid": "{% for tag in product.tags %}\n        {% if tag contains 'PRES22' %}\n             <h2>President's Day 2022 Sale<\/h2>\n<p>This product is currently heavily discounted with LAST CALL pricing. The price may not be reflected until the item is in your cart.<\/p>\n<p><a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased as part of a LAST CALL sale are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n        {% endif %}\n      {% endfor %}"
           }
         },
         "a97d63b7-e61a-48b4-8b81-c98e3b27a37a": {
@@ -38,7 +38,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "question_mark",
-            "content": "<p>Items leave our shop Tuesday - Saturday. Shipping method can be selected at checkout. We offer USPS, UPS, and DHL for international shipments. Please double-check your size and review <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">our refund policy<\/a>. <\/p>",
+            "content": "<p>Items leave our shop Monday-Friday. Shipping method can be selected at checkout.<\/p><p>Please double-check your size. Most items may only be returned for store credit. Exceptions apply. Please review <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">our refund policy<\/a> for full details.<\/p>",
             "page": ""
           }
         },
