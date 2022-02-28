@@ -6,19 +6,20 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "President's Day Sale",
+            "heading": "Porterhouse Clothing",
             "heading_size": "medium"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Now through Sunday 2\/27. 35% off select threads.",
+            "text": "Durable, versatile, classic menswear.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop now",
             "button_link_1": "shopify:\/\/collections\/presidents-day-sale-2022",
@@ -35,7 +36,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF0607_2_1_3d584c2e-768f-463c-b6b1-f79091c49ef5.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF2163.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
