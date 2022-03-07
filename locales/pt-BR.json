@@ -287,7 +287,7 @@
     }
   },
   "localization": {
-    "country_label": "País/Região",
+    "country_label": "País\/Região",
     "language_label": "Idioma",
     "update_language": "Atualizar idioma",
     "update_country": "Atualizar país\/região"
@@ -319,7 +319,7 @@
       "address1": "Endereço 1",
       "address2": "Endereço 2",
       "city": "Cidade",
-      "country": "País/Região",
+      "country": "País\/Região",
       "province": "Província",
       "zip": "CEP",
       "phone": "Telefone",
