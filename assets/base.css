@@ -2550,7 +2550,7 @@ details[open] > .header__icon--menu .icon-hamburger {
   }
 
   .header__inline-menu > ul > li:nth-child(3) ul {
-      column-count: 2;
+      column-count: 3;
       width: auto;
   }
 
