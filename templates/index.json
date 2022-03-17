@@ -48,32 +48,52 @@
         "show_text_below": true
       }
     },
-    "16288074329a8902e0": {
+    "1647551059cba80a44": {
       "type": "rich-text",
       "blocks": {
-        "16288074329a8902e0-0": {
+        "164755105983f041ae-0": {
           "type": "heading",
           "settings": {
-            "heading": "Classic, durable and versatile menswear",
+            "heading": "This Stuff is Green",
             "heading_size": "h1"
           }
         },
-        "16288074329a8902e0-1": {
+        "164755105983f041ae-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The modern man needs to dress to meet whatever the day might throw at him. From putting in the hours at the office or in the field, to a weekend excursion in the great outdoors, to drinks at the bar Friday night. If your clothes can get you to all three in style, you're ready for anything.<br\/><br\/>Porterhouse Clothing was founded for those men. With durable brands that wear in, not out, we're here to help guys look sharp doing everything.<\/p>"
+            "text": "<p>Happy St. Patrick's Day!<\/p>"
           }
         }
       },
       "block_order": [
-        "16288074329a8902e0-0",
-        "16288074329a8902e0-1"
+        "164755105983f041ae-0",
+        "164755105983f041ae-1"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "16288113190a56e667": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "collection": "this-stuff-is-green",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "16312348604f33da59": {
@@ -110,6 +130,34 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "16288074329a8902e0": {
+      "type": "rich-text",
+      "blocks": {
+        "16288074329a8902e0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Classic, durable and versatile menswear",
+            "heading_size": "h1"
+          }
+        },
+        "16288074329a8902e0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The modern man needs to dress to meet whatever the day might throw at him. From putting in the hours at the office or in the field, to a weekend excursion in the great outdoors, to drinks at the bar Friday night. If your clothes can get you to all three in style, you're ready for anything.<br\/><br\/>Porterhouse Clothing was founded for those men. With durable brands that wear in, not out, we're here to help guys look sharp doing everything.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16288074329a8902e0-0",
+        "16288074329a8902e0-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "162880743707132227": {
@@ -252,26 +300,6 @@
         "padding_bottom": 36
       }
     },
-    "16288113190a56e667": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Outerwear made to last",
-        "heading_size": "h1",
-        "collection": "outerwear",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "background-1",
-        "show_view_all": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1628811602f5b491c4": {
       "type": "image-with-text",
       "disabled": true,
@@ -359,13 +387,14 @@
   },
   "order": [
     "image_banner",
-    "16288074329a8902e0",
+    "1647551059cba80a44",
+    "16288113190a56e667",
     "16312348604f33da59",
+    "16288074329a8902e0",
     "162880743707132227",
     "16288076191b5a1fb7",
     "image_text",
     "16288077053a9a5d56",
-    "16288113190a56e667",
     "1628811602f5b491c4",
     "16281191127f7c30d5",
     "16281190877da4b4bf",
