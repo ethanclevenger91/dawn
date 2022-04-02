@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "aloha from naked & famous",
+            "heading": "Portuguese Flannel SS22",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Spring 2022 Naked & Famous shirting now here!",
+            "text": "Warm weather shirting from Portugual.",
             "text_style": "body"
           }
         },
@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop new styles",
-            "button_link_1": "shopify:\/\/collections\/naked-famous-spring-summer-22",
+            "button_link_1": "shopify:\/\/collections\/portuguese-flannel-ss22",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF4474_2.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF5338.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
