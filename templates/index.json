@@ -244,6 +244,7 @@
         "164953719215a0a6df-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF1382.png",
             "title": "Natural & Responsible Materials",
             "text": "<p>There's more to clothing than cotton. Mankind has been making clothes from a variety of natural materials for millenia. Linen, hemp, wool and more all find a home in our shop, used intentionally in garments suited for a variety of applications.<\/p>",
             "link_label": "More About Clothing Materials",
@@ -253,6 +254,7 @@
         "164953719215a0a6df-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/PXL_20220406_232301523.MP.jpg",
             "title": "Made in the USA",
             "text": "<p>The road from seed to shirt is long, and it's a tall task for anyone to understand the entire supply chain. But we do our best, and work with brands who are transparent about their products. When we can't keep our dollars at home, we still strive to know where items come from.<\/p>",
             "link_label": "The Made in the USA Clothing Renaissance",
@@ -262,9 +264,10 @@
         "164953719215a0a6df-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF5127.jpg",
             "title": "Buy Nice, Not Twice",
             "text": "<p>Americans buy more clothes than any other nation. It costs a bit more to shop the way we do, but by focusing on durable and versatile clothing in classic styles, our goal is for you to buy fewer things, like them better, and wear them more often.<\/p>",
-            "link_label": "Clothing's Footprint",
+            "link_label": "Your Clothing's Footprint",
             "link": "shopify:\/\/pages\/buy-nice-not-twice"
           }
         }
@@ -278,7 +281,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
