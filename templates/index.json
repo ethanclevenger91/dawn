@@ -200,6 +200,97 @@
         "padding_bottom": 36
       }
     },
+    "1649537100b0ee17f3": {
+      "type": "rich-text",
+      "blocks": {
+        "16495371002d044ff9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Porterhouse Philosophy",
+            "heading_size": "h1"
+          }
+        },
+        "16495371002d044ff9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The selection of brands available at Porterhouse Clothing & Supply is decidedly different than what you'll find at big box and mall menswear stores. Here's what we look for in the lines we carry.<\/p>"
+          }
+        },
+        "16495371002d044ff9-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16495371002d044ff9-0",
+        "16495371002d044ff9-1",
+        "16495371002d044ff9-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "16495371921697ea94": {
+      "type": "multicolumn",
+      "blocks": {
+        "164953719215a0a6df-0": {
+          "type": "column",
+          "settings": {
+            "title": "Natural & Responsible Materials",
+            "text": "<p>There's more to clothing than cotton. Mankind has been making clothes from a variety of natural materials for millenia. Linen, hemp, wool and more all find a home in our shop, used intentionally in garments suited for a variety of applications.<\/p>",
+            "link_label": "More About Clothing Materials",
+            "link": "shopify:\/\/pages\/natural-materials"
+          }
+        },
+        "164953719215a0a6df-1": {
+          "type": "column",
+          "settings": {
+            "title": "Made in the USA",
+            "text": "<p>The road from seed to shirt is long, and it's a tall task for anyone to understand the entire supply chain. But we do our best, and work with brands who are transparent about their products. When we can't keep our dollars at home, we still strive to know where items come from.<\/p>",
+            "link_label": "The Made in the USA Clothing Renaissance",
+            "link": "shopify:\/\/pages\/made-in-the-usa"
+          }
+        },
+        "164953719215a0a6df-2": {
+          "type": "column",
+          "settings": {
+            "title": "Buy Nice, Not Twice",
+            "text": "<p>Americans buy more clothes than any other nation. It costs a bit more to shop the way we do, but by focusing on durable and versatile clothing in classic styles, our goal is for you to buy fewer things, like them better, and wear them more often.<\/p>",
+            "link_label": "Clothing's Footprint",
+            "link": "shopify:\/\/pages\/buy-nice-not-twice"
+          }
+        }
+      },
+      "block_order": [
+        "164953719215a0a6df-0",
+        "164953719215a0a6df-1",
+        "164953719215a0a6df-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "16288076191b5a1fb7": {
       "type": "featured-collection",
       "settings": {
@@ -300,51 +391,6 @@
         "padding_bottom": 36
       }
     },
-    "1628811602f5b491c4": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1628811602f5b491c4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Truman Boot",
-            "heading_size": "h1"
-          }
-        },
-        "1628811602f5b491c4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Truman leather boots are built in here in Eugene, Oregon, and we're their only local retailer. For high-quality craftsmanship and a boot worth resoleing for years to come, look no further. Shop online now or drop by the store for a try-on.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1628811602f5b491c4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Truman Boot",
-            "button_link": "shopify:\/\/collections\/truman-boot"
-          }
-        }
-      },
-      "block_order": [
-        "1628811602f5b491c4-0",
-        "1628811602f5b491c4-1",
-        "1628811602f5b491c4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Both-Crate-Metal-1-cropped.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16281191127f7c30d5": {
       "type": "rich-text",
       "blocks": {
@@ -392,10 +438,11 @@
     "16312348604f33da59",
     "16288074329a8902e0",
     "162880743707132227",
+    "1649537100b0ee17f3",
+    "16495371921697ea94",
     "16288076191b5a1fb7",
     "image_text",
     "16288077053a9a5d56",
-    "1628811602f5b491c4",
     "16281191127f7c30d5",
     "16281190877da4b4bf",
     "16281192264530d9c8"
