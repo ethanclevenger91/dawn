@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Portuguese Flannel SS22",
+            "heading": "Spring sale 2022",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Warm weather shirting from Portugual.",
+            "text": "April 29th - May 2nd",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop new styles",
-            "button_link_1": "shopify:\/\/collections\/portuguese-flannel-ss22",
+            "button_label_1": "Shop the sale",
+            "button_link_1": "shopify:\/\/collections\/spring-sale-2022",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,11 +35,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF5338.jpg",
+        "image": "shopify:\/\/shop_images\/SPRING_SALE_4_1.png",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-left",
+        "desktop_content_position": "middle-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
