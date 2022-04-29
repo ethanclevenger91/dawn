@@ -31,11 +31,10 @@
         "blocks": {
           "4ece5594-85b0-4e89-825e-c931ac331b9d": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "President's Day Sale live now. 35% off select styles. LAST CALL terms apply.",
+              "text": "Spring Sale live now. 25% off select styles. LAST CALL terms apply.",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/presidents-day-sale-2022"
+              "link": "shopify:\/\/collections\/spring-sale-2022"
             }
           }
         },
