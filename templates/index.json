@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "RGT Limited Capsule Runs",
+            "heading": "freenote spring styles",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "The latest and greatest from the Southern California brand.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Rogue Territory",
-            "button_link_1": "shopify:\/\/collections\/rogue-territory",
+            "button_label_1": "Shop freenote cloth",
+            "button_link_1": "shopify:\/\/collections\/freenote-cloth-spring-and-summer-2022",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,11 +35,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF5127.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF6520_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "bottom-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
@@ -81,15 +81,22 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
         "collection": "spring-summer-22-picks",
         "products_to_show": 8,
         "columns_desktop": 4,
-        "color_scheme": "background-1",
+        "full_width": false,
         "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 0,
@@ -299,15 +306,22 @@
       "settings": {
         "title": "Latest Arrivals",
         "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
         "collection": "frontpage",
         "products_to_show": 8,
         "columns_desktop": 4,
-        "color_scheme": "background-1",
+        "full_width": false,
         "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
