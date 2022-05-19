@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "freenote spring styles",
+            "heading": "Taylor Stitch spring",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "The latest and greatest from the Southern California brand.",
+            "text": "Warm weather threads built sustainably.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop freenote cloth",
-            "button_link_1": "shopify:\/\/collections\/freenote-cloth-spring-and-summer-2022",
+            "button_label_1": "Shop New Styles",
+            "button_link_1": "shopify:\/\/collections\/taylor-stitch-spring-summer-22",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF6520_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF8017_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
