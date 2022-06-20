@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Father's day gifts",
+            "heading": "Porterhouse merch",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Father's Day is right around the corner.",
+            "text": "Branded baseball tees available now",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop gift ideas",
-            "button_link_1": "shopify:\/\/collections\/fathers-day-2022",
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/products\/porterhouse-baseball-tee",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF8486_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF8931_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -54,7 +54,7 @@
         "164755105983f041ae-0": {
           "type": "heading",
           "settings": {
-            "heading": "Top warm weather threads",
+            "heading": "<p>Top warm weather threads<\/p>",
             "heading_size": "h1"
           }
         },
@@ -70,6 +70,8 @@
         "164755105983f041ae-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 76,
@@ -145,7 +147,7 @@
         "16288074329a8902e0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Classic, durable and versatile menswear",
+            "heading": "<p>Classic, durable and versatile menswear<\/p>",
             "heading_size": "h1"
           }
         },
@@ -161,6 +163,8 @@
         "16288074329a8902e0-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -213,7 +217,7 @@
         "16495371002d044ff9-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Porterhouse Philosophy",
+            "heading": "<p>The Porterhouse Philosophy<\/p>",
             "heading_size": "h1"
           }
         },
@@ -229,7 +233,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -239,6 +246,8 @@
         "16495371002d044ff9-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -414,7 +423,7 @@
         "16281191127f7c30d5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Latest from Instagram",
+            "heading": "<p>Latest from Instagram<\/p>",
             "heading_size": "h1"
           }
         }
@@ -423,6 +432,8 @@
         "16281191127f7c30d5-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": false,
         "padding_top": 40,
