@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Rogue Territory ss22",
+            "heading": "Gitman Spring\/Summer 22",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Summer shirting from Capsule 2 available now!",
+            "text": "American made shirting fit for even the hottest of days.",
             "text_style": "body"
           }
         },
@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop New Styles",
-            "button_link_1": "shopify:\/\/collections\/rogue-territory",
+            "button_link_1": "shopify:\/\/collections\/gitman-vintage",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF9292_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF9970_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
