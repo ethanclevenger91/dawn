@@ -20,8 +20,8 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop New Styles",
-            "button_link_1": "shopify:\/\/collections\/gitman-vintage",
+            "button_label_1": "Shop Styles",
+            "button_link_1": "shopify:\/\/collections\/gitman-vintage-ss23",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
