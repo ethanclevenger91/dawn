@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Gitman Spring\/Summer 22",
+            "heading": "Dog Days Sale",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "American made shirting fit for even the hottest of days.",
+            "text": "40% off many spring and summer styles. Bonus 25% off existing markdowns with code DOGDAYSBONUS.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Styles",
-            "button_link_1": "shopify:\/\/collections\/gitman-vintage-ss23",
+            "button_label_1": "Shop the Sale",
+            "button_link_1": "shopify:\/\/collections\/dog-days-22",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF9970_1.jpg",
+        "image": "shopify:\/\/shop_images\/Dog_Day_Sale.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
