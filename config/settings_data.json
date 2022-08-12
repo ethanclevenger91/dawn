@@ -34,11 +34,10 @@
         "blocks": {
           "4ece5594-85b0-4e89-825e-c931ac331b9d": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Spring Sale live now. 25% off select styles. LAST CALL terms apply.",
+              "text": "Dog Days Sale live now. 25-40% off. LAST CALL terms apply.",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/spring-sale-2022"
+              "link": "shopify:\/\/collections\/dog-days-22"
             }
           }
         },
