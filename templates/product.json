@@ -17,6 +17,7 @@
         },
         "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "{% for c in product.collections %}\n{% if c.handle == \"dog-days-22\" or c.handle == \"dog-days-22-bonus\" %}\n<h2>Dog Days Sale<\/h2>\n<p>This product is currently heavily discounted with LAST CALL pricing. \n{% if c.handle == \"dog-days-22-bonus\" %}\nAdd this item to your cart with coupon code DOGDAYSBONUS to see all discounts reflected.<\/p>\n{% else %}\nAdd this item to your cart to see all discounts reflected.\n{% endif %}\n<p><a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased as part of a LAST CALL sale are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n        {% endif %}\n      {% endfor %}"
           }
