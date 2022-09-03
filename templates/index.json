@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Red Wing iron ranger",
+            "heading": "Taylor Stitch Fall styles",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "All new Iron Ranger available now.",
+            "text": "The time to start layering has once again arrived.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop now",
-            "button_link_1": "shopify:\/\/products\/iron-ranger-8087-slate-muleskinner",
+            "button_label_1": "Shop Fall Styles",
+            "button_link_1": "shopify:\/\/collections\/taylor-stitch-autumn-winter-2022",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,11 +35,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF0244_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF0446_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "bottom-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
