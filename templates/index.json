@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Taylor Stitch Fall styles",
+            "heading": "Riders Jacket restock",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "The time to start layering has once again arrived.",
+            "text": "The popular Riders Jacket from Freenote is now back!",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Fall Styles",
-            "button_link_1": "shopify:\/\/collections\/taylor-stitch-autumn-winter-2022",
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/riders-jacket",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,11 +35,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF0446_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF0595.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-right",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
@@ -54,14 +54,14 @@
         "164755105983f041ae-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Top warm weather threads<\/p>",
+            "heading": "<p>Top Cooler Weather Threads<\/p>",
             "heading_size": "h1"
           }
         },
         "164755105983f041ae-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Porterhouse staff top picks for the Spring\/Summer season.<\/p>"
+            "text": "<p>Porterhouse staff top picks for the Fall\/Winter season.<\/p>"
           }
         }
       },
@@ -86,7 +86,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "spring-summer-22-picks",
+        "collection": "fall-winter-2022",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
