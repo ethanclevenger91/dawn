@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Riders Jacket restock",
+            "heading": "American leather jackets",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "The popular Riders Jacket from Freenote is now back!",
+            "text": "New to the shop is leather icon, Schott N.Y.C",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/riders-jacket",
+            "button_label_1": "Shop Leather Jackets",
+            "button_link_1": "shopify:\/\/collections\/schott-nyc",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF0595.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF0962.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
