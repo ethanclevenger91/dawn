@@ -2973,6 +2973,6 @@ details-disclosure > details {
   z-index:10000;
 }
 
-.shopify-payment-button__button + .button {
+.shopify-payment-button + .button {
   margin-top:1rem;
 }
