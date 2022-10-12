@@ -2972,3 +2972,7 @@ details-disclosure > details {
 #FacetFiltersFormMobile {
   z-index:10000;
 }
+
+.shopify-payment-button + .button {
+  margin-top:1rem;
+}
