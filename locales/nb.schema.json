@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Variantknapper",
-      "paragraph": "Variantknapper er én måte å presentere produktvarianter på. [Finn ut mer](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Variantknapper er én måte å presentere produktvarianter på. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Inputs"
@@ -1725,7 +1725,7 @@
           "name": "Komplimentære produkter",
           "settings": {
             "paragraph": {
-              "content": "Legg til Search & Discovery-appen for å velge komplimentære produkter. [Finn ut mer](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Legg til Search & Discovery-appen for å velge komplimentære produkter. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "Overskrift"

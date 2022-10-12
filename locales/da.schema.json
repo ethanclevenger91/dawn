@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Variantetiketter",
-      "paragraph": "Variantetiketter er en måde at vise dine produktvarianter på. [Få mere at vide](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Variantetiketter er en måde at vise dine produktvarianter på. [Få mere at vide](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Inputs"
@@ -1726,7 +1726,7 @@
           "name": "Supplerende produkter",
           "settings": {
             "paragraph": {
-              "content": "Tilføj Search & Discovery-appen for at vælge supplerende produkter. [Få mere at vide](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Tilføj Search & Discovery-appen for at vælge supplerende produkter. [Få mere at vide](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "Overskrift"

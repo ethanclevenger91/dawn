@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Variantkapslar",
-      "paragraph": "Variantpiller är ett sätt att visa produktvarianter på. [Mer information](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Variantpiller är ett sätt att visa produktvarianter på. [Mer information](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Inmatningar"
@@ -1726,7 +1726,7 @@
           "name": "Kompletterande produkter",
           "settings": {
             "paragraph": {
-              "content": "Lägg till appen Search & Discovery för att välja tilläggsprodukter. [Mer information](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Lägg till appen Search & Discovery för att välja tilläggsprodukter. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "Rubrik"

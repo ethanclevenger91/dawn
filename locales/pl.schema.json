@@ -266,7 +266,7 @@
     },
     "variant_pills": {
       "name": "Okrągłe przełączniki wariantów",
-      "paragraph": "Okrągłe przełączniki wariantów to jeden ze sposobów wyświetlania wariantów produktów. [Dowiedz się więcej](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "Okrągłe przełączniki wariantów to jeden ze sposobów wyświetlania wariantów produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Dane wejściowe"
@@ -1726,7 +1726,7 @@
           "name": "Produkty uzupełniające",
           "settings": {
             "paragraph": {
-              "content": "Aby wybrać produkty uzupełniające, dodaj aplikację Search & Discovery. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Aby wybrać produkty uzupełniające, dodaj aplikację Search & Discovery. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "Nagłówek"
