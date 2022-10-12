@@ -28,6 +28,14 @@
             "custom_liquid": "{{ product.metafields.my_fields.short_description }}"
           }
         },
+        "77c7897c-3d5a-4215-b174-ec7fbefc8322": {
+          "type": "shopify:\/\/apps\/esc-size-charts-size-guide\/blocks\/app-block\/daa9a1f8-04ef-4369-ae22-966a9c435d5f",
+          "settings": {
+            "widget_type": "button",
+            "force_background": false,
+            "btn_text": "Size Guide"
+          }
+        },
         "336c02db-a2f3-4a1e-8d12-98a0e28077b1": {
           "type": "custom_liquid",
           "settings": {
@@ -77,6 +85,7 @@
         "title",
         "0e04ab17-38a9-4d69-911d-b546f7feda3c",
         "a97d63b7-e61a-48b4-8b81-c98e3b27a37a",
+        "77c7897c-3d5a-4215-b174-ec7fbefc8322",
         "336c02db-a2f3-4a1e-8d12-98a0e28077b1",
         "ae065407-6136-400b-a6f0-0d595d57dd32",
         "variant_picker",
@@ -87,6 +96,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "thumbnail",
         "media_size": "large",
         "mobile_thumbnails": "hide",
