@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Portuguese flannel",
+            "heading": "Cold Weather Threads",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Our favorite European flannels return for the chilly season.",
+            "text": "The latest from our favorite brands to keep you warm & looking cool.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Flannels",
-            "button_link_1": "shopify:\/\/collections\/portuguese-flannel-autumn-winter-22",
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/fall-winter-2022",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,11 +35,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF1787_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF3986.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": true,
-        "desktop_content_position": "top-right",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
