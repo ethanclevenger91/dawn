@@ -13,7 +13,7 @@
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "The latest from our favorite brands to keep you warm & looking cool.",
+            "text": "The latest from Freenote to keep you warm & looking cool.",
             "text_style": "body"
           }
         },
@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/fall-winter-2022",
+            "button_link_1": "shopify:\/\/collections\/freenote-cloth-aw22",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
