@@ -31,6 +31,20 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "ccebe915-73c3-4f89-bac1-b02dc6a09043": {
+            "type": "announcement",
+            "settings": {
+              "text": "Now through Monday 11\/28 get 20% off existing markdowns + $10 back for every $100 spent",
+              "text_alignment": "center",
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/collections\/black-friday-weekend-sale"
+            }
+          }
+        },
+        "block_order": [
+          "ccebe915-73c3-4f89-bac1-b02dc6a09043"
+        ],
         "settings": {
         }
       },
@@ -45,6 +59,7 @@
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
+          "mobile_logo_position": "center",
           "margin_bottom": 0,
           "padding_top": 20,
           "padding_bottom": 20
