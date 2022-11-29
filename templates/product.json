@@ -15,16 +15,17 @@
           "settings": {
           }
         },
-        "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "{% for c in product.collections %}\n{% if c.handle == \"black-friday-weekend-sale\" %}\n<h2>Black Friday Weekend Sale<\/h2>\n<p>Now through Monday 11\/28, this product is heavily discounted with LAST CALL pricing as part of our Black Friday sale. Final price reflected in cart.<\/p>\n<p><a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased as part of a LAST CALL sale are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n        {% endif %}\n      {% endfor %}"
-          }
-        },
         "a97d63b7-e61a-48b4-8b81-c98e3b27a37a": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "{{ product.metafields.my_fields.short_description }}"
+          }
+        },
+        "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "{% for c in product.collections %}\n{% if c.handle == \"black-friday-weekend-sale\" %}\n<h2>Black Friday Weekend Sale<\/h2>\n<p>Now through Monday 11\/28, this product is heavily discounted with LAST CALL pricing as part of our Black Friday sale. Final price reflected in cart.<\/p>\n<p><a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased as part of a LAST CALL sale are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n        {% endif %}\n      {% endfor %}"
           }
         },
         "77c7897c-3d5a-4215-b174-ec7fbefc8322": {
@@ -82,8 +83,8 @@
       "block_order": [
         "vendor",
         "title",
-        "0e04ab17-38a9-4d69-911d-b546f7feda3c",
         "a97d63b7-e61a-48b4-8b81-c98e3b27a37a",
+        "0e04ab17-38a9-4d69-911d-b546f7feda3c",
         "77c7897c-3d5a-4215-b174-ec7fbefc8322",
         "336c02db-a2f3-4a1e-8d12-98a0e28077b1",
         "ae065407-6136-400b-a6f0-0d595d57dd32",
