@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday Weekend Sale",
+            "heading": "Boots & Wool",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Now through Monday 11\/28 get 20% off existing markdowns + $10 back for every $100 spent",
+            "text": "Everything you need for fall and winter in the PNW",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Sale",
-            "button_link_1": "shopify:\/\/collections\/black-friday-weekend-sale",
+            "button_label_1": "Shop the Latest Releases",
+            "button_link_1": "https:\/\/porterhouseclothing.com\/collections\/all?filter.v.price.gte=&filter.v.price.lte=&sort_by=created-descending",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,11 +35,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/67E3CFD2-0EC3-4C48-A2D3-709CFD0027A5.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF3986_2_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": true,
-        "desktop_content_position": "top-center",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
