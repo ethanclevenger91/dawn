@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Boots & Wool",
+            "heading": "Fall winter lookbook",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Everything you need for fall and winter in the PNW",
+            "text": "Gather some wardrobe inspo with our style guide.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the Latest Releases",
-            "button_link_1": "https:\/\/porterhouseclothing.com\/collections\/all?filter.v.price.gte=&filter.v.price.lte=&sort_by=created-descending",
+            "button_label_1": "lookbook",
+            "button_link_1": "shopify:\/\/blogs\/news\/porterhouse-fall-winter-2022-lookbook",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,11 +35,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF3986_2_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF4896_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": true,
-        "desktop_content_position": "bottom-left",
+        "desktop_content_position": "bottom-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
@@ -83,7 +83,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "2022-holiday-gift-guide",
@@ -316,7 +316,7 @@
       "settings": {
         "title": "Latest Arrivals",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "frontpage",
