@@ -34,12 +34,11 @@
         "blocks": {
           "ccebe915-73c3-4f89-bac1-b02dc6a09043": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Now through Monday 11\/28 get 20% off existing markdowns + $10 back for every $100 spent",
+              "text": "Everything you need to know about the holidays at Porterhouse",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/black-friday-weekend-sale"
+              "link": "shopify:\/\/pages\/holidays-at-porterhouse"
             }
           }
         },
