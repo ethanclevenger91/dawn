@@ -34,6 +34,7 @@
         "blocks": {
           "ccebe915-73c3-4f89-bac1-b02dc6a09043": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Everything you need to know about the holidays at Porterhouse",
               "text_alignment": "center",
