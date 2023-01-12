@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Fall\/Winter lookbook",
+            "heading": "Porterhouse boots",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Gather some wardrobe inspo with our style guide.",
+            "text": "Exclusively made for the shop by Oak Street Bootmakers.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "lookbook",
-            "button_link_1": "shopify:\/\/blogs\/news\/porterhouse-fall-winter-2022-lookbook",
+            "button_label_1": "Shop the boot",
+            "button_link_1": "shopify:\/\/products\/trench-boot-in-black-oil-tan-roughout",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,11 +35,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF4896_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF8608_2_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": true,
-        "desktop_content_position": "middle-right",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
