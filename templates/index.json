@@ -48,43 +48,59 @@
         "show_text_below": true
       }
     },
-    "f754e4ce-ca1f-49d5-acd8-5d1b9940065b": {
-      "type": "collection-list",
+    "8e5e019b-f4a1-4e9b-8555-bc52e5b4e734": {
+      "type": "multicolumn",
       "blocks": {
-        "template--14168137728072__f754e4ce-ca1f-49d5-acd8-5d1b9940065b-1674849459810b9845-0": {
-          "type": "featured_collection",
+        "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-0": {
+          "type": "column",
           "settings": {
-            "collection": "autumn-winter-2022"
+            "image": "shopify:\/\/shop_images\/DSCF5716.jpg",
+            "title": "The Autumn\/Winter Lookbook",
+            "text": "<p>Curated styles across all our brands. Check out Porterhouse's first look book.<\/p>",
+            "link_label": "Fit Check",
+            "link": "shopify:\/\/blogs\/news\/porterhouse-fall-winter-2022-lookbook"
           }
         },
-        "template--14168137728072__f754e4ce-ca1f-49d5-acd8-5d1b9940065b-1674849459810b9845-1": {
-          "type": "featured_collection",
+        "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-1": {
+          "type": "column",
           "settings": {
-            "collection": "core"
+            "image": "shopify:\/\/shop_images\/322041435_3395092154102984_7934515016691202873_n.jpg",
+            "title": "Sweater Weather",
+            "text": "<p>Autumn\/Winter 2022 menswear styles from your favorite brands, like Freenote Cloth, Dehen 1920, and Gitman Vintage.<\/p>",
+            "link_label": "AW22",
+            "link": "shopify:\/\/collections\/autumn-winter-2022"
           }
         },
-        "template--14168137728072__f754e4ce-ca1f-49d5-acd8-5d1b9940065b-1674849459810b9845-2": {
-          "type": "featured_collection",
+        "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-2": {
+          "type": "column",
           "settings": {
-            "collection": "wedding-styles"
+            "image": "shopify:\/\/shop_images\/DSCF9226.jpg",
+            "title": "A New Kind of Drip",
+            "text": "<p>We're stocking Tailored Coffee Roasters coffee now. If you need the full vibe, you can pick up a Porterhouse-branded mug and coaster while you're at it.<\/p>",
+            "link_label": "Get Wired",
+            "link": "shopify:\/\/collections\/coffee-essentials"
           }
         }
       },
       "block_order": [
-        "template--14168137728072__f754e4ce-ca1f-49d5-acd8-5d1b9940065b-1674849459810b9845-0",
-        "template--14168137728072__f754e4ce-ca1f-49d5-acd8-5d1b9940065b-1674849459810b9845-1",
-        "template--14168137728072__f754e4ce-ca1f-49d5-acd8-5d1b9940065b-1674849459810b9845-2"
+        "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-0",
+        "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-1",
+        "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-2"
       ],
       "settings": {
-        "title": "Quick Hits",
+        "title": "Popular Now",
         "heading_size": "h1",
-        "image_ratio": "square",
+        "image_width": "full",
+        "image_ratio": "portrait",
         "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 100,
         "padding_bottom": 36
       }
     },
@@ -445,7 +461,7 @@
   },
   "order": [
     "image_banner",
-    "f754e4ce-ca1f-49d5-acd8-5d1b9940065b",
+    "8e5e019b-f4a1-4e9b-8555-bc52e5b4e734",
     "16288076191b5a1fb7",
     "16312348604f33da59",
     "16288074329a8902e0",
