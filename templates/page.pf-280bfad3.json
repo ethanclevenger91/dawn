@@ -19,7 +19,7 @@
         "template--14172634480712__f971c4ef-fe1d-4f51-9461-970fa2de515a-1674953053dab97727-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to the Porterhouse family. We're excited to help you create a wardrobe full of clothes you're excited to wear for a lifetime.<\/p><p>You'll get an email confirmation from us shortly with a few quick questions to help us tailor the brands we carry and any offers you may have signed  up for.<\/p><p>In the meantime, take a look around and find something you love.<\/p>"
+            "text": "<p>Welcome to the Porterhouse family. We're excited to help you create a wardrobe full of clothes you're excited to wear for a lifetime.<\/p><p>In the meantime, take a look around and find something you love.<\/p>"
           }
         },
         "3bab426f-a95b-4919-b19d-af5df16abb5a": {
@@ -43,7 +43,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
