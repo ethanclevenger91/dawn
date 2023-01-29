@@ -1,11 +1,5 @@
 {
   "sections": {
-    "pf-280bfad3": {
-      "type": "pf-280bfad3",
-      "disabled": true,
-      "settings": {
-      }
-    },
     "f971c4ef-fe1d-4f51-9461-970fa2de515a": {
       "type": "rich-text",
       "blocks": {
@@ -50,7 +44,6 @@
     }
   },
   "order": [
-    "pf-280bfad3",
     "f971c4ef-fe1d-4f51-9461-970fa2de515a"
   ]
 }
