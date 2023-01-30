@@ -34,12 +34,11 @@
         "blocks": {
           "ccebe915-73c3-4f89-bac1-b02dc6a09043": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Everything you need to know about the holidays at Porterhouse",
+              "text": "End of Season Sale. 25-35% off. Shop the collection.",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/pages\/holidays-at-porterhouse"
+              "link": "shopify:\/\/collections\/autumn-winter-2022-end-of-season-sale"
             }
           }
         },
