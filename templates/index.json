@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Porterhouse Boots",
+            "heading": "End of Season Sale",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Exclusively made for the shop by Oak Street Bootmakers.",
+            "text": "25-35% off late season styles Monday through Sunday. Plus, an extra 25% off existing discounts. Finally, we've unleashed free shipping on orders of $250 or more.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the boot",
-            "button_link_1": "shopify:\/\/products\/trench-boot-in-black-oil-tan-roughout",
+            "button_label_1": "Shop the Sale",
+            "button_link_1": "shopify:\/\/collections\/autumn-winter-2022-end-of-season-sale",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF8608_2_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF0272.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": true,
