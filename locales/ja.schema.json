@@ -782,14 +782,14 @@
           "name": "ブランド情報",
           "settings": {
             "paragraph": {
-              "content": "このブロックにはブランド情報が表示されます。[ブランド情報を編集します。](/editor?context=theme&category=brand%20information)"
+              "content": "このブロックにはブランド情報が表示されます。[ブランド情報を編集します。](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "SNSのアイコン"
             },
             "show_social": {
               "label": "SNSのアイコンを表示する",
-              "info": "SNSのアカウントを表示するには、[テーマ設定](/editor?context=theme&category=social%20media) で連携させます。"
+              "info": "SNSのアカウントを表示するには、[テーマ設定](\/editor?context=theme&category=social%20media) で連携させます。"
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "SNSのアイコン",
-          "info": "SNSのアカウントを表示するには、[テーマ設定](/editor?context=theme&category=social%20media) で連携させます。"
+          "info": "SNSのアカウントを表示するには、[テーマ設定](\/editor?context=theme&category=social%20media) で連携させます。"
         },
         "show_social": {
           "label": "SNSのアイコンを表示する"
@@ -816,7 +816,7 @@
           "content": "国\/地域セレクター"
         },
         "header__4": {
-          "info": "国/地域を追加するには、[マーケット設定](/admin/settings/markets)に移動します"
+          "info": "国\/地域を追加するには、[マーケット設定](\/admin\/settings\/markets)に移動します"
         },
         "enable_country_selector": {
           "label": "国\/地域セレクターを有効にする"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "ポリシーリンク",
-          "info": "ストアポリシーを追加するには、[ポリシー設定](/admin/settings/legal) を表示してください。"
+          "info": "ストアポリシーを追加するには、[ポリシー設定](\/admin\/settings\/legal) を表示してください。"
         },
         "show_policy": {
           "label": "ポリシーリンクを表示"
         },
         "header__9": {
           "content": "Shopでフォロー",
-          "info": "Shop アプリのストアフロントで、フォローボタンを表示します。[詳しくはこちら](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Shop アプリのストアフロントで、フォローボタンを表示します。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Shopでフォローを有効にする"
@@ -908,7 +908,7 @@
           "content": "ロゴ"
         },
         "logo_help": {
-          "content": "[テーマ設定]](/editor?context=theme&category=logo) でロゴを編集する"
+          "content": "[テーマ設定]](\/editor?context=theme&category=logo) でロゴを編集する"
         },
         "sticky_header_type": {
           "label": "常時表示のヘッダー",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "中"
           },
-          "info": "画像のアスペクト比が3:2のものを使用すると最適です。[詳しくはこちら](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "画像のアスペクト比が3:2のものを使用すると最適です。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "大"
           }
@@ -1408,11 +1408,11 @@
         },
         "enable_tags": {
           "label": "絞り込みを有効にする",
-          "info": "Search & Discoveryアプリを使用すると、絞り込みをカスタマイズできます。[詳しくはこちら](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Search & Discoveryアプリを使用すると、絞り込みをカスタマイズできます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "絞り込みを有効にする",
-          "info": "Search & Discoveryアプリを使用すると、絞り込みをカスタマイズできます。[詳しくはこちら](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Search & Discoveryアプリを使用すると、絞り込みをカスタマイズできます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "並べ替えを有効にする"
@@ -3043,7 +3043,7 @@
           "label": "デスクトップでの列数"
         },
         "paragraph__1": {
-          "content": "動的レコメンデーションでは、注文や商品の情報を利用して、時間の経過とともに変化し改善していきます。[詳しくはこちら](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "動的レコメンデーションでは、注文や商品の情報を利用して、時間の経過とともに変化し改善していきます。[詳しくはこちら](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "商品カード"
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "商品の評価を表示",
-          "info": "評価を表示するには、商品評価アプリを追加します。[詳しくはこちら](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "評価を表示するには、商品評価アプリを追加します。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "モバイルのレイアウト"

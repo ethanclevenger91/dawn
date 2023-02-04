@@ -782,14 +782,14 @@
           "name": "品牌資訊",
           "settings": {
             "paragraph": {
-              "content": "此區塊將顯示您的品牌資訊。[編輯品牌資訊。](/editor?context=theme&category=brand%20information)"
+              "content": "此區塊將顯示您的品牌資訊。[編輯品牌資訊。](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "社群媒體圖示"
             },
             "show_social": {
               "label": "顯示社群媒體圖示",
-              "info": "若要顯示您的社群媒體帳號，請在您的 [佈景主題設定](/editor?context=theme&category=social%20media) 中連接帳號。"
+              "info": "若要顯示您的社群媒體帳號，請在您的 [佈景主題設定](\/editor?context=theme&category=social%20media) 中連接帳號。"
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "社群媒體圖示",
-          "info": "若要顯示您的社群媒體帳號，請在您的 [佈景主題設定](/editor?context=theme&category=social%20media) 中連接帳號。"
+          "info": "若要顯示您的社群媒體帳號，請在您的 [佈景主題設定](\/editor?context=theme&category=social%20media) 中連接帳號。"
         },
         "show_social": {
           "label": "顯示社群媒體圖示"
@@ -816,7 +816,7 @@
           "content": "國家\/地區選擇器"
         },
         "header__4": {
-          "info": "若要新增國家/地區，請前往 [市場設定](/admin/settings/markets)。"
+          "info": "若要新增國家\/地區，請前往 [市場設定](\/admin\/settings\/markets)。"
         },
         "enable_country_selector": {
           "label": "啟用國家\/地區選擇器"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "政策連結",
-          "info": "若要新增商店政策，請前往 [政策設定](/admin/settings/legal)]。"
+          "info": "若要新增商店政策，請前往 [政策設定](\/admin\/settings\/legal)]。"
         },
         "show_policy": {
           "label": "顯示政策連結"
         },
         "header__9": {
           "content": "在 Shop 上追蹤",
-          "info": "為 Shop 應用程式上的店面顯示追蹤按鈕。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "為 Shop 應用程式上的店面顯示追蹤按鈕。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "啟用「在 Shop 上追蹤」"
@@ -908,7 +908,7 @@
           "content": "標誌"
         },
         "logo_help": {
-          "content": "在 [編輯佈景主題設定](/editor?context=theme&category=logo) 中編輯標誌。"
+          "content": "在 [編輯佈景主題設定](\/editor?context=theme&category=logo) 中編輯標誌。"
         },
         "sticky_header_type": {
           "label": "固定式頁首",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "中"
           },
-          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "大"
           }
@@ -1408,11 +1408,11 @@
         },
         "enable_tags": {
           "label": "啟用篩選",
-          "info": "使用 Search & Discovery 應用程式來自訂篩選條件。[瞭解詳情](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "使用 Search & Discovery 應用程式來自訂篩選條件。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "啟用篩選",
-          "info": "使用 Search & Discovery 應用程式來自訂篩選條件。[瞭解詳情](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "使用 Search & Discovery 應用程式來自訂篩選條件。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "啟用排序"
@@ -3043,7 +3043,7 @@
           "label": "桌面版的欄數"
         },
         "paragraph__1": {
-          "content": "動態推薦會使用訂單和商品資訊，以隨著時間改變與改進。[瞭解詳情](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "動態推薦會使用訂單和商品資訊，以隨著時間改變與改進。[瞭解詳情](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "商品卡片"
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "顯示商品評等",
-          "info": "新增商品評等應用程式，即可顯示評等。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "新增商品評等應用程式，即可顯示評等。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "行動版版面配置"

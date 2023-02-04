@@ -782,14 +782,14 @@
           "name": "Informações da marca",
           "settings": {
             "paragraph": {
-              "content": "Este bloco mostrará s informações da marca. [Editar informações da marca.](/editor?context=theme&category=brand%20information)"
+              "content": "Este bloco mostrará s informações da marca. [Editar informações da marca.](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "Ícones de redes sociais"
             },
             "show_social": {
               "label": "Exibir ícones de redes sociais",
-              "info": "Para exibir suas contas em redes sociais, crie links nas [configurações do tema](/editor?context=theme&category=social%20media)."
+              "info": "Para exibir suas contas em redes sociais, crie links nas [configurações do tema](\/editor?context=theme&category=social%20media)."
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "Ícones de redes sociais",
-          "info": "Para exibir suas contas em redes sociais, crie links nas [configurações do tema](/editor?context=theme&category=social%20media)."
+          "info": "Para exibir suas contas em redes sociais, crie links nas [configurações do tema](\/editor?context=theme&category=social%20media)."
         },
         "show_social": {
           "label": "Exibir ícones de redes sociais"
@@ -816,7 +816,7 @@
           "content": "Seletor de país\/região"
         },
         "header__4": {
-          "info": "Adicione um país/uma região às [configurações de mercado.](/admin/settings/markets)"
+          "info": "Adicione um país\/uma região às [configurações de mercado.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "Habilitar seletor de país\/região"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "Links para políticas",
-          "info": "Para adicionar as políticas da loja, acesse [policy settings](/admin/settings/legal)."
+          "info": "Para adicionar as políticas da loja, acesse [policy settings](\/admin\/settings\/legal)."
         },
         "show_policy": {
           "label": "Mostrar links para políticas"
         },
         "header__9": {
           "content": "Seguir no Shop",
-          "info": "Mostre o botão para seguir na sua vitrine no app do Shop. [Saiba mais](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Mostre o botão para seguir na sua vitrine no app do Shop. [Saiba mais](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Habilitar \"Seguir no Shop\""
@@ -908,7 +908,7 @@
           "content": "Logo"
         },
         "logo_help": {
-          "content": "Edite seu logo nas [configurações do tema](/editor?context=theme&category=logo)."
+          "content": "Edite seu logo nas [configurações do tema](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Cabeçalho fixo",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "Médio"
           },
-          "info": "Use uma imagem com proporção 3:2 para alcançar os melhores resultados. [Saiba mais](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Use uma imagem com proporção 3:2 para alcançar os melhores resultados. [Saiba mais](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Grande"
           }
@@ -1387,7 +1387,7 @@
         },
         "enable_filtering": {
           "label": "Habilitar filtragem",
-          "info": "Personalize os filtros com o app Search & Discovery. [Saiba mais](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Personalize os filtros com o app Search & Discovery. [Saiba mais](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "Habilitar organização"
@@ -1418,7 +1418,7 @@
         },
         "enable_tags": {
           "label": "Habilitar a filtragem",
-          "info": "Personalize os filtros com o app Search & Discovery. [Saiba mais](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Personalize os filtros com o app Search & Discovery. [Saiba mais](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "show_rating": {
           "label": "Exibir avaliações do produto",
@@ -3043,7 +3043,7 @@
           "label": "Número de colunas no desktop"
         },
         "paragraph__1": {
-          "content": "As recomendações dinâmicas usam informações sobre pedidos e produtos para mudar e melhorar com o tempo. [Saiba mais](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "As recomendações dinâmicas usam informações sobre pedidos e produtos para mudar e melhorar com o tempo. [Saiba mais](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Cartão de produto"
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "Exibir avaliações do produto",
-          "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Layout em dispositivos móveis"

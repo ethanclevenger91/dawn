@@ -782,14 +782,14 @@
           "name": "Informazioni sul brand",
           "settings": {
             "paragraph": {
-              "content": "Questo blocco mostrerà le informazioni sul tuo brand. [Modifica le informazioni sul brand.](/editor?context=theme&category=brand%20information)"
+              "content": "Questo blocco mostrerà le informazioni sul tuo brand. [Modifica le informazioni sul brand.](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "Icone dei social media"
             },
             "show_social": {
               "label": "Mostra icone dei social media",
-              "info": "Per mostrare i tuoi account sui social media, inseriscine i link nelle [impostazioni tema](/editor?context=theme&category=social%20media)."
+              "info": "Per mostrare i tuoi account sui social media, inseriscine i link nelle [impostazioni tema](\/editor?context=theme&category=social%20media)."
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "Icone dei social media",
-          "info": "Per mostrare i tuoi account sui social media, inseriscine i link nelle [impostazioni tema](/editor?context=theme&category=social%20media)."
+          "info": "Per mostrare i tuoi account sui social media, inseriscine i link nelle [impostazioni tema](\/editor?context=theme&category=social%20media)."
         },
         "show_social": {
           "label": "Mostra icone dei social media"
@@ -816,7 +816,7 @@
           "content": "Selettore paese\/area geografica"
         },
         "header__4": {
-          "info": "Per aggiungere un paese/un'area geografica, vai alle [impostazioni di mercato.](/admin/settings/markets)"
+          "info": "Per aggiungere un paese\/un'area geografica, vai alle [impostazioni di mercato.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "Abilita selettore paese\/area geografica"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "Link alle informative",
-          "info": "Per aggiungere le informative del negozio, vai alle [impostazioni delle informative](/admin/settings/legal)."
+          "info": "Per aggiungere le informative del negozio, vai alle [impostazioni delle informative](\/admin\/settings\/legal)."
         },
         "show_policy": {
           "label": "Mostra link alle informative"
         },
         "header__9": {
           "content": "Segui su Shop",
-          "info": "Mostra il pulsante segui per la tua vetrina virtuale nell'app Shop. [Maggiori informazioni](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Mostra il pulsante segui per la tua vetrina virtuale nell'app Shop. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Abilita Segui su Shop"
@@ -908,7 +908,7 @@
           "content": "Logo"
         },
         "logo_help": {
-          "content": "Modifica il tuo logo nelle [impostazioni tema](/editor?context=theme&category=logo)."
+          "content": "Modifica il tuo logo nelle [impostazioni tema](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Header fisso",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "Media"
           },
-          "info": "Per un risultato ottimale, utilizza un'immagine con proporzioni 3:2. [Maggiori informazioni](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Per un risultato ottimale, utilizza un'immagine con proporzioni 3:2. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Grande"
           }
@@ -1405,11 +1405,11 @@
         },
         "enable_tags": {
           "label": "Abilita i filtri",
-          "info": "Personalizza i filtri con l'app Search & Discovery. [Maggiori informazioni](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Personalizza i filtri con l'app Search & Discovery. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "Abilita i filtri",
-          "info": "Personalizza i filtri con l'app Search & Discovery. [Maggiori informazioni](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Personalizza i filtri con l'app Search & Discovery. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "Abilita ordinamento"
@@ -3043,7 +3043,7 @@
           "label": "Numero di colonne su desktop"
         },
         "paragraph__1": {
-          "content": "Le raccomandazioni dinamiche utilizzano i dati di ordini e prodotti per cambiare e migliorare nel tempo. [Maggiori informazioni](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Le raccomandazioni dinamiche utilizzano i dati di ordini e prodotti per cambiare e migliorare nel tempo. [Maggiori informazioni](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Scheda prodotto"
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "Mostra valutazione del prodotto",
-          "info": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Layout dispositivo mobile"

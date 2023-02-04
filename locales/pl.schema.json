@@ -782,14 +782,14 @@
           "name": "Informacje o marce",
           "settings": {
             "paragraph": {
-              "content": "W tym bloku będą wyświetlane informacje o marce. [Edytuj informacje o marce.](/editor?context=theme&category=brand%20information)"
+              "content": "W tym bloku będą wyświetlane informacje o marce. [Edytuj informacje o marce.](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "Ikony mediów społecznościowych"
             },
             "show_social": {
               "label": "Pokaż ikony mediów społecznościowych",
-              "info": "Aby wyświetlić swoje konta w mediach społecznościowych, podlinkuj je w [ustawienia szablonu](/editor?context=theme&category=social%20media)."
+              "info": "Aby wyświetlić swoje konta w mediach społecznościowych, podlinkuj je w [ustawienia szablonu](\/editor?context=theme&category=social%20media)."
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "Ikony mediów społecznościowych",
-          "info": "Aby wyświetlić swoje konta w mediach społecznościowych, podlinkuj je w [ustawienia szablonu](/editor?context=theme&category=social%20media)."
+          "info": "Aby wyświetlić swoje konta w mediach społecznościowych, podlinkuj je w [ustawienia szablonu](\/editor?context=theme&category=social%20media)."
         },
         "show_social": {
           "label": "Pokaż ikony mediów społecznościowych"
@@ -816,7 +816,7 @@
           "content": "Selektor kraju\/regionu"
         },
         "header__4": {
-          "info": "Aby dodać kraj/region, przejdź do swoich [ustawień rynku.](/admin/settings/markets)"
+          "info": "Aby dodać kraj\/region, przejdź do swoich [ustawień rynku.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "Włącz selektor kraju\/regionu"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "Linki do polityki",
-          "info": "Aby dodać polityki sklepu, przejdź do [ustawień polityki](/admin/settings/legal)."
+          "info": "Aby dodać polityki sklepu, przejdź do [ustawień polityki](\/admin\/settings\/legal)."
         },
         "show_policy": {
           "label": "Pokaż linki do polityki"
         },
         "header__9": {
           "content": "Obserwuj w Shop",
-          "info": "Wyświetl przycisk obserwowania dla swojej witryny sklepu w aplikacji Shop. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Wyświetl przycisk obserwowania dla swojej witryny sklepu w aplikacji Shop. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Włącz opcję Obserwuj w Shop"
@@ -908,7 +908,7 @@
           "content": "Logo"
         },
         "logo_help": {
-          "content": "Edytuj logo w [theme settings](/editor?context=theme&category=logo)."
+          "content": "Edytuj logo w [theme settings](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Przypięty nagłówek",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "Średni"
           },
-          "info": "Aby uzyskać najlepszy efekt, użyj obrazu o współczynniku proporcji 2:3. [Dowiedz się więcej](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Aby uzyskać najlepszy efekt, użyj obrazu o współczynniku proporcji 2:3. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Duży"
           }
@@ -1405,11 +1405,11 @@
         },
         "enable_tags": {
           "label": "Włącz filtrowanie",
-          "info": "Dostosuj filtry za pomocą aplikacji Search & Discovery. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Dostosuj filtry za pomocą aplikacji Search & Discovery. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "Włącz filtrowanie",
-          "info": "Dostosuj filtry za pomocą aplikacji Search & Discovery. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Dostosuj filtry za pomocą aplikacji Search & Discovery. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "Włącz sortowanie"
@@ -3043,7 +3043,7 @@
           "label": "Liczba kolumn na komputerze"
         },
         "paragraph__1": {
-          "content": "Dynamiczne rekomendacje wykorzystują informacje o zamówieniach i produktach do ciągłego zmieniania i ulepszania. [Dowiedz się więcej](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Dynamiczne rekomendacje wykorzystują informacje o zamówieniach i produktach do ciągłego zmieniania i ulepszania. [Dowiedz się więcej](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Karta produktów"
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "Pokaż ocenę produktu",
-          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Układ na urządzeniu mobilnym"

@@ -782,14 +782,14 @@
           "name": "品牌信息",
           "settings": {
             "paragraph": {
-              "content": "此块将显示您的品牌信息。[编辑品牌信息。](/editor?context=theme&category=brand%20information)"
+              "content": "此块将显示您的品牌信息。[编辑品牌信息。](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "社交媒体图标"
             },
             "show_social": {
               "label": "显示社交媒体图标",
-              "info": "若要显示您的社交媒体账户，请在 [模板设置](/editor?context=theme&category=social%20media) 中添加其链接。"
+              "info": "若要显示您的社交媒体账户，请在 [模板设置](\/editor?context=theme&category=social%20media) 中添加其链接。"
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "社交媒体图标",
-          "info": "若要显示您的社交媒体账户，请在 [模板设置](/editor?context=theme&category=social%20media) 中添加其链接。"
+          "info": "若要显示您的社交媒体账户，请在 [模板设置](\/editor?context=theme&category=social%20media) 中添加其链接。"
         },
         "show_social": {
           "label": "显示社交媒体图标"
@@ -816,7 +816,7 @@
           "content": "国家\/地区选择器"
         },
         "header__4": {
-          "info": "若要添加国家/地区，请转到 [营销设置](/admin/settings/markets)。"
+          "info": "若要添加国家\/地区，请转到 [营销设置](\/admin\/settings\/markets)。"
         },
         "enable_country_selector": {
           "label": "启用国家\/地区选择器"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "政策链接",
-          "info": "若要添加商店政策，请前往 [政策设置](/admin/settings/legal)。"
+          "info": "若要添加商店政策，请前往 [政策设置](\/admin\/settings\/legal)。"
         },
         "show_policy": {
           "label": "显示政策链接"
         },
         "header__9": {
           "content": "在 Shop 中关注",
-          "info": "在 Shop 应用中显示您店面的关注按钮。[了解详细信息](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "在 Shop 应用中显示您店面的关注按钮。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "启用在 Shop 中关注"
@@ -908,7 +908,7 @@
           "content": "logo"
         },
         "logo_help": {
-          "content": "在[模板设置]](/editor?context=theme&category=logo)中编辑您的 logo。"
+          "content": "在[模板设置]](\/editor?context=theme&category=logo)中编辑您的 logo。"
         },
         "sticky_header_type": {
           "label": "粘性标头",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "中"
           },
-          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "大"
           }
@@ -1408,11 +1408,11 @@
         },
         "enable_tags": {
           "label": "启用筛选",
-          "info": "使用 Search & Discovery 应用自定义筛选条件。[了解详细信息](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "使用 Search & Discovery 应用自定义筛选条件。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "启用筛选",
-          "info": "使用 Search & Discovery 应用自定义筛选条件。[了解详细信息](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "使用 Search & Discovery 应用自定义筛选条件。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "启用排序"
@@ -3043,7 +3043,7 @@
           "label": "台式设备上的列数"
         },
         "paragraph__1": {
-          "content": "动态推荐使用订单和产品信息来随着时间而变化和改进。[了解详细信息](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "动态推荐使用订单和产品信息来随着时间而变化和改进。[了解详细信息](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "产品卡"
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "显示产品评分",
-          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "移动设备布局"

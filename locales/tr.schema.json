@@ -782,14 +782,14 @@
           "name": "Marka bilgileri",
           "settings": {
             "paragraph": {
-              "content": "Marka bilgileriniz bu blokta görünür. [Marka bilgilerini düzenleyin.](/editor?context=theme&category=brand%20information)"
+              "content": "Marka bilgileriniz bu blokta görünür. [Marka bilgilerini düzenleyin.](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "Sosyal medya simgeleri"
             },
             "show_social": {
               "label": "Sosyal medya simgelerini göster",
-              "info": "Sosyal medya hesaplarınızın görüntülenmesi için bu hesapları [tema ayarlarınızda](/editor?context=theme&category=social%20media) bağlayın."
+              "info": "Sosyal medya hesaplarınızın görüntülenmesi için bu hesapları [tema ayarlarınızda](\/editor?context=theme&category=social%20media) bağlayın."
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "Sosyal medya simgeleri",
-          "info": "Sosyal medya hesaplarınızın görüntülenmesi için bu hesapları [tema ayarlarınızda](/editor?context=theme&category=social%20media) bağlayın."
+          "info": "Sosyal medya hesaplarınızın görüntülenmesi için bu hesapları [tema ayarlarınızda](\/editor?context=theme&category=social%20media) bağlayın."
         },
         "show_social": {
           "label": "Sosyal medya simgelerini göster"
@@ -816,7 +816,7 @@
           "content": "Ülke\/bölge seçici"
         },
         "header__4": {
-          "info": "Ülke/bölge eklemek için [pazar ayarlarınıza ](/admin/settings/markets) gidin."
+          "info": "Ülke\/bölge eklemek için [pazar ayarlarınıza ](\/admin\/settings\/markets) gidin."
         },
         "enable_country_selector": {
           "label": "Ülke\/bölge seçiciyi etkinleştir"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "Politika bağlantıları",
-          "info": "Mağaza politikası eklemek için [politika ayarlarınıza](/admin/settings/legal) gidin."
+          "info": "Mağaza politikası eklemek için [politika ayarlarınıza](\/admin\/settings\/legal) gidin."
         },
         "show_policy": {
           "label": "Politika bağlantılarını göster"
         },
         "header__9": {
           "content": "Follow on Shop",
-          "info": "Shop uygulamasında, vitrininiz için takip düğmesini gösterin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Shop uygulamasında, vitrininiz için takip düğmesini gösterin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Follow on Shop'u etkinleştir"
@@ -908,7 +908,7 @@
           "content": "Logo"
         },
         "logo_help": {
-          "content": "Logonuzu şurada düzenleyin: [tema ayarları](/editor?context=theme&category=logo)."
+          "content": "Logonuzu şurada düzenleyin: [tema ayarları](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Sabit üstbilgi",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "Orta"
           },
-          "info": "En iyi sonuçlar için 3:2 en-boy oranına sahip bir görsel kullanın. [Daha fazla bilgi edinin](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "En iyi sonuçlar için 3:2 en-boy oranına sahip bir görsel kullanın. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Büyük"
           }
@@ -1387,7 +1387,7 @@
         },
         "enable_filtering": {
           "label": "Filtrelemeyi etkinleştir",
-          "info": "Search & Discovery uygulamasıyla filtreleri özelleştirin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Search & Discovery uygulamasıyla filtreleri özelleştirin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "Sıralamayı etkinleştir"
@@ -1418,7 +1418,7 @@
         },
         "enable_tags": {
           "label": "Filtrelemeyi etkinleştir",
-          "info": "Search & Discovery uygulamasıyla filtreleri özelleştirin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Search & Discovery uygulamasıyla filtreleri özelleştirin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "show_rating": {
           "label": "Ürün puanlarını göster",
@@ -3043,7 +3043,7 @@
           "label": "Masaüstündeki sütun sayısı"
         },
         "paragraph__1": {
-          "content": "Dinamik önerilerin zamanla değişmesi ve gelişmesi için sipariş ve ürün bilgileri kullanılır. [Daha fazla bilgi edinin](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Dinamik önerilerin zamanla değişmesi ve gelişmesi için sipariş ve ürün bilgileri kullanılır. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Ürün kartı"
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "Ürün puanlarını göster",
-          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Mobil Düzen"

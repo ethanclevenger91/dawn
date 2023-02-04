@@ -782,14 +782,14 @@
           "name": "Merkinformatie",
           "settings": {
             "paragraph": {
-              "content": "In dit blok komt informatie over je merk. [Bewerk merkinformatie.](/editor?context=theme&category=brand%20information)"
+              "content": "In dit blok komt informatie over je merk. [Bewerk merkinformatie.](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "Pictogrammen voor social media"
             },
             "show_social": {
               "label": "Pictogrammen social media weergeven",
-              "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](/editor?context=theme&category=social%20media)."
+              "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](\/editor?context=theme&category=social%20media)."
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "Pictogrammen voor social media",
-          "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](/editor?context=theme&category=social%20media)."
+          "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](\/editor?context=theme&category=social%20media)."
         },
         "show_social": {
           "label": "Pictogrammen social media weergeven"
@@ -816,7 +816,7 @@
           "content": "Kiezer voor land\/regio"
         },
         "header__4": {
-          "info": "Ga naar de [marktinstellingen](/admin/settings/markets) om een land/regio toe te voegen."
+          "info": "Ga naar de [marktinstellingen](\/admin\/settings\/markets) om een land\/regio toe te voegen."
         },
         "enable_country_selector": {
           "label": "Kiezer voor land\/regio inschakelen"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "Links naar beleid",
-          "info": "Ga naar je [beleidsinstellingen ](/admin/settings/legal) om winkelbeleid toe te voegen."
+          "info": "Ga naar je [beleidsinstellingen ](\/admin\/settings\/legal) om winkelbeleid toe te voegen."
         },
         "show_policy": {
           "label": "Links naar beleid tonen"
         },
         "header__9": {
           "content": "Volgen op Shop",
-          "info": "Toon de volgknop voor je webshop in de Shop-app. [Meer informatie](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Toon de volgknop voor je webshop in de Shop-app. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "'Volgen op Shop' inschakelen"
@@ -908,7 +908,7 @@
           "content": "Logo"
         },
         "logo_help": {
-          "content": "Bewerk je logo in [thema-instellingen](/editor?context=theme&category=logo)."
+          "content": "Bewerk je logo in [thema-instellingen](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Sticky header",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "Gemiddeld"
           },
-          "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 3:2. [Meer informatie](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 3:2. [Meer informatie](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Groot"
           }
@@ -1405,11 +1405,11 @@
         },
         "enable_tags": {
           "label": "Filteren inschakelen",
-          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "Filteren inschakelen",
-          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "Sortering inschakelen"
@@ -3043,13 +3043,13 @@
           "label": "Aantal kolommen op desktopcomputers"
         },
         "paragraph__1": {
-          "content": "In de loop van de tijd worden veranderingen en verbeteringen doorgevoerd dankzij dynamische aanbevelingen, waarbij gebruik wordt gemaakt van informatie over bestellingen en producten. [Meer informatie](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "In de loop van de tijd worden veranderingen en verbeteringen doorgevoerd dankzij dynamische aanbevelingen, waarbij gebruik wordt gemaakt van informatie over bestellingen en producten. [Meer informatie](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Productkaart"
         },
         "image_ratio": {
-          "label": "Breedte-/hoogteverhouding van afbeeldingen",
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "Productbeoordeling weergeven",
-          "info": "Voeg een app voor productbeoordelingen toe om een beoordeling weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Voeg een app voor productbeoordelingen toe om een beoordeling weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Opmaak op mobiele apparaten"

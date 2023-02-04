@@ -782,14 +782,14 @@
           "name": "Varumärkesinformation",
           "settings": {
             "paragraph": {
-              "content": "Detta block kommer visa din varumärkesinformation. [Redigera varumärkesinformation.](/editor?context=theme&category=brand%20information)"
+              "content": "Detta block kommer visa din varumärkesinformation. [Redigera varumärkesinformation.](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "Sociala medier-ikoner"
             },
             "show_social": {
               "label": "Visa sociala medier-ikoner",
-              "info": "För att visa dina sociala medier-konton, länka dem i dina [tema-inställningar](/editor?context=theme&category=social%20media)."
+              "info": "För att visa dina sociala medier-konton, länka dem i dina [tema-inställningar](\/editor?context=theme&category=social%20media)."
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "Sociala medier-ikoner",
-          "info": "För att visa dina sociala medier-konton, länka dem i dina [tema-inställningar](/editor?context=theme&category=social%20media)."
+          "info": "För att visa dina sociala medier-konton, länka dem i dina [tema-inställningar](\/editor?context=theme&category=social%20media)."
         },
         "show_social": {
           "label": "Visa sociala medier-ikoner"
@@ -816,7 +816,7 @@
           "content": "Land\/region-väljare"
         },
         "header__4": {
-          "info": "Om du vill lägga till land/region går du till dina [marknadsinställningar.](/admin/settings/markets)"
+          "info": "Om du vill lägga till land\/region går du till dina [marknadsinställningar.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "Aktivera land\/region-väljare"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "Policylänkar",
-          "info": "Gå till dina [policyinställningar ](/admin/settings/legal) för att lägga till butikspolicyer."
+          "info": "Gå till dina [policyinställningar ](\/admin\/settings\/legal) för att lägga till butikspolicyer."
         },
         "show_policy": {
           "label": "Visa policylänkar"
         },
         "header__9": {
           "content": "Följ på Shop",
-          "info": "Visa följarknappen för din butik i Shop-appen. [Mer information](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Visa följarknappen för din butik i Shop-appen. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Aktivera Följ på Shop"
@@ -908,7 +908,7 @@
           "content": "Logotyp"
         },
         "logo_help": {
-          "content": "Redigera din logotyp i [temainställningarna](/editor?context=theme&category=logo)."
+          "content": "Redigera din logotyp i [temainställningarna](\/editor?context=theme&category=logo)."
         },
         "sticky_header_type": {
           "label": "Fast sidhuvud",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "Medel"
           },
-          "info": "Använd en bild med bildformat 3:2, för bästa resultat. [Mer information](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "Använd en bild med bildformat 3:2, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "Stor"
           }
@@ -1408,11 +1408,11 @@
         },
         "enable_tags": {
           "label": "Aktivera filtrering",
-          "info": "Anpassa filter med Search & Discovery-appen. [Mer information](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Anpassa filter med Search & Discovery-appen. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "Aktivera filtrering",
-          "info": "Anpassa filter med Search & Discovery-appen. [Mer information](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "Anpassa filter med Search & Discovery-appen. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "Aktivera sortering"
@@ -3043,7 +3043,7 @@
           "label": "Antalet kolumner på skrivbordet"
         },
         "paragraph__1": {
-          "content": "Dynamiska rekommendationer använder order- och produktinformation för att ändras och förbättras över tid. [Mer information](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Dynamiska rekommendationer använder order- och produktinformation för att ändras och förbättras över tid. [Mer information](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "Produktkort"
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "Visa produktbetyg",
-          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "Mobil layout"

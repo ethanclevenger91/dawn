@@ -782,14 +782,14 @@
           "name": "ข้อมูลแบรนด์",
           "settings": {
             "paragraph": {
-              "content": "บล็อกนี้จะแสดงข้อมูลแบรนด์ของคุณ [แก้ไขข้อมูลแบรนด์](/editor?context=theme&category=brand%20information)"
+              "content": "บล็อกนี้จะแสดงข้อมูลแบรนด์ของคุณ [แก้ไขข้อมูลแบรนด์](\/editor?context=theme&category=brand%20information)"
             },
             "header__1": {
               "content": "ไอคอนโซเชียลมีเดีย"
             },
             "show_social": {
               "label": "แสดงไอคอนโซเชียลมีเดีย",
-              "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน [การตั้งค่าธีม](/editor?context=theme&category=social%20media) ของคุณ"
+              "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน [การตั้งค่าธีม](\/editor?context=theme&category=social%20media) ของคุณ"
             }
           }
         }
@@ -807,7 +807,7 @@
         },
         "header__2": {
           "content": "ไอคอนโซเชียลมีเดีย",
-          "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน [การตั้งค่าธีม](/editor?context=theme&category=social%20media) ของคุณ"
+          "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน [การตั้งค่าธีม](\/editor?context=theme&category=social%20media) ของคุณ"
         },
         "show_social": {
           "label": "แสดงไอคอนโซเชียลมีเดีย"
@@ -816,7 +816,7 @@
           "content": "ตัวเลือกประเทศ\/ภูมิภาค"
         },
         "header__4": {
-          "info": "หากต้องการเพิ่มประเทศ/ภูมิภาค ให้ไปที่ [การตั้งค่าตลาด](/admin/settings/markets)"
+          "info": "หากต้องการเพิ่มประเทศ\/ภูมิภาค ให้ไปที่ [การตั้งค่าตลาด](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "เปิดใช้งานตัวเลือกประเทศ\/ภูมิภาค"
@@ -841,14 +841,14 @@
         },
         "header__8": {
           "content": "ลิงก์นโยบาย",
-          "info": "หากต้องการเพิ่มนโยบายร้านค้า ให้ไปที่การตั้งค่านโยบาย](/admin/settings/legal)"
+          "info": "หากต้องการเพิ่มนโยบายร้านค้า ให้ไปที่การตั้งค่านโยบาย](\/admin\/settings\/legal)"
         },
         "show_policy": {
           "label": "แสดงลิงก์นโยบาย"
         },
         "header__9": {
           "content": "ติดตามบน Shop",
-          "info": "แสดงปุ่มติดตามบนหน้าร้านของคุณในแอป Shop [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "แสดงปุ่มติดตามบนหน้าร้านของคุณในแอป Shop [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "เปิดใช้งานการติดตามบน Shop"
@@ -908,7 +908,7 @@
           "content": "โลโก้"
         },
         "logo_help": {
-          "content": "แก้ไขโลโก้ของคุณใน [การตั้งค่าธีม ](/editor?context=theme&category=logo)"
+          "content": "แก้ไขโลโก้ของคุณใน [การตั้งค่าธีม ](\/editor?context=theme&category=logo)"
         },
         "sticky_header_type": {
           "label": "ส่วนหัวแบบยึดตำแหน่ง",
@@ -969,7 +969,7 @@
           "options__3": {
             "label": "ปานกลาง"
           },
-          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 3:2 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 3:2 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
           "options__4": {
             "label": "ใหญ่"
           }
@@ -1408,11 +1408,11 @@
         },
         "enable_tags": {
           "label": "เปิดใช้งานการกรอง",
-          "info": "ปรับแต่งตัวกรองในร้านค้าของคุณด้วยแอป Search & Discovery [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "ปรับแต่งตัวกรองในร้านค้าของคุณด้วยแอป Search & Discovery [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "เปิดใช้การกรอง",
-          "info": "ปรับแต่งตัวกรองในร้านค้าของคุณด้วยแอป Search & Discovery [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+          "info": "ปรับแต่งตัวกรองในร้านค้าของคุณด้วยแอป Search & Discovery [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_sorting": {
           "label": "เปิดใช้การจัดเรียง"
@@ -3043,7 +3043,7 @@
           "label": "จำนวนคอลัมน์บนเดสก์ท็อป"
         },
         "paragraph__1": {
-          "content": "คำแนะนำแบบไดนามิกต้องใช้ข้อมูลคำสั่งซื้อและข้อมูลสินค้าในการปรับปรุงและเปลี่ยนแปลงตลอดระยะเวลา [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "คำแนะนำแบบไดนามิกต้องใช้ข้อมูลคำสั่งซื้อและข้อมูลสินค้าในการปรับปรุงและเปลี่ยนแปลงตลอดระยะเวลา [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
         },
         "header__2": {
           "content": "บัตรสินค้า"
@@ -3068,7 +3068,7 @@
         },
         "show_rating": {
           "label": "แสดงคะแนนของสินค้า",
-          "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
         },
         "header_mobile": {
           "content": "เลย์เอาต์สำหรับมือถือ"
