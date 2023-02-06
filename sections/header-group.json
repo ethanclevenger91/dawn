@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "End of Season Sale. 25-35% off now through Sunday. Shop the Sale >",
             "text_alignment": "center",

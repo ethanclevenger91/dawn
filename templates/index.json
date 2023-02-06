@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "End of Season Sale",
+            "heading": "Porterhouse x Oak Street Bootmaker",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "25-35% off late season styles now through Sunday. Plus, an extra 25% off existing discounts. Finally, we've unleashed free shipping on orders of $250 or more.",
+            "text": "A blacked-out trench boot with contrasting storm welt. Available exclusively at Porterhouse.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the Sale",
-            "button_link_1": "shopify:\/\/collections\/autumn-winter-2022-end-of-season-sale",
+            "button_label_1": "Shop the Boot",
+            "button_link_1": "shopify:\/\/products\/trench-boot-in-black-oil-tan-roughout",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,10 +35,9 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF0272.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF8608_2_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
-        "adapt_height_first_image": true,
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -203,22 +202,19 @@
         "8b366dc2-5db2-4ee3-99e7-ad49f8587bc8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4E781C7F-FC3E-4065-8CCC-59A14822D330.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/4E781C7F-FC3E-4065-8CCC-59A14822D330.jpg"
           }
         },
         "a90b4d85-4449-4d1c-89b0-c1f7a09d27b2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3438.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/DSCF3438.jpg"
           }
         },
         "8e79859a-b8ad-4077-90c1-b642eb64dcd7": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF9209.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/DSCF9209.jpg"
           }
         }
       },
