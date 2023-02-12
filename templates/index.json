@@ -54,10 +54,10 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF5716.jpg",
-            "title": "The Autumn\/Winter Lookbook",
-            "text": "<p>Curated styles across all our brands. Check out Porterhouse's first lookbook.<\/p>",
-            "link_label": "Fit Check",
-            "link": "shopify:\/\/blogs\/news\/porterhouse-fall-winter-2022-lookbook"
+            "title": "Autumn\/Winter Markdowns",
+            "text": "<p>You missed the deepest discounts in the end of season sale, but a chunk of late-season styles are now on permanent markdown.<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/autumn-winter-2022"
           }
         },
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-1": {
