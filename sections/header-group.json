@@ -7,12 +7,11 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "End of Season Sale. 25-35% off now through Sunday. Shop the Sale >",
+            "text": "Free Domestic Shipping on Orders Over $250",
             "text_alignment": "center",
             "color_scheme": "accent-1",
-            "link": "shopify:\/\/collections\/autumn-winter-2022-end-of-season-sale"
+            "link": ""
           }
         }
       },
