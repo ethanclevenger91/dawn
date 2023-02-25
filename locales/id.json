@@ -117,8 +117,8 @@
         "decrease": "Kurangi jumlah untuk {{ product }}",
         "minimum_of": "Minimum {{ quantity }}",
         "maximum_of": "Maksimum {{ quantity }}",
-        "multiples_of": "Kelipatan {{ quantity }}",
-        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> di keranjang"
+        "multiples_of": "Nilai peningkatan {{ quantity }}",
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> di keranjang"
       },
       "price": {
         "from_price_html": "Dari {{ price }}",
