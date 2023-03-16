@@ -73,11 +73,11 @@
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF9226.jpg",
-            "title": "A New Kind of Drip",
-            "text": "<p>We're stocking Tailored Coffee Roasters coffee now. If you need the full vibe, you can pick up a Porterhouse-branded mug and coaster while you're at it.<\/p>",
-            "link_label": "Get Wired",
-            "link": "shopify:\/\/collections\/coffee-essentials"
+            "image": "shopify:\/\/shop_images\/Brooklyn_Grooming.jpg",
+            "title": "New Grooming Products",
+            "text": "<p>Introducing Brooklyn Grooming to the shop. Based in one of New York's most vibrant boroughs, BR produce premium organic and sustainable grooming products.<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/brooklyn-grooming"
           }
         }
       },
