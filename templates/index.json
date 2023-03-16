@@ -75,7 +75,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Brooklyn_Grooming.jpg",
             "title": "New Grooming Products",
-            "text": "<p>Introducing Brooklyn Grooming to the shop. Based in one of New York's most vibrant boroughs, BR produce premium organic and sustainable grooming products.<\/p>",
+            "text": "<p>Based in one of New York's most vibrant boroughs, Brooklyn Grooming produces an incredible array of premium organic and sustainable grooming products. We are excited to welcome them to the shop.<\/p>",
             "link_label": "Shop Now",
             "link": "shopify:\/\/collections\/brooklyn-grooming"
           }
