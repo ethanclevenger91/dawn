@@ -63,11 +63,11 @@
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF8608_1.jpg",
-            "title": "The Porterhouse Boot",
-            "text": "<p>Designed exclusively for us by Oak Street Bootmaker. Trench boot featuring Seidel black oil tan roughout leather and a 360 degree storm welt.<\/p>",
-            "link_label": "Shop the Boot",
-            "link": "shopify:\/\/products\/trench-boot-in-black-oil-tan-roughout"
+            "image": "shopify:\/\/shop_images\/Randolph.jpg",
+            "title": "Summer Shades",
+            "text": "<p>The strongest lineup of Randolph sunglasses we've ever had. Available now. Just in time as the sun finally begins to poke through the clouds. <\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/randolph"
           }
         },
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-2": {
