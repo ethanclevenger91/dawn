@@ -1,6 +1,6 @@
 {
   "current": {
-    "logo": "{{ shop.brand.logo }}",
+    "logo": "shopify:\/\/shop_images\/ph_print_full-logo_textured_black_1.png",
     "logo_width": 150,
     "favicon": "shopify:\/\/shop_images\/ph_web_head_textured_black.png",
     "colors_accent_1": "#d64a28",
