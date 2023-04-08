@@ -386,6 +386,18 @@
   },
   "sections": {
     "all": {
+      "animation": {
+        "content": "Animations",
+        "image_behavior": {
+          "options__1": {
+            "label": "None"
+          },
+          "options__2": {
+            "label": "Ambient movement"
+          },
+          "label": "Image behavior"
+        }
+      },
       "padding": {
         "section_padding_heading": "Section padding",
         "padding_top": "Top padding",
@@ -814,7 +826,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Show dynamic checkout buttons",
-              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+            },
+            "show_gift_card_recipient": {
+              "label": "Show recipient form for gift card products",
+              "info": "When enabled, gift card products can optionally be sent to a recipient with a personal message."
             }
           }
         },
@@ -1036,6 +1052,9 @@
           },
           "options__2": {
             "label": "Mega menu"
+          },
+          "options__3": {
+            "label": "Drawer"
           }
         },
         "show_line_separator": {
@@ -1055,6 +1074,24 @@
           "options__4": {
             "label": "Always, reduce logo size"
           }
+        },
+        "header__3": {
+          "content": "Country/region selector"
+        },
+        "header__4": {
+          "info": "To add a country/region, go to your [market settings.](/admin/settings/markets)"
+        },
+        "enable_country_selector": {
+          "label": "Enable country/region selector"
+        },
+        "header__5": {
+          "content": "Language selector"
+        },
+        "header__6": {
+          "info": "To add a language, go to your [language settings.](/admin/settings/languages)"
+        },
+        "enable_language_selector": {
+          "label": "Enable language selector"
         },
         "margin_bottom": {
           "label": "Bottom margin"
@@ -1149,7 +1186,7 @@
         "color_scheme": {
           "info": "Visible when container displayed."
         },
-        "header": {
+        "mobile": {
           "content": "Mobile Layout"
         },
         "mobile_content_alignment": {
@@ -1921,7 +1958,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Show dynamic checkout buttons",
-              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+            },
+            "show_gift_card_recipient": {
+              "label": "Show recipient information form for gift card products",
+              "info": "Gift card products can optionally be sent direct to a recipient along with a personal message."
             }
           }
         },
