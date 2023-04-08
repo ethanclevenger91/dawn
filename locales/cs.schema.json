@@ -938,19 +938,19 @@
           }
         },
         "header__3": {
-          "content": "Selektor země/oblasti"
+          "content": "Selektor země\/oblasti"
         },
         "header__4": {
-          "info": "Pokud chcete přidat zemi nebo oblast, přejděte na [nastavení trhu.](/admin/settings/markets)"
+          "info": "Pokud chcete přidat zemi nebo oblast, přejděte na [nastavení trhu.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Povolit selektor země/oblasti"
+          "label": "Povolit selektor země\/oblasti"
         },
         "header__5": {
           "content": "Selektor jazyka"
         },
         "header__6": {
-          "info": "Pokud chcete přidat jazyk, přejděte na [jazykové nastavení.](/admin/settings/languages)"
+          "info": "Pokud chcete přidat jazyk, přejděte na [jazykové nastavení.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Povolit selektor jazyka"
@@ -1613,7 +1613,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Zobrazit dynamická tlačítka pokladny",
-              "info": "V rámci platebních metod dostupných v obchodě uvidí zákazníci tu, kterou nejvíce preferují, jako například PayPal nebo Apple Pay. [Zjistit více](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "V rámci platebních metod dostupných v obchodě uvidí zákazníci tu, kterou nejvíce preferují, jako například PayPal nebo Apple Pay. [Zjistit více](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Zobrazit formulář s informacemi o příjemci u produktů dárkových karet",
@@ -2464,7 +2464,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Zobrazit dynamická tlačítka pokladny",
-              "info": "V rámci platebních metod dostupných v obchodě uvidí zákazníci tu, kterou nejvíce preferují, jako například PayPal nebo Apple Pay. [Zjistit více](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "V rámci platebních metod dostupných v obchodě uvidí zákazníci tu, kterou nejvíce preferují, jako například PayPal nebo Apple Pay. [Zjistit více](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Zobrazit formulář pro příjemce u produktů dárkových karet",

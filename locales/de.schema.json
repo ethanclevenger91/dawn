@@ -938,19 +938,19 @@
           }
         },
         "header__3": {
-          "content": "Auswahl für Land/Region"
+          "content": "Auswahl für Land\/Region"
         },
         "header__4": {
-          "info": "Gehe zu den [Markteinstellungen](/admin/settings/markets), um ein Land / eine Region hinzuzufügen."
+          "info": "Gehe zu den [Markteinstellungen](\/admin\/settings\/markets), um ein Land \/ eine Region hinzuzufügen."
         },
         "enable_country_selector": {
-          "label": "Auswahl für Land/Region aktivieren"
+          "label": "Auswahl für Land\/Region aktivieren"
         },
         "header__5": {
           "content": "Sprachauswahl"
         },
         "header__6": {
-          "info": "Gehe zu den [Spracheinstellungen](/admin/settings/languages), um eine Sprache hinzuzufügen."
+          "info": "Gehe zu den [Spracheinstellungen](\/admin\/settings\/languages), um eine Sprache hinzuzufügen."
         },
         "enable_language_selector": {
           "label": "Sprachauswahl aktivieren"
@@ -1612,7 +1612,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dynamischer Checkout-Button anzeigen",
-              "info": "Wenn sie die Zahlungsmethoden verwenden, die in deinem Shop verfügbar sind, sehen Kunden ihre bevorzugte Option, z. B. PayPal oder Apple Pay. [Mehr Informationen](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Wenn sie die Zahlungsmethoden verwenden, die in deinem Shop verfügbar sind, sehen Kunden ihre bevorzugte Option, z. B. PayPal oder Apple Pay. [Mehr Informationen](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Formular für Empfängerinformationen für Geschenkgutscheinprodukte anzeigen",
@@ -2464,7 +2464,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dynamischen Checkout-Button anzeigen",
-              "info": "Wenn sie die Zahlungsmethoden verwenden, die in deinem Shop verfügbar sind, sehen Kunden ihre bevorzugte Option, z. B. PayPal oder Apple Pay. [Mehr Informationen](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Wenn sie die Zahlungsmethoden verwenden, die in deinem Shop verfügbar sind, sehen Kunden ihre bevorzugte Option, z. B. PayPal oder Apple Pay. [Mehr Informationen](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Empfängerformular für Geschenkgutscheinprodukte anzeigen",

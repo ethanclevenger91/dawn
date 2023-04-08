@@ -938,19 +938,19 @@
           }
         },
         "header__3": {
-          "content": "Maa-/aluevalitsin"
+          "content": "Maa-\/aluevalitsin"
         },
         "header__4": {
-          "info": "Lisää maa/alue siirtymällä [markkina-asetuksiisi.](/admin/settings/markets)"
+          "info": "Lisää maa\/alue siirtymällä [markkina-asetuksiisi.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Ota käyttöön maa-/aluevalitsin"
+          "label": "Ota käyttöön maa-\/aluevalitsin"
         },
         "header__5": {
           "content": "Kielivalitsin"
         },
         "header__6": {
-          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](/admin/settings/languages)"
+          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Ota kielivalitsin käyttöön"
@@ -1612,7 +1612,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Näytä dynaamiset kassapainikkeet",
-              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Näytä lahjakorttituotteiden vastaanottajien tietolomake",
@@ -2464,7 +2464,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Näytä dynaamiset kassapainikkeet",
-              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Kun käytät kaupallesi saatavilla olevia maksutapoja, asiakkaat näkevät ensisijaisen vaihtoehtonsa, kuten PayPalin tai Apple Payn. [Lisätietoja](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Näytä lahjakorttituotteiden vastaanottajalomake",
