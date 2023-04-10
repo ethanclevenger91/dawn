@@ -938,19 +938,19 @@
           }
         },
         "header__3": {
-          "content": "国/地域セレクター"
+          "content": "国\/地域セレクター"
         },
         "header__4": {
-          "info": "国/地域を追加するには、[マーケット設定](/admin/settings/markets) に移動します"
+          "info": "国\/地域を追加するには、[マーケット設定](\/admin\/settings\/markets) に移動します"
         },
         "enable_country_selector": {
-          "label": "国/地域セレクターを有効にする"
+          "label": "国\/地域セレクターを有効にする"
         },
         "header__5": {
           "content": "言語セレクター"
         },
         "header__6": {
-          "info": "言語を追加するには、[言語設定](/admin/settings/languages) に移動します"
+          "info": "言語を追加するには、[言語設定](\/admin\/settings\/languages) に移動します"
         },
         "enable_language_selector": {
           "label": "言語セレクターを有効にする"
@@ -1603,7 +1603,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "動的チェックアウトボタンを表示する",
-              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "ギフトカード商品の受取人情報フォームを表示する",
@@ -2464,7 +2464,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "動的チェックアウトボタンを表示",
-              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "ギフトカード商品の受取人フォームを表示する",

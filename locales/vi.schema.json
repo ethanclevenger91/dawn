@@ -938,19 +938,19 @@
           }
         },
         "header__3": {
-          "content": "Hộp chọn quốc gia/vùng"
+          "content": "Hộp chọn quốc gia\/vùng"
         },
         "header__4": {
-          "info": "Để thêm quốc gia/khu vực, vào [cài đặt thị trường.](/admin/settings/markets)"
+          "info": "Để thêm quốc gia\/khu vực, vào [cài đặt thị trường.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Bật hộp chọn quốc gia/vùng"
+          "label": "Bật hộp chọn quốc gia\/vùng"
         },
         "header__5": {
           "content": "Hộp chọn ngôn ngữ"
         },
         "header__6": {
-          "info": "Để thêm ngôn ngữ, vào [cài đặt ngôn ngữ](/admin/settings/languages)."
+          "info": "Để thêm ngôn ngữ, vào [cài đặt ngôn ngữ](\/admin\/settings\/languages)."
         },
         "enable_language_selector": {
           "label": "Bật hộp chọn ngôn ngữ"
@@ -1613,7 +1613,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Hiển thị nút thanh toán động",
-              "info": "Sử dụng phương thức thanh toán được hỗ trợ trong cửa hàng, khách hàng sẽ thấy tùy chọn ưu tiên của họ như PayPal hoặc Apple Pay. [Tìm hiểu thêm](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Sử dụng phương thức thanh toán được hỗ trợ trong cửa hàng, khách hàng sẽ thấy tùy chọn ưu tiên của họ như PayPal hoặc Apple Pay. [Tìm hiểu thêm](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Hiển thị biểu mẫu thông tin người nhận cho sản phẩm thẻ quà tặng",
@@ -2464,7 +2464,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Hiển thị nút thanh toán động",
-              "info": "Khi sử dụng phương thức thanh toán được hỗ trợ trong cửa hàng của bạn, khách hàng sẽ thấy tùy chọn ưu tiên của mình, như PayPal hoặc Apple Pay. [Tìm hiểu thêm](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Khi sử dụng phương thức thanh toán được hỗ trợ trong cửa hàng của bạn, khách hàng sẽ thấy tùy chọn ưu tiên của mình, như PayPal hoặc Apple Pay. [Tìm hiểu thêm](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Hiển thị biểu mẫu người nhận cho sản phẩm thẻ quà tặng",

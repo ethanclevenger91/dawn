@@ -938,19 +938,19 @@
           }
         },
         "header__3": {
-          "content": "Land/region-väljare"
+          "content": "Land\/region-väljare"
         },
         "header__4": {
-          "info": "Om du vill lägga till land/region går du till dina [marknadsinställningar.](/admin/settings/markets)"
+          "info": "Om du vill lägga till land\/region går du till dina [marknadsinställningar.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Aktivera land/region-väljare"
+          "label": "Aktivera land\/region-väljare"
         },
         "header__5": {
           "content": "Språkväljare"
         },
         "header__6": {
-          "info": "Om du vill lägga till ett språk går du till dina [språkinställningar.](/admin/settings/languages)"
+          "info": "Om du vill lägga till ett språk går du till dina [språkinställningar.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Aktivera språkväljare"
@@ -1603,7 +1603,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Visa dynamiska utcheckningsknappar",
-              "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Visa mottagarformulär för presentkortsprodukter",
@@ -2464,7 +2464,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Visa dynamiska kassaknappar",
-              "info": "Genom att använda de betalningsmetoder som finns tillgängliga i din butik kan kunder se det alternativ de föredrar, som PayPal eller Apple Pay. [Mer information](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Genom att använda de betalningsmetoder som finns tillgängliga i din butik kan kunder se det alternativ de föredrar, som PayPal eller Apple Pay. [Mer information](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Visa mottagarformulär för presentkortsprodukter",

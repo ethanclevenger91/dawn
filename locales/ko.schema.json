@@ -938,19 +938,19 @@
           }
         },
         "header__3": {
-          "content": "국가/지역 선택기"
+          "content": "국가\/지역 선택기"
         },
         "header__4": {
-          "info": "국가/지역을 추가하려면 [마켓 설정](/admin/settings/markets)으로 이동하십시오."
+          "info": "국가\/지역을 추가하려면 [마켓 설정](\/admin\/settings\/markets)으로 이동하십시오."
         },
         "enable_country_selector": {
-          "label": "국가/지역 선택기 사용"
+          "label": "국가\/지역 선택기 사용"
         },
         "header__5": {
           "content": "언어 선택기"
         },
         "header__6": {
-          "info": "언어를 추가하려면 [언어 설정](/admin/settings/languages)으로 이동하십시오."
+          "info": "언어를 추가하려면 [언어 설정](\/admin\/settings\/languages)으로 이동하십시오."
         },
         "enable_language_selector": {
           "label": "언어 선택기 사용"
@@ -1603,7 +1603,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "동적 결제 버튼 표시",
-              "info": "스토어에서 사용 가능한 결제 방법을 사용하면 고객이 PayPal 또는 ApplePay처럼 원하는 옵션을 볼 수 있습니다. [자세히 알아보기](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "스토어에서 사용 가능한 결제 방법을 사용하면 고객이 PayPal 또는 ApplePay처럼 원하는 옵션을 볼 수 있습니다. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "기프트 카드 제품의 수취인 정보 양식 표시",
@@ -2464,7 +2464,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "동적 결제 버튼 표시",
-              "info": "스토어에서 사용 가능한 결제 방법을 사용하면 고객이 PayPal 또는 Apple Pay처럼 원하는 옵션을 볼 수 있습니다. [자세히 알아보기](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "스토어에서 사용 가능한 결제 방법을 사용하면 고객이 PayPal 또는 Apple Pay처럼 원하는 옵션을 볼 수 있습니다. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "기프트 카드 제품의 수취인 양식 표시",

@@ -938,19 +938,19 @@
           }
         },
         "header__3": {
-          "content": "Land-/regionvelger"
+          "content": "Land-\/regionvelger"
         },
         "header__4": {
-          "info": "Gå til [markedsinnstillinger](/admin/settings/markets) for å legge til land/region."
+          "info": "Gå til [markedsinnstillinger](\/admin\/settings\/markets) for å legge til land\/region."
         },
         "enable_country_selector": {
-          "label": "Aktiver land-/regionvelger"
+          "label": "Aktiver land-\/regionvelger"
         },
         "header__5": {
           "content": "Språkvelger"
         },
         "header__6": {
-          "info": "Gå til [språkinnstillingene](/admin/settings/languages) for å legge til et språk."
+          "info": "Gå til [språkinnstillingene](\/admin\/settings\/languages) for å legge til et språk."
         },
         "enable_language_selector": {
           "label": "Aktiver språkvelger"
@@ -1612,7 +1612,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Vis dynamiske knapper for å gå til kassen",
-              "info": "Kundene vil se sitt foretrukne alternativ, som PayPal eller Apple Pay, av betalingsmåtene som er tilgjengelig i butikken. [Finn ut mer](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Kundene vil se sitt foretrukne alternativ, som PayPal eller Apple Pay, av betalingsmåtene som er tilgjengelig i butikken. [Finn ut mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Vis mottakerinformasjonsskjema for produktgavekort",
@@ -2464,7 +2464,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Vis dynamiske knapper for å gå til kassen",
-              "info": "Kundene vil se sitt foretrukne alternativ, som PayPal eller Apple Pay, av betalingsmåtene som er tilgjengelig i butikken. [Finn ut mer](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Kundene vil se sitt foretrukne alternativ, som PayPal eller Apple Pay, av betalingsmåtene som er tilgjengelig i butikken. [Finn ut mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Vis mottakerskjema for produktgavekort",

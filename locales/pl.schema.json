@@ -938,19 +938,19 @@
           }
         },
         "header__3": {
-          "content": "Selektor kraju/regionu"
+          "content": "Selektor kraju\/regionu"
         },
         "header__4": {
-          "info": "Aby dodać kraj/region, przejdź do swoich [ustawień rynku.](/admin/settings/markets)"
+          "info": "Aby dodać kraj\/region, przejdź do swoich [ustawień rynku.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Włącz selektor kraju/regionu"
+          "label": "Włącz selektor kraju\/regionu"
         },
         "header__5": {
           "content": "Selektor języka"
         },
         "header__6": {
-          "info": "Aby dodać język, przejdź do swoich [ustawień języka.](/admin/settings/languages)"
+          "info": "Aby dodać język, przejdź do swoich [ustawień języka.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Włącz selektor języka"
@@ -1613,7 +1613,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Pokaż dynamiczne przyciski realizacji zakupu",
-              "info": "Korzystając z metod płatności dostępnych w Twoim sklepie, klienci widzą swoją preferowaną opcję, np. PayPal lub Apple Pay. [Dowiedz się więcej](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Korzystając z metod płatności dostępnych w Twoim sklepie, klienci widzą swoją preferowaną opcję, np. PayPal lub Apple Pay. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Pokaż formularz danych odbiorcy dla produktów typu karta prezentowa",
@@ -2464,7 +2464,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Pokaż dynamiczne przyciski realizacji zakupu",
-              "info": "Korzystając z metod płatności dostępnych w Twoim sklepie, klienci widzą swoją preferowaną opcję, np. PayPal lub Apple Pay. [Dowiedz się więcej](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Korzystając z metod płatności dostępnych w Twoim sklepie, klienci widzą swoją preferowaną opcję, np. PayPal lub Apple Pay. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Pokaż formularz odbiorcy dla produktów typu karta prezentowa",
