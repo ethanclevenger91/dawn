@@ -3150,19 +3150,3 @@ details-disclosure > details {
     100% { transform: rotate(360deg) translateX(1em) rotate(-360deg) scale(1.2); }
   }
 }
-
-.esc-size-guide--title {
-  display:none;
-}
-
-#dummy-chat-button-iframe {
-  z-index:9999 !important;
-}
-  
-#FacetFiltersFormMobile {
-  z-index:10000;
-}
-
-.shopify-payment-button + .button {
-  margin-top:1rem !important;
-}
