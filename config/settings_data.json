@@ -132,7 +132,10 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".klaviyo-bis-trigger {margin-top: 1.5rem; margin-bottom: -1.5rem;}"
+      ".klaviyo-bis-trigger {margin-top: 1.5rem; margin-bottom: -1.5rem;}",
+      ".esc-size-guide--title {display:none;}",
+      "#dummy-chat-button-iframe {z-index:9999 !important;}",
+      " #FacetFiltersFormMobile {z-index:10000;}"
     ]
   }
 }
