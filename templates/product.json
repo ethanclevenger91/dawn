@@ -146,7 +146,7 @@
     "391e2e91-61cd-4cc9-a04b-b762d429e21b": {
       "type": "custom-liquid",
       "custom_css": [
-        ".klaviyo-bis-trigger {margin-top: 1.5rem; margin-bottom: -1.5rem;}"
+
       ],
       "settings": {
         "custom_liquid": "<script src=\"https:\/\/a.klaviyo.com\/media\/js\/onsite\/onsite.js\"><\/script>\n<script>var klaviyo = klaviyo || [];\n    klaviyo.init({\n      account: \"Yddtvc\",\n      platform: \"shopify\",\n      include_on_tags: 'Core'\n    });\n    klaviyo.enable(\"backinstock\",{ \n    trigger: {\n      product_page_text: \"Notify Me When Available\",\n      product_page_class: \"button button--full-width button--primary\",\n      product_page_text_align: \"center\",\n      product_page_margin: \"0px\",\n      replace_anchor: false\n    },\n    modal: {\n     headline: \"{product_name}\",\n     body_content: \"Register to receive a notification when this item comes back in stock.\",\n     email_field_label: \"Email\",\n     button_label: \"Notify me when available\",\n     subscription_success_label: \"You're in! We'll let you know when it's back.\",\n     footer_content: '',\n     additional_styles: \"@import url('https:\/\/fonts.googleapis.com\/css2?family=Crimson+Text&family=Staatliches&display=swap');.btn { font-family:Staatliches;font-weight:400;letter-spacing:1.1px; }\",\n     drop_background_color: \"#000\",\n     background_color: \"#fff\",\n     close_button_color: \"#ccc\",\n     error_background_color: \"#fcd6d7\",\n     error_text_color: \"#C72E2F\",\n     success_background_color: \"#d3efcd\",\n     success_text_color: \"#1B9500\",\n     button_background_color: \"rgb(214, 74, 40)\",\n     button_text_color: \"white\",\n    }\n  });\n<\/script>",

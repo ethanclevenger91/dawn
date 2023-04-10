@@ -129,5 +129,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".klaviyo-bis-trigger {margin-top: 1.5rem; margin-bottom: -1.5rem;}"
+    ]
   }
 }
