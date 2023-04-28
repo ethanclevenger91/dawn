@@ -42,6 +42,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -130,6 +131,33 @@
         "padding_bottom": 36
       }
     },
+    "608a42a8-1c64-466d-b712-b82a8cb23680": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14168137728072__608a42a8-1c64-466d-b712-b82a8cb23680-1682723109c8c928e9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Latest Arrivals",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14168137728072__608a42a8-1c64-466d-b712-b82a8cb23680-1682723109c8c928e9-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
     "16312348604f33da59": {
       "type": "image-with-text",
       "blocks": {
@@ -161,6 +189,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -172,7 +201,7 @@
         "16288074329a8902e0-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Classic, durable and versatile menswear<\/p>",
+            "heading": "Classic, durable and versatile menswear",
             "heading_size": "h1"
           }
         },
@@ -240,7 +269,7 @@
         "16495371002d044ff9-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>The Porterhouse Philosophy<\/p>",
+            "heading": "The Porterhouse Philosophy",
             "heading_size": "h1"
           }
         },
@@ -372,6 +401,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -408,6 +438,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -419,7 +450,7 @@
         "16281191127f7c30d5-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Latest from Instagram<\/p>",
+            "heading": "Latest from Instagram",
             "heading_size": "h1"
           }
         }
@@ -444,21 +475,13 @@
         "feed_width": 95,
         "html_area": ""
       }
-    },
-    "16281192264530d9c8": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div>&nbsp;<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "image_banner",
     "8e5e019b-f4a1-4e9b-8555-bc52e5b4e734",
     "16288076191b5a1fb7",
+    "608a42a8-1c64-466d-b712-b82a8cb23680",
     "16312348604f33da59",
     "16288074329a8902e0",
     "162880743707132227",
@@ -467,7 +490,6 @@
     "image_text",
     "16288077053a9a5d56",
     "16281191127f7c30d5",
-    "16281190877da4b4bf",
-    "16281192264530d9c8"
+    "16281190877da4b4bf"
   ]
 }
