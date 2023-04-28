@@ -138,7 +138,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Latest Arrivals",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "https:\/\/porterhouseclothing.com\/collections\/all?filter.v.price.gte=&filter.v.price.lte=&sort_by=created-descending",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
