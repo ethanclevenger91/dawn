@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Spring florals",
+            "heading": "Warm Weather Styles",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Spring is in full bloom. Your wardobe should be too.",
+            "text": "Spring and summer threads for both style & comfort.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Floral Prints",
-            "button_link_1": "shopify:\/\/collections\/spring-and-summer-florals",
+            "button_label_1": "Shop New Styles",
+            "button_link_1": "shopify:\/\/collections\/spring-summer-2023",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF3738_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF5069_2_1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
