@@ -35,7 +35,8 @@
         "button"
       ],
       "custom_css": [
-        "h2,p,a {color: white;}"
+        "a {color:white;}",
+        "@media screen and (min-width:750px) {h2, p {color: white; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSCF3738_1.jpg",
