@@ -34,11 +34,14 @@
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b",
         "button"
       ],
+      "custom_css": [
+        "h2,p,a {color: white;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSCF3738_1.jpg",
-        "image_overlay_opacity": 10,
+        "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "top-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
