@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Spring & Summer Florals",
+            "heading": "Father's Day gifts",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Spring is in bloom, and your shirting should be too.",
+            "text": "On their own or in a bundle, these items make a perfect gift for dad.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Floral Shirts",
-            "button_link_1": "shopify:\/\/collections\/spring-and-summer-florals",
+            "button_label_1": "Shop Father's Day Gifts",
+            "button_link_1": "shopify:\/\/collections\/fathers-day-1",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,16 +35,16 @@
         "button"
       ],
       "custom_css": [
-        "a {color:white;}",
-        "@media screen and (min-width:750px) {h2, p {color: white; }}"
+        "a {color: white;}",
+        "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF3738_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF7841.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "top-right",
         "show_text_box": true,
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
