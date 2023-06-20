@@ -8,10 +8,10 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Father's Day Grooming Bundle Available Now",
+            "text": "Free domestic shipping on orders over $250",
             "text_alignment": "center",
             "color_scheme": "accent-1",
-            "link": "shopify:\/\/collections\/fathers-day"
+            "link": ""
           }
         }
       },
