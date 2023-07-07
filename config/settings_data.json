@@ -3,63 +3,6 @@
     "logo": "shopify:\/\/shop_images\/ph_print_full-logo_textured_black_1.png",
     "logo_width": 150,
     "favicon": "shopify:\/\/shop_images\/ph_web_head_textured_black.png",
-    "color_schemes": {
-      "background-1": {
-        "settings": {
-          "background": "#FFFFFF",
-          "background_gradient": "",
-          "text": "#434345",
-          "button": "#434345",
-          "button_label": "#FFFFFF",
-          "secondary_button_label": "#434345",
-          "shadow": "#434345"
-        }
-      },
-      "background-2": {
-        "settings": {
-          "background": "#F3F3F3",
-          "background_gradient": "",
-          "text": "#121212",
-          "button": "#121212",
-          "button_label": "#F3F3F3",
-          "secondary_button_label": "#121212",
-          "shadow": "#121212"
-        }
-      },
-      "inverse": {
-        "settings": {
-          "background": "#242833",
-          "background_gradient": "",
-          "text": "#FFFFFF",
-          "button": "#FFFFFF",
-          "button_label": "#000000",
-          "secondary_button_label": "#FFFFFF",
-          "shadow": "#121212"
-        }
-      },
-      "accent-1": {
-        "settings": {
-          "background": "#d64a28",
-          "background_gradient": "",
-          "text": "#FFFFFF",
-          "button": "#d64a28",
-          "button_label": "#FFFFFF",
-          "secondary_button_label": "#FFFFFF",
-          "shadow": "#121212"
-        }
-      },
-      "accent-2": {
-        "settings": {
-          "background": "#924d26",
-          "background_gradient": "",
-          "text": "#FFFFFF",
-          "button": "#924d26",
-          "button_label": "#334FB4",
-          "secondary_button_label": "#FFFFFF",
-          "shadow": "#121212"
-        }
-      }
-    },
     "type_header_font": "sans-serif",
     "heading_scale": 120,
     "type_body_font": "crimson_text_n4",
@@ -72,7 +15,6 @@
     "variant_pills_shadow_opacity": 0,
     "card_color_scheme": "background-1",
     "media_border_thickness": 0,
-    "accent_icons": "text",
     "social_facebook_link": "https:\/\/facebook.com\/porterhouseclothing",
     "social_instagram_link": "https:\/\/instagram.com\/porterhouseclothing",
     "predictive_search_show_vendor": true,
@@ -82,6 +24,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/ph_web_full-logo_textured_black_b304ed38-2581-4abf-9296-056a4243b16a.png",
     "checkout_accent_color": "#d64a28",
     "checkout_button_color": "#d64a28",
+    "accent_icons": "text",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -90,8 +33,6 @@
             "type": "announcement",
             "settings": {
               "text": "End of Season Sale. 25-35% off. Shop the collection.",
-              "text_alignment": "center",
-              "color_scheme": "accent-1",
               "link": "shopify:\/\/collections\/autumn-winter-2022-end-of-season-sale"
             }
           }
@@ -178,6 +119,63 @@
         "type": "shopify:\/\/apps\/smile-rewards-loyalty\/blocks\/smile-shopify-app\/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
         "disabled": false,
         "settings": {
+        }
+      }
+    },
+    "color_schemes": {
+      "background-1": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#434345",
+          "button": "#d64a28",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#d64a28",
+          "shadow": "#434345"
+        }
+      },
+      "background-2": {
+        "settings": {
+          "background": "rgba(0,0,0,0)",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#d64a28",
+          "button_label": "#f3f3f3",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "inverse": {
+        "settings": {
+          "background": "#242833",
+          "background_gradient": "",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#000000",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
+        }
+      },
+      "accent-1": {
+        "settings": {
+          "background": "#d64a28",
+          "background_gradient": "",
+          "text": "#ffffff",
+          "button": "#d64a28",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
+        }
+      },
+      "accent-2": {
+        "settings": {
+          "background": "#924d26",
+          "background_gradient": "",
+          "text": "#ffffff",
+          "button": "#924d26",
+          "button_label": "#334fb4",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
         }
       }
     }
