@@ -23,9 +23,8 @@
         },
         "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "{% for c in product.collections %}\n{% if c.handle == \"marked-down\" %}\n<h2>End of Season Sale - Last Call<\/h2>\n<p>Monday, 1\/30 through Sunday, 2\/5, this product is on Last Call with an extra 25% off. Final price reflected in cart.<\/p>\n<p><a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n        {% endif %}\n      {% endfor %}"
+            "custom_liquid": "{% for c in product.collections %}\n{% if c.handle == \"marked-down\" %}\n<h2>Sidewalk Sale - Last Call<\/h2>\n<p>Friday, 7\/7 through Sunday, 7\/9, this product is on Last Call with an extra 25% off. Final price reflected in cart.<\/p>\n<p><a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n        {% endif %}\n      {% endfor %}"
           }
         },
         "77c7897c-3d5a-4215-b174-ec7fbefc8322": {
