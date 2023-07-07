@@ -3,11 +3,63 @@
     "logo": "shopify:\/\/shop_images\/ph_print_full-logo_textured_black_1.png",
     "logo_width": 150,
     "favicon": "shopify:\/\/shop_images\/ph_web_head_textured_black.png",
-    "colors_accent_1": "#d64a28",
-    "colors_accent_2": "#924d26",
-    "colors_text": "#434345",
-    "colors_outline_button_labels": "#d64a28",
-    "colors_background_2": "rgba(0,0,0,0)",
+    "color_schemes": {
+      "background-1": {
+        "settings": {
+          "background": "#FFFFFF",
+          "background_gradient": "",
+          "text": "#434345",
+          "button": "#434345",
+          "button_label": "#FFFFFF",
+          "secondary_button_label": "#434345",
+          "shadow": "#434345"
+        }
+      },
+      "background-2": {
+        "settings": {
+          "background": "#F3F3F3",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#121212",
+          "button_label": "#F3F3F3",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "inverse": {
+        "settings": {
+          "background": "#242833",
+          "background_gradient": "",
+          "text": "#FFFFFF",
+          "button": "#FFFFFF",
+          "button_label": "#000000",
+          "secondary_button_label": "#FFFFFF",
+          "shadow": "#121212"
+        }
+      },
+      "accent-1": {
+        "settings": {
+          "background": "#d64a28",
+          "background_gradient": "",
+          "text": "#FFFFFF",
+          "button": "#d64a28",
+          "button_label": "#FFFFFF",
+          "secondary_button_label": "#FFFFFF",
+          "shadow": "#121212"
+        }
+      },
+      "accent-2": {
+        "settings": {
+          "background": "#924d26",
+          "background_gradient": "",
+          "text": "#FFFFFF",
+          "button": "#924d26",
+          "button_label": "#334FB4",
+          "secondary_button_label": "#FFFFFF",
+          "shadow": "#121212"
+        }
+      }
+    },
     "type_header_font": "sans-serif",
     "heading_scale": 120,
     "type_body_font": "crimson_text_n4",
