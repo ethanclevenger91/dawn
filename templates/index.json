@@ -44,7 +44,7 @@
         "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
@@ -186,7 +186,7 @@
         "16312348604f33da59-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/318596187_8625909077450228_948035733009547796_n.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF6074.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
