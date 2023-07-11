@@ -8,10 +8,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Sidewalk Summer Sale",
-            "text_alignment": "center",
-            "color_scheme": "accent-1",
-            "link": "shopify:\/\/collections\/sidewalk-sale"
+            "text": "Free Shipping on Orders Over $250",
+            "link": ""
           }
         }
       },
@@ -19,6 +17,10 @@
         "announcement-bar-0"
       ],
       "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "auto_rotate": false,
+        "change_slides_speed": 5
       }
     },
     "header": {
@@ -30,6 +32,7 @@
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
         "color_scheme": "background-1",
+        "menu_color_scheme": "",
         "enable_country_selector": false,
         "enable_language_selector": false,
         "mobile_logo_position": "center",
