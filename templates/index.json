@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Summer Sidewalk Sale",
+            "heading": "Be Bold",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Enjoy an extra 25% off lowest marked price.",
+            "text": "Summer is for prints",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Sidewalk Sale",
-            "button_link_1": "shopify:\/\/collections\/sidewalk-sale",
+            "button_label_1": "Shop Prints",
+            "button_link_1": "shopify:\/\/collections\/spring-and-summer-florals",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -39,7 +39,7 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF0334_2_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF8319_2.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
@@ -125,6 +125,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
