@@ -3,7 +3,6 @@
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
-        "show_vendor": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -34,25 +33,43 @@
       "settings": {
         "title": "Our Best Sellers",
         "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
         "collection": "accessories",
         "products_to_show": 4,
         "columns_desktop": 4,
+        "full_width": false,
         "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "fa27bad4-a073-48b4-9756-075dc8d94371": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% if cart.total_price > 230 and cart.total_price < 250 %}\n<div class=\"page-width\">\n<h2>You've Almost Unlocked Free Shipping!<\/h2>\n<p>Orders over $250 ship free. Here are some great add-ons if you want to qualify.<\/p>\n    <slider-component class=\"slider-mobile-gutter page-width-desktop\">\n      <ul\n        id=\"Slider-{{ section.id }}\"\n        class=\"grid product-grid contains-card contains-card--product grid--4-col-desktop grid--1-col-tablet-down slider slider--tablet grid--peek\"\n        role=\"list\"\n        aria-label=\"{{ 'general.slider.name' | t }}\"\n      >\n        {%- for product in section.settings.collection.products limit: 4 -%}\n          <li\n            id=\"Slide-{{ section.id }}-{{ forloop.index }}\"\n            class=\"grid__item slider__slide\">\n            {% render 'card-product',\n              card_product: product,\n              media_aspect_ratio: section.settings.image_ratio,\n              image_shape: section.settings.image_shape,\n              show_secondary_image: section.settings.show_secondary_image,\n              show_vendor: section.settings.show_vendor,\n              show_rating: true,\n              show_quick_add: true,\n              section_id: section.id\n            %}\n          <\/li>\n        {%- endfor -%}\n      <\/ul>\n      {%- if show_mobile_slider or show_desktop_slider -%}\n        <div class=\"slider-buttons no-js-hidden\">\n          <button\n            type=\"button\"\n            class=\"slider-button slider-button--prev\"\n            name=\"previous\"\n            aria-label=\"{{ 'general.slider.previous_slide' | t }}\"\n            aria-controls=\"Slider-{{ section.id }}\"\n          >\n            {% render 'icon-caret' %}\n          <\/button>\n          <div class=\"slider-counter caption\">\n            <span class=\"slider-counter--current\">1<\/span>\n            <span aria-hidden=\"true\"> \/ <\/span>\n            <span class=\"visually-hidden\">{{ 'general.slider.of' | t }}<\/span>\n            <span class=\"slider-counter--total\">{{ products_to_display }}<\/span>\n          <\/div>\n          <button\n            type=\"button\"\n            class=\"slider-button slider-button--next\"\n            name=\"next\"\n            aria-label=\"{{ 'general.slider.next_slide' | t }}\"\n            aria-controls=\"Slider-{{ section.id }}\"\n          >\n            {% render 'icon-caret' %}\n          <\/button>\n        <\/div>\n      {%- endif -%}\n    <\/slider-component>\n{% endif %}",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "cart-items",
     "cart-footer",
-    "featured-collection"
+    "featured-collection",
+    "fa27bad4-a073-48b4-9756-075dc8d94371"
   ]
 }
