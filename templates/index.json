@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Be Bold",
+            "heading": "New shades for summer",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Summer is for prints",
+            "text": "Enjoy new quality sunglasses from Shwood Eyewear.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Prints",
-            "button_link_1": "shopify:\/\/collections\/spring-and-summer-florals",
+            "button_label_1": "Shop the collection",
+            "button_link_1": "shopify:\/\/collections\/shwood-eyewear",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -39,12 +39,12 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF8319_2.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF2016_1.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-right",
         "show_text_box": true,
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
