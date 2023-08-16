@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "New shades for summer",
+            "heading": "Boots for fall",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Enjoy new quality sunglasses from Shwood Eyewear.",
+            "text": "The newest from the legendary Redwing Heritage.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the collection",
-            "button_link_1": "shopify:\/\/collections\/shwood-eyewear",
+            "button_label_1": "Shop Alpine Moc",
+            "button_link_1": "shopify:\/\/products\/classic-moc-8828-alpine",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -39,10 +39,10 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF2016_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF4676_1.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "middle-right",
+        "desktop_content_position": "top-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
@@ -388,7 +388,8 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Denim",
-            "button_link": "shopify:\/\/collections\/denim"
+            "button_link": "shopify:\/\/collections\/denim",
+            "button_style_secondary": false
           }
         }
       },
