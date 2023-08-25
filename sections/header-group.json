@@ -8,8 +8,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Free Shipping on Orders Over $250",
-            "link": ""
+            "text": "Up to 35% off late- and past-season styles through Sunday",
+            "link": "shopify:\/\/collections\/dog-days-23"
           }
         }
       },
@@ -19,8 +19,11 @@
       "settings": {
         "color_scheme": "",
         "show_line_separator": true,
+        "show_social": false,
         "auto_rotate": false,
-        "change_slides_speed": 5
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
       }
     },
     "header": {
