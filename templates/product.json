@@ -23,6 +23,7 @@
         },
         "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign marked_down = product.collections | where: 'handle', \"marked-down\"\n  assign dog_days = product.collections | where: 'handle', \"dog-days-23\"\n%}\n{% if marked_down != blank %}\n<h2>Dog Days Sale<\/h2>\n<p>Through Sunday, 8\/27, this product is on Last Call with an extra 25% off. Final price reflected in cart.<\/p>\n<p><a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n{% elsif dog_days != blank %}\n<h2>Dog Days Sale<\/h2>\n<p>This product is on Last Call at up to 35% off as part of our Dog Days 2023 sale. Valid through Sunday, 8\/27. Final price reflected in cart.<\/p>\n<p><a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n{% endif %}\n<\/div>"
           }
