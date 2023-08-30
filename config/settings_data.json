@@ -187,7 +187,7 @@
     "custom_css": [
       ".klaviyo-bis-trigger {margin-top: 1.5rem !important; margin-bottom: -1.5rem !important;}",
       ".esc-size-guide--title {display: none;}",
-      "#dummy-chat-button-iframe {z-index: 9999 !important;}",
+      "#dummy-chat-button-iframe {z-index: 2 !important;}",
       "#FacetFiltersFormMobile {z-index: 10000;}"
     ]
   }
