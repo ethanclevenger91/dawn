@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "The Alpine Moc",
+            "heading": "Reigning Champ",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "A limited banger from Red Wing",
+            "text": "The finest crafted athletic wear in the world.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the Moc",
-            "button_link_1": "shopify:\/\/products\/classic-moc-8828-alpine",
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/reigning-champ",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -39,7 +39,7 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF4676_2.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF0689_1.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
         "desktop_content_position": "bottom-left",
