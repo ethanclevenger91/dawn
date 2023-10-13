@@ -200,6 +200,46 @@
         "padding_bottom": 36
       }
     },
+    "809b0a23-6932-4270-a56a-c8a42a1f68f5": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ethans-picks"
+          }
+        },
+        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sams-picks"
+          }
+        },
+        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "omars-picks"
+          }
+        }
+      },
+      "block_order": [
+        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-1",
+        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-2",
+        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-3"
+      ],
+      "settings": {
+        "title": "Staff Picks",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "16288074329a8902e0": {
       "type": "rich-text",
       "blocks": {
@@ -489,6 +529,7 @@
     "16288076191b5a1fb7",
     "608a42a8-1c64-466d-b712-b82a8cb23680",
     "16312348604f33da59",
+    "809b0a23-6932-4270-a56a-c8a42a1f68f5",
     "16288074329a8902e0",
     "162880743707132227",
     "1649537100b0ee17f3",
