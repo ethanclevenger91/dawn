@@ -200,44 +200,60 @@
         "padding_bottom": 36
       }
     },
-    "809b0a23-6932-4270-a56a-c8a42a1f68f5": {
-      "type": "collection-list",
+    "bc288656-e576-4498-b5de-a5c58f607191": {
+      "type": "multicolumn",
       "blocks": {
-        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-1": {
-          "type": "featured_collection",
+        "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-1": {
+          "type": "column",
           "settings": {
-            "collection": "ethans-picks"
+            "image": "shopify:\/\/shop_images\/391395078_18007435522989073_4374538545250934803_n.jpg",
+            "title": "Sam's Picks",
+            "text": "",
+            "link_label": "Browse Sam's Picks",
+            "link": "shopify:\/\/collections\/sams-picks"
           }
         },
-        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-2": {
-          "type": "featured_collection",
+        "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-2": {
+          "type": "column",
           "settings": {
-            "collection": "sams-picks"
+            "image": "shopify:\/\/shop_images\/370553281_18001708420989073_5324575474945671066_n.jpg",
+            "title": "Ethan'S Picks",
+            "text": "",
+            "link_label": "Browse Ethan's Picks",
+            "link": "shopify:\/\/collections\/ethans-picks"
           }
         },
-        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-3": {
-          "type": "featured_collection",
+        "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-3": {
+          "type": "column",
           "settings": {
-            "collection": "omars-picks"
+            "image": "shopify:\/\/shop_images\/351425149_633898358661614_452108757181282591_n.jpg",
+            "title": "Omar's Picks",
+            "text": "",
+            "link_label": "Browse Omar's Picks",
+            "link": "shopify:\/\/collections\/omars-picks"
           }
         }
       },
       "block_order": [
-        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-1",
-        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-2",
-        "template--14168137728072__809b0a23-6932-4270-a56a-c8a42a1f68f5-featured_collection-3"
+        "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-1",
+        "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-2",
+        "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-3"
       ],
       "settings": {
         "title": "Staff Picks",
         "heading_size": "h1",
-        "image_ratio": "square",
+        "image_width": "full",
+        "image_ratio": "circle",
         "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
         "color_scheme": "",
-        "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 72,
-        "padding_bottom": 72
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16288074329a8902e0": {
@@ -529,7 +545,7 @@
     "16288076191b5a1fb7",
     "608a42a8-1c64-466d-b712-b82a8cb23680",
     "16312348604f33da59",
-    "809b0a23-6932-4270-a56a-c8a42a1f68f5",
+    "bc288656-e576-4498-b5de-a5c58f607191",
     "16288074329a8902e0",
     "162880743707132227",
     "1649537100b0ee17f3",
