@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Reigning Champ",
+            "heading": "Waxed Rider Jacket",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "The finest crafted athletic wear in the world.",
+            "text": "The Freenote Cloth RJ1 is back in full force & multiple colorways.",
             "text_style": "body"
           }
         },
@@ -39,10 +39,10 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF0689_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF4523.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "bottom-left",
+        "desktop_content_position": "bottom-right",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "background-2",
