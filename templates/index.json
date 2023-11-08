@@ -13,7 +13,7 @@
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "The Freenote Cloth RJ1 is back in full force & multiple colorways.",
+            "text": "The Freenote Cloth RJ1 returns in full force & multiple colorways.",
             "text_style": "body"
           }
         },
@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/reigning-champ",
+            "button_link_1": "shopify:\/\/collections\/waxed-canvas-rider-jacket",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
