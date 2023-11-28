@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday Deals",
+            "heading": "Howlin' Knitwear",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Stack & save on markdowns, plus $10 back in gift cards for every $100 spent site-wide.",
+            "text": "Cozy & playful designs rooted in traditional manufacturing.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the Sale Collection",
-            "button_link_1": "shopify:\/\/collections\/black-friday-2023",
+            "button_label_1": "Show Howlin'",
+            "button_link_1": "shopify:\/\/collections\/howlin",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -39,12 +39,12 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF6186.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF5168.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "bottom-right",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
-        "desktop_content_alignment": "right",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
