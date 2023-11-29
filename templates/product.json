@@ -23,6 +23,7 @@
         },
         "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign marked_down = product.collections | where: 'handle', \"marked-down\"\n%}\n{% if marked_down != blank %}\n<h2>Stack & Save<\/h2>\n<p>Friday, 11\/24 through Through Monday, 11\/27, all markdown items are 25% off. Buy 2 markdowns for 35% off both, and 3+ markdowns for 50% off the set.<\/p>\n<p>The Stack & Save promotion is a Last Call sale. <a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n<p>Final price shown in cart.<\/p>\n{% endif %}\n<\/div>"
           }
