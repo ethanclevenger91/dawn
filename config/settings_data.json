@@ -123,6 +123,18 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#d64a28",
+          "button_icon": "chat_bubble",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "button_text": "chat_with_us",
+          "greeting_message": "👋 Hello! Let us know if you have a question about sizing, fits, materials, or anything else."
+        }
       }
     },
     "color_schemes": {
