@@ -130,9 +130,9 @@
         "settings": {
           "button_color": "#d64a28",
           "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
-          "button_text": "chat_with_us",
           "greeting_message": "👋 Hello! Let us know if you have a question about sizing, fits, materials, or anything else."
         }
       }
