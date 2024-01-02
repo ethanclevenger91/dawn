@@ -8,8 +8,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Holiday shopping? Start here.",
-            "link": "shopify:\/\/pages\/holidays-at-porterhouse"
+            "text": "Free Domestic Shipping on Orders $250 or More",
+            "link": ""
           }
         }
       },
