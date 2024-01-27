@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Howlin' Knitwear",
+            "heading": "Return of the Cruiser",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Cozy & playful designs rooted in traditional manufacturing.",
+            "text": "First piece of the year from Rogue Territory is live.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Show Now",
-            "button_link_1": "shopify:\/\/collections\/howlin",
+            "button_label_1": "Shop Cruiser Jacket",
+            "button_link_1": "shopify:\/\/products\/cruiser-jacket-in-grey-corduroy",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -39,12 +39,12 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF5168.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF9306_1.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "bottom-left",
+        "desktop_content_position": "bottom-right",
         "show_text_box": true,
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
