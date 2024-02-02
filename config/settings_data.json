@@ -21,6 +21,7 @@
     "social_facebook_link": "https:\/\/facebook.com\/porterhouseclothing",
     "social_instagram_link": "https:\/\/instagram.com\/porterhouseclothing",
     "predictive_search_show_vendor": true,
+    "currency_code_enabled": false,
     "cart_type": "drawer",
     "show_vendor": true,
     "cart_drawer_collection": "core",
