@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "Sosyal medya simgeleri",
-          "info": "Sosyal medya hesaplarınızın görüntülenmesi için bu hesapları [tema ayarlarınızda](/editor?context=theme&category=social%20media) bağlayın."
+          "info": "Sosyal medya hesaplarınızın görüntülenmesi için bu hesapları [tema ayarlarınızda](\/editor?context=theme&category=social%20media) bağlayın."
         },
         "header__2": {
           "content": "Duyurular"
@@ -489,15 +489,15 @@
           "label": "Simgeleri masaüstünde göster"
         },
         "header__3": {
-          "content": "Ülke/bölge seçici",
-          "info": "Ülke/bölge eklemek için [pazar ayarlarınıza](/admin/settings/markets) gidin."
+          "content": "Ülke\/bölge seçici",
+          "info": "Ülke\/bölge eklemek için [pazar ayarlarınıza](\/admin\/settings\/markets) gidin."
         },
         "enable_country_selector": {
-          "label": "Ülke/bölge seçiciyi etkinleştir"
+          "label": "Ülke\/bölge seçiciyi etkinleştir"
         },
         "header__4": {
           "content": "Dil seçici",
-          "info": "Dil eklemek için [dil ayarlarınıza](/admin/settings/languages) gidin."
+          "info": "Dil eklemek için [dil ayarlarınıza](\/admin\/settings\/languages) gidin."
         },
         "enable_language_selector": {
           "label": "Dil seçiciyi etkinleştir"
@@ -661,7 +661,7 @@
       "settings": {
         "custom_liquid": {
           "label": "Liquid kodu",
-          "info": "Gelişmiş özelleştirmeler oluşturmak için uygulama parçacıkları veya başka bir kod ekleyin. [Daha fazla bilgi edinin](https://shopify.dev/docs/api/liquid)"
+          "info": "Gelişmiş özelleştirmeler oluşturmak için uygulama parçacıkları veya başka bir kod ekleyin. [Daha fazla bilgi edinin](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -1649,7 +1649,7 @@
             },
             "swatch_shape": {
               "label": "Numune parça",
-              "info": "Ürün seçeneklerinde [numune parçaları](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) etkinleştirin.",
+              "info": "Ürün seçeneklerinde [numune parçaları](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) etkinleştirin.",
               "options__1": {
                 "label": "Yuvarlak"
               },
@@ -2505,7 +2505,7 @@
             },
             "swatch_shape": {
               "label": "Numune parça",
-              "info": "Ürün seçeneklerinde [numune parçaları](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) etkinleştirin.",
+              "info": "Ürün seçeneklerinde [numune parçaları](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) etkinleştirin.",
               "options__1": {
                 "label": "Yuvarlak"
               },

@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "Ícones de redes sociais",
-          "info": "Para exibir suas contas em redes sociais, crie links nas [configurações do tema](/editor?context=theme&category=social%20media)."
+          "info": "Para exibir suas contas em redes sociais, crie links nas [configurações do tema](\/editor?context=theme&category=social%20media)."
         },
         "header__2": {
           "content": "Comunicados"
@@ -489,15 +489,15 @@
           "label": "Mostrar ícones no desktop"
         },
         "header__3": {
-          "content": "Seletor de país/região",
-          "info": "Adicione um país/uma região às [configurações de mercado.](/admin/settings/markets)"
+          "content": "Seletor de país\/região",
+          "info": "Adicione um país\/uma região às [configurações de mercado.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Habilitar seletor de país/região"
+          "label": "Habilitar seletor de país\/região"
         },
         "header__4": {
           "content": "Seletor de idioma",
-          "info": "Adicione um idioma às [configurações de idioma.](/admin/settings/languages)"
+          "info": "Adicione um idioma às [configurações de idioma.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Habilitar seletor de idioma"
@@ -661,7 +661,7 @@
       "settings": {
         "custom_liquid": {
           "label": "Código Liquid",
-          "info": "Adicione snippets de app ou outros códigos do Liquid para criar personalizações avançadas. [Saiba mais](https://shopify.dev/docs/api/liquid)"
+          "info": "Adicione snippets de app ou outros códigos do Liquid para criar personalizações avançadas. [Saiba mais](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -1649,7 +1649,7 @@
             },
             "swatch_shape": {
               "label": "Amostra",
-              "info": "Habilite [amostras](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) nas opções de produtos.",
+              "info": "Habilite [amostras](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) nas opções de produtos.",
               "options__1": {
                 "label": "Círculo"
               },
@@ -2505,7 +2505,7 @@
             },
             "swatch_shape": {
               "label": "Amostra",
-              "info": "Habilite [amostras](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) nas opções de produtos.",
+              "info": "Habilite [amostras](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) nas opções de produtos.",
               "options__1": {
                 "label": "Círculo"
               },

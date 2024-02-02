@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "ไอคอนโซเชียลมีเดีย",
-          "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน[การตั้งค่าธีม](/editor?context=theme&category=social%20media)"
+          "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน[การตั้งค่าธีม](\/editor?context=theme&category=social%20media)"
         },
         "header__2": {
           "content": "ประกาศ"
@@ -489,15 +489,15 @@
           "label": "แสดงไอคอนบนเดสก์ท็อป"
         },
         "header__3": {
-          "content": "ตัวเลือกประเทศ/ภูมิภาค",
-          "info": "หากต้องการเพิ่มประเทศ/ภูมิภาค ให้ไปที่ [การตั้งค่าตลาด](/admin/settings/markets)"
+          "content": "ตัวเลือกประเทศ\/ภูมิภาค",
+          "info": "หากต้องการเพิ่มประเทศ\/ภูมิภาค ให้ไปที่ [การตั้งค่าตลาด](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "เปิดใช้ตัวเลือกประเทศ/ภูมิภาค"
+          "label": "เปิดใช้ตัวเลือกประเทศ\/ภูมิภาค"
         },
         "header__4": {
           "content": "ตัวเลือกภาษา",
-          "info": "หากต้องการเพิ่มภาษา ให้ไปที่ [การตั้งค่าภาษา](/admin/settings/languages)"
+          "info": "หากต้องการเพิ่มภาษา ให้ไปที่ [การตั้งค่าภาษา](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "เปิดใช้ตัวเลือกภาษา"
@@ -661,7 +661,7 @@
       "settings": {
         "custom_liquid": {
           "label": "โค้ด Liquid",
-          "info": "เพิ่มส่วนย่อยของแอปหรือโค้ดอื่นๆ เพื่อสร้างการปรับแต่งขั้นสูง [ดูข้อมูลเพิ่มเติม](https://shopify.dev/docs/api/liquid)"
+          "info": "เพิ่มส่วนย่อยของแอปหรือโค้ดอื่นๆ เพื่อสร้างการปรับแต่งขั้นสูง [ดูข้อมูลเพิ่มเติม](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -1641,7 +1641,7 @@
             },
             "swatch_shape": {
               "label": "ตัวอย่าง",
-              "info": "เปิดใช้งาน [แผงสี](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) ในตัวเลือกสินค้า",
+              "info": "เปิดใช้งาน [แผงสี](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) ในตัวเลือกสินค้า",
               "options__1": {
                 "label": "วงกลม"
               },
@@ -2505,7 +2505,7 @@
             },
             "swatch_shape": {
               "label": "ตัวอย่าง",
-              "info": "เปิดใช้งาน [แผงสี](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) ในตัวเลือกสินค้า",
+              "info": "เปิดใช้งาน [แผงสี](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) ในตัวเลือกสินค้า",
               "options__1": {
                 "label": "วงกลม"
               },

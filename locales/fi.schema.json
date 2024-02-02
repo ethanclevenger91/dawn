@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "Some-kuvakkeet",
-          "info": "Jos haluat näyttää sosiaalisen median tilisi, linkitä ne [teema-asetuksistasi](/editor?context=theme&category=social%20media)."
+          "info": "Jos haluat näyttää sosiaalisen median tilisi, linkitä ne [teema-asetuksistasi](\/editor?context=theme&category=social%20media)."
         },
         "header__2": {
           "content": "Ilmoitukset"
@@ -489,15 +489,15 @@
           "label": "Näytä työpöydällä olevat kuvakkeet"
         },
         "header__3": {
-          "content": "Maa-/aluevalitsin",
-          "info": "Lisää maa/alue siirtymällä [markkina-asetuksiisi.](/admin/settings/markets)"
+          "content": "Maa-\/aluevalitsin",
+          "info": "Lisää maa\/alue siirtymällä [markkina-asetuksiisi.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Ota käyttöön maa-/aluevalitsin"
+          "label": "Ota käyttöön maa-\/aluevalitsin"
         },
         "header__4": {
           "content": "Kielivalitsin",
-          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](/admin/settings/languages)"
+          "info": "Lisää kieli siirtymällä [kieliasetuksiisi.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Ota kielivalitsin käyttöön"
@@ -661,7 +661,7 @@
       "settings": {
         "custom_liquid": {
           "label": "Liquid-koodi",
-          "info": "Luo vaativampia mukautuksia lisäämällä sovelluksen koodinpätkiä tai muita koodeja. [Lisätietoja](https://shopify.dev/docs/api/liquid)"
+          "info": "Luo vaativampia mukautuksia lisäämällä sovelluksen koodinpätkiä tai muita koodeja. [Lisätietoja](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -1649,7 +1649,7 @@
             },
             "swatch_shape": {
               "label": "Väriruutu",
-              "info": "Ota [väriruudut](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) käyttöön tuotevaihtoehtoihin.",
+              "info": "Ota [väriruudut](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) käyttöön tuotevaihtoehtoihin.",
               "options__1": {
                 "label": "Ympyrä"
               },
@@ -2505,7 +2505,7 @@
             },
             "swatch_shape": {
               "label": "Väriruutu",
-              "info": "Ota [väriruudut](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) käyttöön tuotevaihtoehtoihin.",
+              "info": "Ota [väriruudut](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) käyttöön tuotevaihtoehtoihin.",
               "options__1": {
                 "label": "Ympyrä"
               },

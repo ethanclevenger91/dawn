@@ -480,7 +480,7 @@
         },
         "header__1": {
           "content": "Biểu tượng mạng xã hội",
-          "info": "Để hiển thị tài khoản mạng xã hội, hãy liên kết các tài khoản đó trong [cài đặt chủ đề](/editor?context=theme&category=social%20media)."
+          "info": "Để hiển thị tài khoản mạng xã hội, hãy liên kết các tài khoản đó trong [cài đặt chủ đề](\/editor?context=theme&category=social%20media)."
         },
         "header__2": {
           "content": "Thông báo"
@@ -489,15 +489,15 @@
           "label": "Hiển thị biểu tượng trên máy tính để bàn"
         },
         "header__3": {
-          "content": "Hộp chọn quốc gia/khu vực",
-          "info": "Để thêm quốc gia/khu vực, vào [cài đặt thị trường.](/admin/settings/markets)"
+          "content": "Hộp chọn quốc gia\/khu vực",
+          "info": "Để thêm quốc gia\/khu vực, vào [cài đặt thị trường.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
-          "label": "Bật hộp chọn quốc gia/khu vực"
+          "label": "Bật hộp chọn quốc gia\/khu vực"
         },
         "header__4": {
           "content": "Hộp chọn ngôn ngữ",
-          "info": "Để thêm ngôn ngữ, vào [cài đặt ngôn ngữ](/admin/settings/languages)."
+          "info": "Để thêm ngôn ngữ, vào [cài đặt ngôn ngữ](\/admin\/settings\/languages)."
         },
         "enable_language_selector": {
           "label": "Bật hộp chọn ngôn ngữ"
@@ -661,7 +661,7 @@
       "settings": {
         "custom_liquid": {
           "label": "Mã Liquid",
-          "info": "Thêm đoạn mã ứng dụng hoặc mã khác để tạo các tùy chỉnh nâng cao. [Tìm hiểu thêm](https://shopify.dev/docs/api/liquid)"
+          "info": "Thêm đoạn mã ứng dụng hoặc mã khác để tạo các tùy chỉnh nâng cao. [Tìm hiểu thêm](https:\/\/shopify.dev\/docs\/api\/liquid)"
         }
       },
       "presets": {
@@ -1650,7 +1650,7 @@
             },
             "swatch_shape": {
               "label": "Mẫu",
-              "info": "Bật [swatches](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) cho tùy chọn sản phẩm.",
+              "info": "Bật [swatches](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) cho tùy chọn sản phẩm.",
               "options__1": {
                 "label": "Tròn"
               },
@@ -2505,7 +2505,7 @@
             },
             "swatch_shape": {
               "label": "Mẫu",
-              "info": "Bật [swatches](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) cho tùy chọn sản phẩm.",
+              "info": "Bật [swatches](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) cho tùy chọn sản phẩm.",
               "options__1": {
                 "label": "Tròn"
               },
