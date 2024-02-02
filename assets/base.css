@@ -1370,7 +1370,7 @@ button.shopify-payment-button__button--unbranded {
   }
 }
 
-.button.loading > .loading-overlay__spinner {
+.button.loading > .loading__spinner {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -1380,11 +1380,11 @@ button.shopify-payment-button__button--unbranded {
   align-items: center;
 }
 
-.button.loading > .loading-overlay__spinner .spinner {
+.button.loading > .loading__spinner .spinner {
   width: fit-content;
 }
 
-.button.loading > .loading-overlay__spinner .path {
+.button.loading > .loading__spinner .path {
   stroke: rgb(var(--color-button-text));
 }
 
@@ -1582,6 +1582,9 @@ details[open] > .share-button__fallback {
   appearance: none;
   background-color: rgb(var(--color-background));
   color: rgb(var(--color-foreground));
+  font-family: var(--font-body-family);
+  font-style: var(--font-body-style);
+  font-weight: var(--font-body-weight);
   font-size: 1.6rem;
   width: 100%;
   box-sizing: border-box;
@@ -1920,6 +1923,9 @@ input[type='checkbox'] {
 
 .quantity__input {
   color: currentColor;
+  font-family: var(--font-body-family);
+  font-style: var(--font-body-style);
+  font-weight: var(--font-body-weight);
   font-size: 1.6rem;
   font-weight: 500;
   opacity: 0.85;
@@ -1996,7 +2002,7 @@ input[type='checkbox'] {
 }
 
 .quantity__rules {
-  margin-top: 1.2rem;
+  margin-top: 0.5rem;
   position: relative;
   font-size: 1.2rem;
 }
@@ -2016,8 +2022,8 @@ input[type='checkbox'] {
   position: relative;
 }
 
-product-info .loading-overlay:not(.hidden) ~ *,
-.quantity__rules-cart .loading-overlay:not(.hidden) ~ * {
+product-info .loading__spinner:not(.hidden) ~ *,
+.quantity__rules-cart .loading__spinner:not(.hidden) ~ * {
   visibility: hidden;
 }
 
