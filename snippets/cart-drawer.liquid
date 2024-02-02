@@ -504,6 +504,56 @@
           </small>
         </div>
 
+        {% if cart.total_price >= 23000 and cart.total_price < 25000 %}
+          {{ 'component-card.css' | asset_url | stylesheet_tag }}
+          {{ 'component-price.css' | asset_url | stylesheet_tag }}
+          {{ 'component-slider.css' | asset_url | stylesheet_tag }}
+          {{ 'template-collection.css' | asset_url | stylesheet_tag }}
+          {{ 'quick-add.css' | asset_url | stylesheet_tag }}
+          <script src="{{ 'quick-add.js' | asset_url }}" defer="defer"></script>
+          <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
+          <div class="page-width">
+            <h2>You've Almost Unlocked Free Shipping!</h2>
+            <p>Orders over $250 ship free. Here are some great add-ons if you want to qualify.</p>
+            <slider-component class="slider-mobile-gutter">
+              <ul id="Slider-{{ section.id }}" 
+                class="grid product-grid contains-card contains-card--product grid--4-col-desktop grid--1-col-tablet-down slider slider--tablet grid--peek" 
+                role="list"
+                aria-label="{{ 'general.slider.name' | t }}">
+                {%- for product in collections['free-shipping-qualifiers'].products limit: 4 -%}
+                  <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="grid__item slider__slide">
+                    {% render 'card-product', card_product: product, media_aspect_ratio: 'square', image_shape: section.settings.image_shape, show_secondary_image: true, show_vendor: true, show_rating: true, show_quick_add: true, section_id: section.id %}
+                  </li>
+                {%- endfor -%}
+              </ul>
+              {%- if show_mobile_slider or show_desktop_slider -%}
+                <div class="slider-buttons no-js-hidden">
+                  <button type="button" 
+                    class= "slider-button slider-button--prev"
+                    name="previous"
+                    aria-label="{{ 'general.slider.previous_slide' | t }}"
+                    aria-controls="Slider-{{ section.id }}">
+                    {% render 'icon-caret' %}
+                  </button>
+                  <div class="slider-counter caption">
+                    <span class="slider-counter--current\">1</span>
+                    <span aria-hidden="true"> / </span>
+                    <span class="visually-hidden">{{ 'general.slider.of' | t }}</span>
+                    <span class="slider-counter--total">{{ products_to_display }}</span>
+                  </div>
+                  <button type="button"
+                    class="slider-button slider-button--next"
+                    name="next"
+                    aria-label="{{ 'general.slider.next_slide' | t }}"
+                    aria-controls="Slider-{{ section.id }}">
+                    {% render 'icon-caret' %}
+                  </button>
+                </div>
+              {%- endif -%}
+            </slider-component>
+          </div>
+        {% endif %}
+
         <!-- CTAs -->
 
         <div class="cart__ctas" {{ block.shopify_attributes }}>
