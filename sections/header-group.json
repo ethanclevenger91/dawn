@@ -8,8 +8,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "End of season sale happening now. Shop the sale.",
-            "link": "shopify:\/\/collections\/fall-winter-sale-2023"
+            "text": "Mark Downs",
+            "link": "shopify:\/\/collections\/marked-down"
           }
         }
       },
