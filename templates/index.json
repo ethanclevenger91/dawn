@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "End of Season Sale",
+            "heading": "Return of the Crusier Jacket",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Our semi-annual sale is live. Shop fall\/winter styles at a discount.",
+            "text": "Our first jacket of the year from RGT is live.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Sale",
-            "button_link_1": "shopify:\/\/collections\/fall-winter-sale-2023",
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/products\/cruiser-jacket-in-grey-corduroy",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -39,7 +39,7 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF7061_3_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF9306_1.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
         "desktop_content_position": "bottom-right",
