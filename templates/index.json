@@ -40,7 +40,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSCF9306_1.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-right",
         "show_text_box": true,
