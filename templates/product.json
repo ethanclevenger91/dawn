@@ -47,7 +47,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "question_mark",
-            "content": "<p>Items leave our shop Monday-Friday. Shipping method can be selected at checkout. Applicable customs or duties are not included.<\/p><p>Please double-check your size. <\/p><p>Most items may only be returned for store credit. Exceptions apply. Please review <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">our refund policy<\/a> for full details.<\/p>",
+            "content": "<p>Items leave our shop Monday-Friday. Shipping method can be selected at checkout. Applicable customs or duties are not included and must be paid by the customer separately.<\/p><p>Please double-check your size. <\/p><p>Most items may only be returned for store credit. Exceptions apply. Please review <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">our refund policy<\/a> for full details.<\/p>",
             "page": ""
           }
         },
