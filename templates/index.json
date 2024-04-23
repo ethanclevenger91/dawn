@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "The Shop Moc Oxford",
+            "heading": "Spring\/Summer Threads",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "An iconic Red Wing silhouette reimagined.",
+            "text": "Warm weather gear is in full swing.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/products\/shop-moc-oxford-8079-hawthorne-abilene",
+            "button_label_1": "Shop The Latest",
+            "button_link_1": "shopify:\/\/collections\/spring-summer-2024",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -39,10 +39,10 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF2311_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF7024.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
