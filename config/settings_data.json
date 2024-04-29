@@ -136,12 +136,18 @@
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Hello! Let us know if you have a question about sizing, fits, materials, or anything else."
         }
+      },
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#fff",
+          "background": "#ffffff",
           "background_gradient": "",
           "text": "#434345",
           "button": "#d64a28",
