@@ -23,9 +23,8 @@
         },
         "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign marked_down = product.collections | where: 'handle', \"marked-down\"\n%}\n{% liquid \nassign aw23sale = product.collections | where: 'handle', \"fall-winter-sale-2023\" \n%}\n{% if marked_down != blank %}\n<h2>Double Down<\/h2>\n<p>Friday, 2\/2 through Thursday, 2\/8, all markdown items are an extra 20% off.<\/p>\n<p>This sale is a Last Call sale. <a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n<p>Final price shown in cart.<\/p>\n{% endif %}\n{% if aw23sale != blank %}\n<h2>End of Season Sale<\/h2>\n<p>Friday, 2\/2 through Thursday, 2\/8, many last-season styles are 30% off, this one included!<\/p>\n<p>This sale is a Last Call sale. <a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n<p>Final price shown in cart.<\/p>\n{% endif %}\n<\/div>"
+            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign marked_down = product.collections | where: 'handle', \"marked-down\"\n%}\n{% if marked_down != blank %}\n<h2>Memorial Day Sale<\/h2>\n<p>Through Monday, 5\/27, when buying markdown items, take 20% off a single item, 30% off when you buy two, and 40% off when you buy 3 or more.<\/p>\n<p>This sale is a Last Call sale. <a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n<p>Final price shown in cart.<\/p>\n{% endif %}\n<\/div>"
           }
         },
         "77c7897c-3d5a-4215-b174-ec7fbefc8322": {
