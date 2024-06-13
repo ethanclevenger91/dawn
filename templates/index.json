@@ -129,7 +129,7 @@
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -218,7 +218,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/370553281_18001708420989073_5324575474945671066_n.jpg",
-            "title": "Ethan'S Picks",
+            "title": "Ethan's Picks",
             "text": "",
             "link_label": "Browse Ethan's Picks",
             "link": "shopify:\/\/collections\/ethans-picks"
