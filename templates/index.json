@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -78,11 +87,11 @@
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF1206.jpg",
-            "title": "Portuguese Flannel SS24",
-            "text": "<p>The first of our spring & summer delivery from Portuguese Flannel is here. Embrace the softness & breeziness of linens, cottons, and tencel.<\/p>",
+            "image": "shopify:\/\/shop_images\/DSCF0208.jpg",
+            "title": "Wythe SS24",
+            "text": "<p>Our full Wythe SS24 collection is now live. Get geared up with tank tops, loose pants, and lightweight tops to make the most out of those dog days ahead. <\/p>",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/portuguese-flannel-spring-summer-2024"
+            "link": "shopify:\/\/collections\/wythe-spring-summer-2024"
           }
         }
       },
