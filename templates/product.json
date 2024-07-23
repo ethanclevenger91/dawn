@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -25,7 +34,7 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign marked_down = product.collections | where: 'handle', \"marked-down\"\n%}\n{% if marked_down != blank %}\n<h2>Memorial Day Sale<\/h2>\n<p>Through Monday, 5\/27, when buying markdown items, take 20% off a single item, 30% off when you buy two, and 40% off when you buy 3 or more.<\/p>\n<p>This sale is a Last Call sale. <a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n<p>Final price shown in cart.<\/p>\n{% endif %}\n<\/div>"
+            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign sale = product.collections | where: 'handle', \"sale\"\n%}\n{% if sale != blank %}\n<h2>Summer Sale<\/h2>\n<p>Through Tuesday, 7\/30, this piece is 30% off.<\/p>\n<p>This sale is a Last Call sale. <a href=\"https:\/\/porterhouseclothing.com\/policies\/refund-policy\">Per our return policy<\/a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.<\/p>\n<p>Final price shown in cart.<\/p>\n{% endif %}\n<\/div>"
           }
         },
         "77c7897c-3d5a-4215-b174-ec7fbefc8322": {
