@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "settings_schema": {
     "colors": {
@@ -56,8 +65,8 @@
       "name": "Médias sociaux",
       "settings": {
         "social_twitter_link": {
-          "label": "X / Twitter",
-          "info": "https://x.com/shopify"
+          "label": "X \/ Twitter",
+          "info": "https:\/\/x.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
@@ -591,7 +600,7 @@
             },
             "description": {
               "label": "Texte alternatif de la vidéo",
-              "info": "Décrivez la vidéo pour les clients utilisant des lecteurs d'écran. [En savoir plus](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
+              "info": "Décrivez la vidéo pour les clients utilisant des lecteurs d'écran. [En savoir plus](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video-block)",
               "default": "Description de la vidéo"
             }
           }
@@ -844,7 +853,7 @@
             },
             "subtext": {
               "label": "Sous-texte",
-              "default": "<p>Partagez les coordonnées, les détails de la boutique, les promotions ou le contenu de la marque avec vos clients.</p>"
+              "default": "<p>Partagez les coordonnées, les détails de la boutique, les promotions ou le contenu de la marque avec vos clients.<\/p>"
             }
           }
         },
@@ -1022,7 +1031,7 @@
         },
         "header__7": {
           "content": "Connexion au comptes clients",
-          "info": "Pour gérer les comptes clients, allez dans vos [paramètres de compte client](/admin/settings/customer_accounts)."
+          "info": "Pour gérer les comptes clients, allez dans vos [paramètres de compte client](\/admin\/settings\/customer_accounts)."
         },
         "enable_customer_avatar": {
           "label": "Afficher l’avatar",
@@ -1140,7 +1149,7 @@
           "settings": {
             "text": {
               "label": "Description",
-              "default": "Fournissez des détails à votre clientèle sur l’image/les images ou le contenu de la bannière du modèle."
+              "default": "Fournissez des détails à votre clientèle sur l’image\/les images ou le contenu de la bannière du modèle."
             },
             "text_style": {
               "options__1": {
@@ -1293,7 +1302,7 @@
           "settings": {
             "text": {
               "label": "Contenu",
-              "default": "<p>Associez un texte à une image pour mettre en avant le produit, la collection ou l’article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.</p>"
+              "default": "<p>Associez un texte à une image pour mettre en avant le produit, la collection ou l’article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.<\/p>"
             },
             "text_style": {
               "label": "Style de texte",
@@ -1692,7 +1701,7 @@
             },
             "swatch_shape": {
               "label": "Échantillon",
-              "info": "Activez [échantillons](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) sur les options produits.",
+              "info": "Activez [échantillons](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) sur les options produits.",
               "options__1": {
                 "label": "Cercle"
               },
@@ -2286,7 +2295,7 @@
             },
             "text": {
               "label": "Description",
-              "default": "<p>Associez un texte à une image pour mettre en avant le produit, la collection ou l’article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.</p>"
+              "default": "<p>Associez un texte à une image pour mettre en avant le produit, la collection ou l’article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.<\/p>"
             },
             "link_label": {
               "label": "Étiquette de lien"
@@ -2326,7 +2335,7 @@
           "settings": {
             "paragraph": {
               "label": "Description",
-              "default": "<p>Faites partie des premières personnes à être informées des nouvelles collections et des offres exclusives.</p>"
+              "default": "<p>Faites partie des premières personnes à être informées des nouvelles collections et des offres exclusives.<\/p>"
             }
           }
         },
@@ -2396,7 +2405,7 @@
           "settings": {
             "text": {
               "label": "Description",
-              "default": "<p>Partagez des informations sur votre marque. Décrivez un produit, partagez des annonces ou souhaitez la bienvenue à vos clients dans votre boutique.</p>"
+              "default": "<p>Partagez des informations sur votre marque. Décrivez un produit, partagez des annonces ou souhaitez la bienvenue à vos clients dans votre boutique.<\/p>"
             }
           }
         },
@@ -2567,7 +2576,7 @@
             },
             "swatch_shape": {
               "label": "Échantillon",
-              "info": "Activez [échantillons](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) sur les options produits.",
+              "info": "Activez [échantillons](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) sur les options produits.",
               "options__1": {
                 "label": "Cercle"
               },
@@ -2779,7 +2788,7 @@
           "settings": {
             "paragraph": {
               "label": "Description",
-              "default": "<p>Faites partie des premières personnes à être informées de notre lancement.</p>"
+              "default": "<p>Faites partie des premières personnes à être informées de notre lancement.<\/p>"
             },
             "text_style": {
               "options__1": {
@@ -3216,7 +3225,7 @@
           "label": "Nombre de colonnes sur ordinateur"
         },
         "paragraph__1": {
-          "content": "Les recommandations dynamiques utilisent les informations relatives aux commandes et aux produits pour changer et s’améliorer au fil du temps. [En savoir plus](https://help.shopify.com/themes/development/recommended-products)",
+          "content": "Les recommandations dynamiques utilisent les informations relatives aux commandes et aux produits pour changer et s’améliorer au fil du temps. [En savoir plus](https:\/\/help.shopify.com\/themes\/development\/recommended-products)",
           "default": "Vous aimerez peut-être aussi"
         },
         "header__2": {
@@ -3387,7 +3396,7 @@
             },
             "text": {
               "label": "Texte",
-              "default": "<p>Associez un texte à une image pour mettre en avant le produit, la collection ou l’article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.</p>"
+              "default": "<p>Associez un texte à une image pour mettre en avant le produit, la collection ou l’article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.<\/p>"
             },
             "button_label": {
               "label": "Texte du bouton",

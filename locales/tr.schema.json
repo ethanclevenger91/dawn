@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "settings_schema": {
     "colors": {
@@ -56,8 +65,8 @@
       "name": "Sosyal medya",
       "settings": {
         "social_twitter_link": {
-          "label": "X/Twitter",
-          "info": "https://x.com/shopify"
+          "label": "X\/Twitter",
+          "info": "https:\/\/x.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
@@ -591,7 +600,7 @@
             },
             "description": {
               "label": "Video alternatif metni",
-              "info": "Ekran okuyucu kullanan müşteriler için videoyu açıklayın. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
+              "info": "Ekran okuyucu kullanan müşteriler için videoyu açıklayın. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video-block)",
               "default": "Videoyu açıklayın"
             }
           }
@@ -844,7 +853,7 @@
             },
             "subtext": {
               "label": "Alt metin",
-              "default": "<p>İletişim bilgilerini, mağaza ayrıntılarını ve marka içeriklerini müşterilerinizle paylaşın.</p>"
+              "default": "<p>İletişim bilgilerini, mağaza ayrıntılarını ve marka içeriklerini müşterilerinizle paylaşın.<\/p>"
             }
           }
         },
@@ -1022,7 +1031,7 @@
         },
         "header__7": {
           "content": "Müşteri hesaplarında oturum açma",
-          "info": "Müşteri hesaplarını yönetmek için [müşteri hesabı ayarlarınıza gidin ](/admin/settings/customer_accounts)"
+          "info": "Müşteri hesaplarını yönetmek için [müşteri hesabı ayarlarınıza gidin ](\/admin\/settings\/customer_accounts)"
         },
         "enable_customer_avatar": {
           "label": "Avatarı göster",
@@ -1293,7 +1302,7 @@
           "settings": {
             "text": {
               "label": "İçerik",
-              "default": "<p>Metni bir görselle eşleyerek seçtiğiniz ürüne, koleksiyona veya blog gönderisine dikkat çekin. Stok durumu, stil hakkındaki ayrıntıları ekleyin, hatta inceleme sağlayın.</p>"
+              "default": "<p>Metni bir görselle eşleyerek seçtiğiniz ürüne, koleksiyona veya blog gönderisine dikkat çekin. Stok durumu, stil hakkındaki ayrıntıları ekleyin, hatta inceleme sağlayın.<\/p>"
             },
             "text_style": {
               "label": "Metin stili",
@@ -1692,7 +1701,7 @@
             },
             "swatch_shape": {
               "label": "Numune parça",
-              "info": "Ürün seçeneklerinde [numune parçaları](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) etkinleştirin.",
+              "info": "Ürün seçeneklerinde [numune parçaları](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) etkinleştirin.",
               "options__1": {
                 "label": "Yuvarlak"
               },
@@ -2286,7 +2295,7 @@
             },
             "text": {
               "label": "Açıklama",
-              "default": "<p>Metni bir görselle eşleyerek seçtiğiniz ürüne, koleksiyona veya blog gönderisine dikkat çekin. Stok durumu, stil hakkındaki ayrıntıları ekleyin, hatta inceleme sağlayın.</p>"
+              "default": "<p>Metni bir görselle eşleyerek seçtiğiniz ürüne, koleksiyona veya blog gönderisine dikkat çekin. Stok durumu, stil hakkındaki ayrıntıları ekleyin, hatta inceleme sağlayın.<\/p>"
             },
             "link_label": {
               "label": "Bağlantı etiketi"
@@ -2326,7 +2335,7 @@
           "settings": {
             "paragraph": {
               "label": "Açıklama",
-              "default": "<p>Yeni koleksiyonlar ve özel tekliflerden ilk siz haberdar olun.</p>"
+              "default": "<p>Yeni koleksiyonlar ve özel tekliflerden ilk siz haberdar olun.<\/p>"
             }
           }
         },
@@ -2396,7 +2405,7 @@
           "settings": {
             "text": {
               "label": "Açıklama",
-              "default": "<p>Müşterilerinizle markanız hakkında bilgi paylaşın. Ürün açıklaması girin, duyuru paylaşın veya mağazanıza gelen müşterileri karşılayın.</p>"
+              "default": "<p>Müşterilerinizle markanız hakkında bilgi paylaşın. Ürün açıklaması girin, duyuru paylaşın veya mağazanıza gelen müşterileri karşılayın.<\/p>"
             }
           }
         },
@@ -2567,7 +2576,7 @@
             },
             "swatch_shape": {
               "label": "Numune parça",
-              "info": "Ürün seçeneklerinde [numune parçaları](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) etkinleştirin.",
+              "info": "Ürün seçeneklerinde [numune parçaları](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) etkinleştirin.",
               "options__1": {
                 "label": "Yuvarlak"
               },
@@ -2779,7 +2788,7 @@
           "settings": {
             "paragraph": {
               "label": "Açıklama",
-              "default": "<p>Yeni çıkardıklarımızı ilk siz öğrenin.</p>"
+              "default": "<p>Yeni çıkardıklarımızı ilk siz öğrenin.<\/p>"
             },
             "text_style": {
               "options__1": {
@@ -3216,7 +3225,7 @@
           "label": "Masaüstündeki sütun sayısı"
         },
         "paragraph__1": {
-          "content": "Dinamik önerilerin zamanla değişmesi ve gelişmesi için sipariş ve ürün bilgileri kullanılır. [Daha fazla bilgi edinin](https://help.shopify.com/themes/development/recommended-products)",
+          "content": "Dinamik önerilerin zamanla değişmesi ve gelişmesi için sipariş ve ürün bilgileri kullanılır. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/themes\/development\/recommended-products)",
           "default": "Şu ürünler de hoşunuza gidebilir:"
         },
         "header__2": {
@@ -3387,7 +3396,7 @@
             },
             "text": {
               "label": "Metin",
-              "default": "<p>Metni bir görselle eşleyerek seçtiğiniz ürüne, koleksiyona veya blog gönderisine dikkat çekin. Stok durumu, stil hakkındaki ayrıntıları ekleyin, hatta inceleme sağlayın.</p>"
+              "default": "<p>Metni bir görselle eşleyerek seçtiğiniz ürüne, koleksiyona veya blog gönderisine dikkat çekin. Stok durumu, stil hakkındaki ayrıntıları ekleyin, hatta inceleme sağlayın.<\/p>"
             },
             "button_label": {
               "label": "Düğme etiketi",

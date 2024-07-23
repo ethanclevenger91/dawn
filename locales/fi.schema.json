@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "settings_schema": {
     "colors": {
@@ -57,7 +66,7 @@
       "settings": {
         "social_twitter_link": {
           "label": "X (Twitter)",
-          "info": "https://x.com/shopify"
+          "info": "https:\/\/x.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
@@ -591,7 +600,7 @@
             },
             "description": {
               "label": "Videon vaihtoehtoinen teksti",
-              "info": "Kuvaile videota näytönlukijoita käyttäviä asiakkaita varten. [Lisätietoja](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
+              "info": "Kuvaile videota näytönlukijoita käyttäviä asiakkaita varten. [Lisätietoja](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video-block)",
               "default": "Kuvaile videota"
             }
           }
@@ -844,7 +853,7 @@
             },
             "subtext": {
               "label": "Alateksti",
-              "default": "<p>Jaa asiakkaillesi yhteystiedot, kaupan tiedot ja brändin sisältöä.</p>"
+              "default": "<p>Jaa asiakkaillesi yhteystiedot, kaupan tiedot ja brändin sisältöä.<\/p>"
             }
           }
         },
@@ -1022,7 +1031,7 @@
         },
         "header__7": {
           "content": "Asiakastilille kirjautuminen",
-          "info": "Voit hallinnoida asiakastilejä [asiakastilien asetuksista](/admin/settings/customer_accounts)."
+          "info": "Voit hallinnoida asiakastilejä [asiakastilien asetuksista](\/admin\/settings\/customer_accounts)."
         },
         "enable_customer_avatar": {
           "label": "Näytä avatar",
@@ -1293,7 +1302,7 @@
           "settings": {
             "text": {
               "label": "Sisältö",
-              "default": "<p>Korosta valitsemaasi tuotetta, kokoelmaa tai blogipostausta lisäämällä kuvaan teksti. Lisää tietoa saatavuudesta tai tyylistä tai näytä vaikkapa arvostelu.</p>"
+              "default": "<p>Korosta valitsemaasi tuotetta, kokoelmaa tai blogipostausta lisäämällä kuvaan teksti. Lisää tietoa saatavuudesta tai tyylistä tai näytä vaikkapa arvostelu.<\/p>"
             },
             "text_style": {
               "label": "Tekstityyli",
@@ -1692,7 +1701,7 @@
             },
             "swatch_shape": {
               "label": "Väriruutu",
-              "info": "Ota [väriruudut](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) käyttöön tuotevaihtoehtoihin.",
+              "info": "Ota [väriruudut](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) käyttöön tuotevaihtoehtoihin.",
               "options__1": {
                 "label": "Ympyrä"
               },
@@ -2286,7 +2295,7 @@
             },
             "text": {
               "label": "Kuvaus",
-              "default": "<p>Korosta valitsemaasi tuotetta, kokoelmaa tai blogipostausta lisäämällä kuvaan teksti. Lisää tietoa saatavuudesta tai tyylistä tai näytä vaikkapa arvostelu.</p>"
+              "default": "<p>Korosta valitsemaasi tuotetta, kokoelmaa tai blogipostausta lisäämällä kuvaan teksti. Lisää tietoa saatavuudesta tai tyylistä tai näytä vaikkapa arvostelu.<\/p>"
             },
             "link_label": {
               "label": "Linkin teksti"
@@ -2326,7 +2335,7 @@
           "settings": {
             "paragraph": {
               "label": "Kuvaus",
-              "default": "<p>Saa ensimmäisten joukossa tietoa uusista kokoelmista ja ainutlaatuisista tarjouksista.</p>"
+              "default": "<p>Saa ensimmäisten joukossa tietoa uusista kokoelmista ja ainutlaatuisista tarjouksista.<\/p>"
             }
           }
         },
@@ -2396,7 +2405,7 @@
           "settings": {
             "text": {
               "label": "Kuvaus",
-              "default": "<p>Kerro brändiäsi koskevia tietoja asiakkaillesi. Kuvaile tuotetta, jaa ilmoituksia tai toivota asiakkaat tervetulleiksi kauppaasi.</p>"
+              "default": "<p>Kerro brändiäsi koskevia tietoja asiakkaillesi. Kuvaile tuotetta, jaa ilmoituksia tai toivota asiakkaat tervetulleiksi kauppaasi.<\/p>"
             }
           }
         },
@@ -2567,7 +2576,7 @@
             },
             "swatch_shape": {
               "label": "Väriruutu",
-              "info": "Ota [väriruudut](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) käyttöön tuotevaihtoehtoihin.",
+              "info": "Ota [väriruudut](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) käyttöön tuotevaihtoehtoihin.",
               "options__1": {
                 "label": "Ympyrä"
               },
@@ -2779,7 +2788,7 @@
           "settings": {
             "paragraph": {
               "label": "Kuvaus",
-              "default": "<p>Saa tietoa avaamisesta ensimmäisten joukossa.</p>"
+              "default": "<p>Saa tietoa avaamisesta ensimmäisten joukossa.<\/p>"
             },
             "text_style": {
               "options__1": {
@@ -3216,7 +3225,7 @@
           "label": "Sarakkeiden määrä työpöydällä"
         },
         "paragraph__1": {
-          "content": "Dynaamisissa suosituksissa käytetään tilaus- ja tuotetietoja, jotta suositukset muuttuvat ja paranevat ajan myötä. [Lisätietoja](https://help.shopify.com/themes/development/recommended-products)",
+          "content": "Dynaamisissa suosituksissa käytetään tilaus- ja tuotetietoja, jotta suositukset muuttuvat ja paranevat ajan myötä. [Lisätietoja](https:\/\/help.shopify.com\/themes\/development\/recommended-products)",
           "default": "Saatat pitää myös näistä"
         },
         "header__2": {
@@ -3387,7 +3396,7 @@
             },
             "text": {
               "label": "Teksti",
-              "default": "<p>Korosta valitsemaasi tuotetta, kokoelmaa tai blogipostausta lisäämällä kuvaan teksti. Lisää tietoa saatavuudesta tai tyylistä tai näytä vaikkapa arvostelu.</p>"
+              "default": "<p>Korosta valitsemaasi tuotetta, kokoelmaa tai blogipostausta lisäämällä kuvaan teksti. Lisää tietoa saatavuudesta tai tyylistä tai näytä vaikkapa arvostelu.<\/p>"
             },
             "button_label": {
               "label": "Tekstipainike",

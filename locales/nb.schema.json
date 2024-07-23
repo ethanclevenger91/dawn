@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "settings_schema": {
     "colors": {
@@ -56,8 +65,8 @@
       "name": "Sosiale medier",
       "settings": {
         "social_twitter_link": {
-          "label": "X / Twitter",
-          "info": "https://x.com/shopify"
+          "label": "X \/ Twitter",
+          "info": "https:\/\/x.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
@@ -591,7 +600,7 @@
             },
             "description": {
               "label": "Alt. tekst for video",
-              "info": "Beskriv videoen for kunder som bruker skjermlesere. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
+              "info": "Beskriv videoen for kunder som bruker skjermlesere. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video-block)",
               "default": "Beskriv videoen"
             }
           }
@@ -844,7 +853,7 @@
             },
             "subtext": {
               "label": "Undertekst",
-              "default": "<p>Del kontaktopplysninger, butikkdetaljer og merkevareinnhold med kundene dine.</p>"
+              "default": "<p>Del kontaktopplysninger, butikkdetaljer og merkevareinnhold med kundene dine.<\/p>"
             }
           }
         },
@@ -1022,7 +1031,7 @@
         },
         "header__7": {
           "content": "Pålogging til kundekontoer",
-          "info": "Gå til [kundekontoinnstillingene](/admin/settings/customer_accounts) for å administrere kundekontoer."
+          "info": "Gå til [kundekontoinnstillingene](\/admin\/settings\/customer_accounts) for å administrere kundekontoer."
         },
         "enable_customer_avatar": {
           "label": "Vis avatar",
@@ -1140,7 +1149,7 @@
           "settings": {
             "text": {
               "label": "Beskrivelse",
-              "default": "Gi kundene mer informasjon om bannerbildet/-bildene eller innholdet i malen."
+              "default": "Gi kundene mer informasjon om bannerbildet\/-bildene eller innholdet i malen."
             },
             "text_style": {
               "options__1": {
@@ -1293,7 +1302,7 @@
           "settings": {
             "text": {
               "label": "Innhold",
-              "default": "<p>Koble tekst med et bilde for å fokusere på valgt produkt, samling eller blogginnlegg. Legg til informasjon om tilgjengelighet, stil eller vis frem en anmeldelse.</p>"
+              "default": "<p>Koble tekst med et bilde for å fokusere på valgt produkt, samling eller blogginnlegg. Legg til informasjon om tilgjengelighet, stil eller vis frem en anmeldelse.<\/p>"
             },
             "text_style": {
               "label": "Tekststil",
@@ -1692,7 +1701,7 @@
             },
             "swatch_shape": {
               "label": "Fargekart",
-              "info": "Aktiver [fargekart](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) på produktalternativer.",
+              "info": "Aktiver [fargekart](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) på produktalternativer.",
               "options__1": {
                 "label": "Sirkel"
               },
@@ -2286,7 +2295,7 @@
             },
             "text": {
               "label": "Beskrivelse",
-              "default": "<p>Koble tekst med et bilde for å fokusere på valgt produkt, samling eller blogginnlegg. Legg til informasjon om tilgjengelighet, stil eller vis frem en anmeldelse.</p>"
+              "default": "<p>Koble tekst med et bilde for å fokusere på valgt produkt, samling eller blogginnlegg. Legg til informasjon om tilgjengelighet, stil eller vis frem en anmeldelse.<\/p>"
             },
             "link_label": {
               "label": "Koblingsetikett"
@@ -2326,7 +2335,7 @@
           "settings": {
             "paragraph": {
               "label": "Beskrivelse",
-              "default": "<p>Vær blant de første som får høre om nye samlinger og eksklusive tilbud.</p>"
+              "default": "<p>Vær blant de første som får høre om nye samlinger og eksklusive tilbud.<\/p>"
             }
           }
         },
@@ -2396,7 +2405,7 @@
           "settings": {
             "text": {
               "label": "Beskrivelse",
-              "default": "<p>Del informasjon om merkevaren din med kundene. Beskriv et produkt, gjør kunngjøringer eller ønsk kundene velkommen til butikken.</p>"
+              "default": "<p>Del informasjon om merkevaren din med kundene. Beskriv et produkt, gjør kunngjøringer eller ønsk kundene velkommen til butikken.<\/p>"
             }
           }
         },
@@ -2567,7 +2576,7 @@
             },
             "swatch_shape": {
               "label": "Fargekart",
-              "info": "Aktiver [fargekart](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) på produktalternativer.",
+              "info": "Aktiver [fargekart](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) på produktalternativer.",
               "options__1": {
                 "label": "Sirkel"
               },
@@ -2779,7 +2788,7 @@
           "settings": {
             "paragraph": {
               "label": "Beskrivelse",
-              "default": "<p>Vær blant de første som får vite når vi lanserer.</p>"
+              "default": "<p>Vær blant de første som får vite når vi lanserer.<\/p>"
             },
             "text_style": {
               "options__1": {
@@ -3216,7 +3225,7 @@
           "label": "Antall kolonner på datamaskin"
         },
         "paragraph__1": {
-          "content": "Dynamiske anbefalinger bruker bestillings- og produktinformasjon til å endres og forbedres over tid. [Finn ut mer](https://help.shopify.com/themes/development/recommended-products)",
+          "content": "Dynamiske anbefalinger bruker bestillings- og produktinformasjon til å endres og forbedres over tid. [Finn ut mer](https:\/\/help.shopify.com\/themes\/development\/recommended-products)",
           "default": "Kanskje du også liker"
         },
         "header__2": {
@@ -3387,7 +3396,7 @@
             },
             "text": {
               "label": "Tekst",
-              "default": "<p>Koble tekst med et bilde for å fokusere på valgt produkt, samling eller blogginnlegg. Legg til informasjon om tilgjengelighet, stil eller vis frem en anmeldelse.</p>"
+              "default": "<p>Koble tekst med et bilde for å fokusere på valgt produkt, samling eller blogginnlegg. Legg til informasjon om tilgjengelighet, stil eller vis frem en anmeldelse.<\/p>"
             },
             "button_label": {
               "label": "Knappetikett",

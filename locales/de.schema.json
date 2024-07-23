@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "settings_schema": {
     "colors": {
@@ -56,8 +65,8 @@
       "name": "Social Media",
       "settings": {
         "social_twitter_link": {
-          "label": "X / Twitter",
-          "info": "https://x.com/shopify"
+          "label": "X \/ Twitter",
+          "info": "https:\/\/x.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
@@ -591,7 +600,7 @@
             },
             "description": {
               "label": "Video-Alt-Text",
-              "info": "Beschreibe das Video für Kunden, die Bildschirmlesegeräte benutzen. [Mehr Informationen](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
+              "info": "Beschreibe das Video für Kunden, die Bildschirmlesegeräte benutzen. [Mehr Informationen](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video-block)",
               "default": "Beschreibe das Video"
             }
           }
@@ -619,7 +628,7 @@
           "options__3": {
             "label": "Quadrat"
           },
-          "info": "Bearbeite deine Kollektionen, um Bilder hinzuzufügen. [Mehr Informationen](https://help.shopify.com/manual/products/collections)"
+          "info": "Bearbeite deine Kollektionen, um Bilder hinzuzufügen. [Mehr Informationen](https:\/\/help.shopify.com\/manual\/products\/collections)"
         },
         "swipe_on_mobile": {
           "label": "Wischen auf Mobilgeräten aktivieren"
@@ -844,7 +853,7 @@
             },
             "subtext": {
               "label": "Subtext",
-              "default": "<p>Teile Kontaktinformationen, Shop-Details und Markeninhalte mit deinen Kunden.</p>"
+              "default": "<p>Teile Kontaktinformationen, Shop-Details und Markeninhalte mit deinen Kunden.<\/p>"
             }
           }
         },
@@ -1022,7 +1031,7 @@
         },
         "header__7": {
           "content": "Einloggen mit Kundenkonten",
-          "info": "Um deine Kundenkonten zu verwalten, gehe zu deinen [Kundenkonto-Einstellungen](/admin/settings/customer_accounts)."
+          "info": "Um deine Kundenkonten zu verwalten, gehe zu deinen [Kundenkonto-Einstellungen](\/admin\/settings\/customer_accounts)."
         },
         "enable_customer_avatar": {
           "label": "Avatar anzeigen",
@@ -1293,7 +1302,7 @@
           "settings": {
             "text": {
               "label": "Inhalt",
-              "default": "<p>Kombiniere Text mit einem Bild, um den Fokus auf dein Produkt, deine Kollektion oder deinen Blog-Beitrag zu richten. Du kannst außerdem weitere Details über die Verfügbarkeit oder den Stil und sogar eine Bewertung hinzufügen.</p>"
+              "default": "<p>Kombiniere Text mit einem Bild, um den Fokus auf dein Produkt, deine Kollektion oder deinen Blog-Beitrag zu richten. Du kannst außerdem weitere Details über die Verfügbarkeit oder den Stil und sogar eine Bewertung hinzufügen.<\/p>"
             },
             "text_style": {
               "label": "Textstil",
@@ -1476,14 +1485,14 @@
       "name": "Kollektionsbanner",
       "settings": {
         "paragraph": {
-          "content": "Bearbeite deine Kollektion, um eine Beschreibung oder ein Bild hinzuzufügen. [Mehr Informationen](https://help.shopify.com/manual/products/collections/collection-layout)"
+          "content": "Bearbeite deine Kollektion, um eine Beschreibung oder ein Bild hinzuzufügen. [Mehr Informationen](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
         },
         "show_collection_description": {
           "label": "Kollektionsbeschreibung anzeigen"
         },
         "show_collection_image": {
           "label": "Kollektionsbild anzeigen",
-          "info": "Verwende für Bilder ein Seitenverhältnis von 16:9 für optimale Ergebnisse. [Mehr Informationen](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Verwende für Bilder ein Seitenverhältnis von 16:9 für optimale Ergebnisse. [Mehr Informationen](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },
@@ -1610,7 +1619,7 @@
           "options__3": {
             "label": "Quadrat"
           },
-          "info": "Bearbeite deine Kollektionen, um Bilder hinzuzufügen. [Mehr Informationen](https://help.shopify.com/manual/products/collections)"
+          "info": "Bearbeite deine Kollektionen, um Bilder hinzuzufügen. [Mehr Informationen](https:\/\/help.shopify.com\/manual\/products\/collections)"
         },
         "columns_desktop": {
           "label": "Anzahl der Spalten auf dem Desktop"
@@ -1692,7 +1701,7 @@
             },
             "swatch_shape": {
               "label": "Farbfeld",
-              "info": "Aktiviere [Farbfelder](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) für Produktoptionen.",
+              "info": "Aktiviere [Farbfelder](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) für Produktoptionen.",
               "options__1": {
                 "label": "Kreis"
               },
@@ -2286,7 +2295,7 @@
             },
             "text": {
               "label": "Beschreibung",
-              "default": "<p>Kombiniere Text mit einem Bild, um den Fokus auf dein Produkt, deine Kollektion oder deinen Blog-Beitrag zu richten. Du kannst außerdem weitere Details über die Verfügbarkeit oder den Stil und sogar eine Bewertung hinzufügen.</p>"
+              "default": "<p>Kombiniere Text mit einem Bild, um den Fokus auf dein Produkt, deine Kollektion oder deinen Blog-Beitrag zu richten. Du kannst außerdem weitere Details über die Verfügbarkeit oder den Stil und sogar eine Bewertung hinzufügen.<\/p>"
             },
             "link_label": {
               "label": "Link-Label"
@@ -2326,7 +2335,7 @@
           "settings": {
             "paragraph": {
               "label": "Beschreibung",
-              "default": "<p>Erfahre als Erster von neuen Kollektionen und exklusiven Angeboten.</p>"
+              "default": "<p>Erfahre als Erster von neuen Kollektionen und exklusiven Angeboten.<\/p>"
             }
           }
         },
@@ -2396,7 +2405,7 @@
           "settings": {
             "text": {
               "label": "Beschreibung",
-              "default": "<p>Teile Infos über deine Marke mit deinen Kunden. Beschreibe ein Produkt, kündige etwas an oder heiße Kunden willkommen.</p>"
+              "default": "<p>Teile Infos über deine Marke mit deinen Kunden. Beschreibe ein Produkt, kündige etwas an oder heiße Kunden willkommen.<\/p>"
             }
           }
         },
@@ -2567,7 +2576,7 @@
             },
             "swatch_shape": {
               "label": "Farbfeld",
-              "info": "Aktiviere [Farbfelder](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) für Produktoptionen.",
+              "info": "Aktiviere [Farbfelder](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) für Produktoptionen.",
               "options__1": {
                 "label": "Kreis"
               },
@@ -2779,7 +2788,7 @@
           "settings": {
             "paragraph": {
               "label": "Beschreibung",
-              "default": "<p>Erfahre als Erster von unserem Launch.</p>"
+              "default": "<p>Erfahre als Erster von unserem Launch.<\/p>"
             },
             "text_style": {
               "options__1": {
@@ -3216,7 +3225,7 @@
           "label": "Anzahl der Spalten auf dem Desktop"
         },
         "paragraph__1": {
-          "content": "Dynamische Empfehlungen nutzen Bestell- und Produktinformationen, um sich mit der Zeit zu verändern und zu verbessern. [Mehr Informationen](https://help.shopify.com/themes/development/recommended-products)",
+          "content": "Dynamische Empfehlungen nutzen Bestell- und Produktinformationen, um sich mit der Zeit zu verändern und zu verbessern. [Mehr Informationen](https:\/\/help.shopify.com\/themes\/development\/recommended-products)",
           "default": "Das könnte dir auch gefallen"
         },
         "header__2": {
@@ -3387,7 +3396,7 @@
             },
             "text": {
               "label": "Text",
-              "default": "<p>Kombiniere Text mit einem Bild, um den Fokus auf dein Produkt, deine Kollektion oder deinen Blog-Beitrag zu richten. Du kannst außerdem weitere Details über die Verfügbarkeit oder den Stil und sogar eine Bewertung hinzufügen.</p>"
+              "default": "<p>Kombiniere Text mit einem Bild, um den Fokus auf dein Produkt, deine Kollektion oder deinen Blog-Beitrag zu richten. Du kannst außerdem weitere Details über die Verfügbarkeit oder den Stil und sogar eine Bewertung hinzufügen.<\/p>"
             },
             "button_label": {
               "label": "Schaltflächenbeschriftung",
