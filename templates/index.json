@@ -51,7 +51,7 @@
         "image": "shopify:\/\/shop_images\/DSCF7024-3_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-right",
+        "desktop_content_position": "bottom-right",
         "show_text_box": true,
         "desktop_content_alignment": "right",
         "color_scheme": "background-2",
