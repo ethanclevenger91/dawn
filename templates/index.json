@@ -15,22 +15,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Nearly Store-Wide Sale",
+            "heading": "Your New Favorite Shirt",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Remaining spring and summer styles 30% off, plus extra off existing markdowns.",
+            "text": "It's around here somewhere.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop the Sale",
-            "button_link_1": "shopify:\/\/collections\/sale",
+            "button_label_1": "Shop Shirting",
+            "button_link_1": "shopify:\/\/collections\/tops",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -48,7 +48,7 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF7024-3_1.jpg",
+        "image": "shopify:\/\/shop_images\/450816499_18036571861989073_5815398804065106961_n.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-right",
