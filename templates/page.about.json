@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -13,22 +22,19 @@
         "fd85577f-9054-40be-ab85-e39be166dbd3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/P1060713.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/P1060713.jpg"
           }
         },
         "28d842b5-f3d2-446a-b96c-7c019c65f994": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shop-scaled.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/shop-scaled.jpg"
           }
         },
         "66df3860-377b-4020-916a-50ec38e21041": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/138343222_146310230495195_863917765177952393_n.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/138343222_146310230495195_863917765177952393_n.jpg"
           }
         }
       },
@@ -78,9 +84,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_20200917_133911.jpg",
             "title": "A Reliable Core",
-            "text": "<p>The heart of Porterhouse is menswear. We curate options core-first, helping our customers build a wardrobe that starts with well-built basics that won't go out of style. Selvedge denim, heavyweight tees and henleys, and well-built, solid-colored button-downs.<br\/><br\/><a href=\"\/collections\/core\" title=\"Core\">Shop Core Styles<\/a><\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>We help our customers build a wardrobe on a foundation of versatile, well-built basics that won't go out of style. Selvedge denim, durable tees and henleys, and solid oxfords.<\/p>",
+            "link_label": "Shop the Essentials",
+            "link": "shopify:\/\/collections\/porterhouse-core"
           }
         },
         "1630180511748eaef5-1": {
@@ -88,9 +94,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/P1240916.jpg",
             "title": "Seasonal Accents",
-            "text": "<p>Layered on top of our core goods come seasonal releases from each of our brands, prepping you for varying temps and adding a little flair to your wardrobe.<\/p><p>While the offerings swap out each season, anything you pick up should stay in style as long as it holds up.<br\/><br\/><a href=\"\/collections\/fall-winter-2022\" title=\"Fall & Winter 2022\">Shop Autumn\/Winter 2022<\/a><\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Layered on top of our core goods come seasonal releases from each of our brands, prepping you for varying temps and adding a little flair to your wardrobe.<\/p><p>While the offerings swap out each season, anything you pick up should stay in style as long as it holds up.<\/p>",
+            "link_label": "Shop the Latest Arrivals",
+            "link": "shopify:\/\/collections\/all"
           }
         },
         "1630180511748eaef5-2": {
@@ -98,9 +104,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/149103690_171126867882176_599546203843072062_n.jpg",
             "title": "Finishing Touches",
-            "text": "<p>Finally, we carry the accessories, grooming products and home goods to top off your dapper lifestyle. Boots, hats, gloves and ties to finish any outfit, shave goods and cologne to keep you fresh, and candles to make sure your home is welcoming to any and all guests.<br\/><br\/><a href=\"\/collections\/accessories\" title=\"Accessories\">Shop Accessories<\/a><\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Finally, we carry the accessories, grooming products and home goods to top off your dapper lifestyle. Boots, hats, gloves and ties to finish any outfit, shave goods and cologne to keep you fresh, and candles to make sure your home is welcoming to any and all guests.<\/p>",
+            "link_label": "Shop Accessories",
+            "link": "shopify:\/\/collections\/accessories"
           }
         }
       },
@@ -158,7 +164,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -200,7 +206,9 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
