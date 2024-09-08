@@ -17,8 +17,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "The Labor Day Sale is live!",
-            "link": "shopify:\/\/collections\/labor-day-sale-2024"
+            "text": "Free Shipping on Orders Over $250",
+            "link": ""
           }
         }
       },
