@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/products\/weird-guy-in-meteor-selvedge",
+            "button_link_1": "shopify://products/weird-guy-in-meteor-selvedge",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -48,7 +48,7 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF4396_1_a7ec2190-1370-4e92-b93e-bcc2cbee2e73.jpg",
+        "image": "shopify://shop_images/DSCF4396_1_a7ec2190-1370-4e92-b93e-bcc2cbee2e73.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-right",
@@ -67,31 +67,31 @@
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF4205.jpg",
+            "image": "shopify://shop_images/DSCF4205.jpg",
             "title": "Campfire Ready",
-            "text": "<p>The first fall pieces from Taylor Stitch have arrived here at the shop.  This collection is incredibly cozy and comfortable. Next time you sit around the campfire make sure you got one of these Lodge sweaters on. <\/p>",
+            "text": "<p>The first fall pieces from Taylor Stitch have arrived here at the shop.  This collection is incredibly cozy and comfortable. Next time you sit around the campfire make sure you got one of these Lodge sweaters on. </p>",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/taylor-stitch-fall-and-winter-2024"
+            "link": "shopify://collections/taylor-stitch-fall-and-winter-2024"
           }
         },
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF0427.jpg",
-            "title": "Workers Chino Restock",
-            "text": "<p>A shop favorite has recently been restocked. The 14oz Workers Chino from Freenote Cloth is back in both best-selling colors for us. Army and Rust. If you are looking for a pair of pants that does it all, this is a great option to consider. <\/p>",
+            "image": "shopify://shop_images/DSCF6203.jpg",
+            "title": "Sweater Shop Now Open",
+            "text": "<p>You deserve a knit that will always feel like a warm hug every time you put it on. </p>",
             "link_label": "View Now",
-            "link": "shopify:\/\/collections\/workers-chino"
+            "link": "shopify://collections/the-sweater-shop"
           }
         },
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3456.jpg",
+            "image": "shopify://shop_images/DSCF3456.jpg",
             "title": "Portuguese Flannel AW24",
-            "text": "<p>The first cold weather drop from Portuguese Flannel is now live on the shop floor and the website. Explore a collection of brushed cotton and wool. Ready for now for fall. <\/p>",
+            "text": "<p>The first cold weather drop from Portuguese Flannel is now live on the shop floor and the website. Explore a collection of brushed cotton and wool. Ready for now for fall. </p>",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/portuguese-flannel-fall-winter-2024"
+            "link": "shopify://collections/portuguese-flannel-fall-winter-2024"
           }
         }
       },
@@ -152,7 +152,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Latest Arrivals",
-            "button_link": "https:\/\/porterhouseclothing.com\/collections\/all?filter.v.price.gte=&filter.v.price.lte=&sort_by=created-descending",
+            "button_link": "https://porterhouseclothing.com/collections/all?filter.v.price.gte=&filter.v.price.lte=&sort_by=created-descending",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -185,7 +185,7 @@
         "16312348604f33da59-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Just had the greatest clothing purchase experience of my life. The sales associate was very knowledgeable and friendly. He was patient and helpful throughout the entire process. To any man wanting to experience what true customer service is all about, and complete their wardrobe, head to Porterhouse. You WON'T be disappointed.<\/p><p><em>- James, a smart fella<\/em><\/p><p><br\/><br\/><\/p>",
+            "text": "<p>Just had the greatest clothing purchase experience of my life. The sales associate was very knowledgeable and friendly. He was patient and helpful throughout the entire process. To any man wanting to experience what true customer service is all about, and complete their wardrobe, head to Porterhouse. You WON'T be disappointed.</p><p><em>- James, a smart fella</em></p><p><br/><br/></p>",
             "text_style": "body"
           }
         }
@@ -195,7 +195,7 @@
         "16312348604f33da59-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF6074.jpg",
+        "image": "shopify://shop_images/DSCF6074.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -216,31 +216,31 @@
         "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/391395078_18007435522989073_4374538545250934803_n.jpg",
+            "image": "shopify://shop_images/391395078_18007435522989073_4374538545250934803_n.jpg",
             "title": "Sam's Picks",
             "text": "",
             "link_label": "Browse Sam's Picks",
-            "link": "shopify:\/\/collections\/sams-picks"
+            "link": "shopify://collections/sams-picks"
           }
         },
         "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/428680667_18023399554989073_6444140319931318920_n.jpg",
+            "image": "shopify://shop_images/428680667_18023399554989073_6444140319931318920_n.jpg",
             "title": "Ethan's Picks",
             "text": "",
             "link_label": "Browse Ethan's Picks",
-            "link": "shopify:\/\/collections\/ethans-picks"
+            "link": "shopify://collections/ethans-picks"
           }
         },
         "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/351425149_633898358661614_452108757181282591_n.jpg",
+            "image": "shopify://shop_images/351425149_633898358661614_452108757181282591_n.jpg",
             "title": "Omar's Picks",
             "text": "",
             "link_label": "Browse Omar's Picks",
-            "link": "shopify:\/\/collections\/omars-picks"
+            "link": "shopify://collections/omars-picks"
           }
         }
       },
@@ -279,7 +279,7 @@
         "16288074329a8902e0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The modern man needs to dress to meet whatever the day might throw at him. From putting in the hours at the office or in the field, to a weekend excursion in the great outdoors, to drinks at the bar Friday night. If your clothes can get you to all three in style, you're ready for anything.<br\/><br\/>Porterhouse Clothing was founded for those men. With durable brands that wear in, not out, we're here to help guys look sharp doing everything.<\/p>"
+            "text": "<p>The modern man needs to dress to meet whatever the day might throw at him. From putting in the hours at the office or in the field, to a weekend excursion in the great outdoors, to drinks at the bar Friday night. If your clothes can get you to all three in style, you're ready for anything.<br/><br/>Porterhouse Clothing was founded for those men. With durable brands that wear in, not out, we're here to help guys look sharp doing everything.</p>"
           }
         }
       },
@@ -302,19 +302,19 @@
         "8e79859a-b8ad-4077-90c1-b642eb64dcd7": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3361.jpg"
+            "image": "shopify://shop_images/DSCF3361.jpg"
           }
         },
         "a90b4d85-4449-4d1c-89b0-c1f7a09d27b2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3438.jpg"
+            "image": "shopify://shop_images/DSCF3438.jpg"
           }
         },
         "8b366dc2-5db2-4ee3-99e7-ad49f8587bc8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4E781C7F-FC3E-4065-8CCC-59A14822D330.jpg"
+            "image": "shopify://shop_images/4E781C7F-FC3E-4065-8CCC-59A14822D330.jpg"
           }
         }
       },
@@ -347,7 +347,7 @@
         "16495371002d044ff9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The selection of brands available at Porterhouse Clothing & Supply is decidedly different than what you'll find at big box and mall menswear stores. Here's what we look for in the lines we carry.<\/p>"
+            "text": "<p>The selection of brands available at Porterhouse Clothing & Supply is decidedly different than what you'll find at big box and mall menswear stores. Here's what we look for in the lines we carry.</p>"
           }
         },
         "16495371002d044ff9-2": {
@@ -383,31 +383,31 @@
         "164953719215a0a6df-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF1382.png",
+            "image": "shopify://shop_images/DSCF1382.png",
             "title": "Natural & Responsible Materials",
-            "text": "<p>There's more to clothing than cotton. Mankind has been making clothes from a variety of natural materials for millenia. Linen, hemp, wool and more all find a home in our shop, used intentionally in garments suited for a variety of applications.<\/p>",
+            "text": "<p>There's more to clothing than cotton. Mankind has been making clothes from a variety of natural materials for millenia. Linen, hemp, wool and more all find a home in our shop, used intentionally in garments suited for a variety of applications.</p>",
             "link_label": "More About Clothing Materials",
-            "link": "shopify:\/\/pages\/natural-materials"
+            "link": "shopify://pages/natural-materials"
           }
         },
         "164953719215a0a6df-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PXL_20220406_232301523.MP.jpg",
+            "image": "shopify://shop_images/PXL_20220406_232301523.MP.jpg",
             "title": "Made in the USA",
-            "text": "<p>The road from seed to shirt is long, and it's a tall task for anyone to understand the entire supply chain. But we do our best, and work with brands who are transparent about their products. When we can't keep our dollars at home, we still strive to know where items come from.<\/p>",
+            "text": "<p>The road from seed to shirt is long, and it's a tall task for anyone to understand the entire supply chain. But we do our best, and work with brands who are transparent about their products. When we can't keep our dollars at home, we still strive to know where items come from.</p>",
             "link_label": "The Made in the USA Clothing Renaissance",
-            "link": "shopify:\/\/pages\/made-in-the-usa"
+            "link": "shopify://pages/made-in-the-usa"
           }
         },
         "164953719215a0a6df-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF5127.jpg",
+            "image": "shopify://shop_images/DSCF5127.jpg",
             "title": "Buy Nice, Not Twice",
-            "text": "<p>Americans buy more clothes than any other nation. It costs a bit more to shop the way we do, but by focusing on durable and versatile clothing in classic styles, our goal is for you to buy fewer things, like them better, and wear them more often.<\/p>",
+            "text": "<p>Americans buy more clothes than any other nation. It costs a bit more to shop the way we do, but by focusing on durable and versatile clothing in classic styles, our goal is for you to buy fewer things, like them better, and wear them more often.</p>",
             "link_label": "Your Clothing's Footprint",
-            "link": "shopify:\/\/pages\/buy-nice-not-twice"
+            "link": "shopify://pages/buy-nice-not-twice"
           }
         }
       },
@@ -446,7 +446,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Like pre-1950s Levi's, the denim brands carried at Porterhouse are built to wear in, not out. Sewn on traditional shuttle looms, selvedge denim will put up with more and look better doing it. And because our brands are shipping raw, un-washed, un-distressed denim, no one gets to wear in your jeans before you do.<\/p>",
+            "text": "<p>Like pre-1950s Levi's, the denim brands carried at Porterhouse are built to wear in, not out. Sewn on traditional shuttle looms, selvedge denim will put up with more and look better doing it. And because our brands are shipping raw, un-washed, un-distressed denim, no one gets to wear in your jeans before you do.</p>",
             "text_style": "body"
           }
         },
@@ -454,7 +454,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Denim",
-            "button_link": "shopify:\/\/collections\/denim",
+            "button_link": "shopify://collections/denim",
             "button_style_secondary": false
           }
         }
@@ -465,7 +465,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Naked_and_Famous_selvedge_jeans.jpg",
+        "image": "shopify://shop_images/Naked_and_Famous_selvedge_jeans.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -493,7 +493,7 @@
         "16288077053a9a5d56-1": {
           "type": "text",
           "settings": {
-            "text": "<p>You might notice there wasn't a popup offering you 15% off your first order. Instead, we like to reward our long-time customers. Earn $10 back in store credit for every $200 you spend with us, online and in-store. Redeem anywhere, anytime.<\/p><p>Get a head start by clicking that little present in the bottom-left corner.<\/p>",
+            "text": "<p>You might notice there wasn't a popup offering you 15% off your first order. Instead, we like to reward our long-time customers. Earn $10 back in store credit for every $200 you spend with us, online and in-store. Redeem anywhere, anytime.</p><p>Get a head start by clicking that little present in the bottom-left corner.</p>",
             "text_style": "body"
           }
         }
@@ -503,7 +503,7 @@
         "16288077053a9a5d56-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/141033765_523250715681965_7404227569025672185_n.jpg",
+        "image": "shopify://shop_images/141033765_523250715681965_7404227569025672185_n.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
