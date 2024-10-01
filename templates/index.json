@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Meteor Selvedge",
+            "heading": "Freenote Autumn",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "The latest from Naked & Famous has crash landed.",
+            "text": "The latest in cold weather goods from Freenote Cloth.",
             "text_style": "body"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify://products/weird-guy-in-meteor-selvedge",
+            "button_link_1": "shopify://collections/freenote-cloth-autumn-winter",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -48,7 +48,7 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/DSCF4396_1_a7ec2190-1370-4e92-b93e-bcc2cbee2e73.jpg",
+        "image": "shopify://shop_images/DSCF5689_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-right",
