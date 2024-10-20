@@ -631,6 +631,19 @@ h3 .icon-arrow,
   transform: translateX(-0.05rem);
 }
 
+.svg-wrapper {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+}
+
+.svg-wrapper > svg {
+  height: 100%;
+  width: 100%;
+}
+
 /* base-details-summary */
 summary {
   cursor: pointer;
@@ -682,6 +695,11 @@ summary::-webkit-details-marker {
   .facets .disclosure-has-popup[open] > summary + * {
     z-index: 2;
   }
+}
+
+.placeholder-svg {
+  height: 100%;
+  width: 100%;
 }
 
 /* base-focus */
@@ -820,7 +838,7 @@ summary::-webkit-details-marker {
   align-items: center;
 }
 
-.title-wrapper-with-link .link-with-icon svg {
+.title-wrapper-with-link .link-with-icon .svg-wrapper {
   width: 1.5rem;
 }
 
@@ -1166,10 +1184,7 @@ deferred-media {
 .button,
 .shopify-challenge__button,
 .customer button,
-button.shopify-payment-button__button--unbranded,
-.shopify-payment-button [role='button'],
-.cart__dynamic-checkout-buttons [role='button'],
-.cart__dynamic-checkout-buttons iframe {
+button.shopify-payment-button__button--unbranded {
   --shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);
   --shadow-vertical-offset: var(--buttons-shadow-vertical-offset);
   --shadow-blur-radius: var(--buttons-shadow-blur-radius);
@@ -1187,15 +1202,6 @@ button.shopify-payment-button__button--unbranded,
 button.shopify-payment-button__button--unbranded {
   min-width: calc(12rem + var(--buttons-border-width) * 2);
   min-height: calc(4.5rem + var(--buttons-border-width) * 2);
-}
-
-.shopify-payment-button__button--branded {
-  z-index: auto;
-}
-
-.cart__dynamic-checkout-buttons iframe {
-  box-shadow: var(--shadow-horizontal-offset) var(--shadow-vertical-offset) var(--shadow-blur-radius)
-    rgba(var(--color-shadow), var(--shadow-opacity));
 }
 
 .button,
@@ -1221,9 +1227,7 @@ button.shopify-payment-button__button--unbranded {
 .button:before,
 .shopify-challenge__button:before,
 .customer button:before,
-.shopify-payment-button__button--unbranded:before,
-.shopify-payment-button [role='button']:before,
-.cart__dynamic-checkout-buttons [role='button']:before {
+.shopify-payment-button__button--unbranded:before {
   content: '';
   position: absolute;
   top: 0;
@@ -1272,17 +1276,14 @@ button.shopify-payment-button__button--unbranded {
 .button:focus,
 .button.focused,
 .shopify-payment-button__button--unbranded:focus-visible,
-.shopify-payment-button [role='button']:focus-visible,
-.shopify-payment-button__button--unbranded:focus,
-.shopify-payment-button [role='button']:focus {
+.shopify-payment-button__button--unbranded:focus {
   outline: 0;
   box-shadow: 0 0 0 0.3rem rgb(var(--color-background)), 0 0 0 0.5rem rgba(var(--color-foreground), 0.5),
     0 0 0.5rem 0.4rem rgba(var(--color-foreground), 0.3);
 }
 
 .button:focus:not(:focus-visible):not(.focused),
-.shopify-payment-button__button--unbranded:focus:not(:focus-visible):not(.focused),
-.shopify-payment-button [role='button']:focus:not(:focus-visible):not(.focused) {
+.shopify-payment-button__button--unbranded:focus:not(:focus-visible):not(.focused) {
   box-shadow: inherit;
 }
 
@@ -1311,6 +1312,20 @@ button.shopify-payment-button__button--unbranded {
 .button--small {
   padding: 1.2rem 2.6rem;
 }
+
+/* Shopify Accelerated Checkout */
+
+shopify-accelerated-checkout {
+  --shopify-accelerated-checkout-button-border-radius: var(--buttons-radius-outset);
+  --shopify-accelerated-checkout-button-box-shadow: var(--shadow-horizontal-offset) var(--shadow-vertical-offset) var(--shadow-blur-radius)
+  rgba(var(--color-shadow), var(--shadow-opacity));
+}
+shopify-accelerated-checkout-cart {
+  --shopify-accelerated-checkout-button-border-radius: var(--buttons-radius-outset);
+  --shopify-accelerated-checkout-button-box-shadow: var(--shadow-horizontal-offset) var(--shadow-vertical-offset) var(--shadow-blur-radius)
+  rgba(var(--color-shadow), var(--shadow-opacity));
+}
+
 
 /* Button - other */
 
@@ -1461,7 +1476,7 @@ details[open] > .share-button__fallback {
   color: rgba(var(--color-foreground), 0.75);
 }
 
-.share-button__fallback button:hover svg {
+.share-button__fallback button:hover .svg-wrapper {
   transform: scale(1.07);
 }
 
@@ -1659,13 +1674,14 @@ details[open] > .share-button__fallback {
 
 /* Select */
 
-.select .icon-caret,
-.customer select + svg {
+.select .svg-wrapper,
+.customer select + .svg-wrapper {
   height: 0.6rem;
+  width: 1rem;
   pointer-events: none;
   position: absolute;
   top: calc(50% - 0.2rem);
-  right: calc(var(--inputs-border-width) + 1.5rem);
+  right: 0;
 }
 
 .select__select,
@@ -1764,7 +1780,7 @@ details[open] > .share-button__fallback {
   width: 4.4rem;
 }
 
-.field__button > svg {
+.field__button > .svg-wrapper {
   height: 2.5rem;
   width: 2.5rem;
 }
@@ -1816,7 +1832,7 @@ input[type='checkbox'] {
 }
 
 .form__message .icon,
-.customer .form__message svg {
+.customer .form__message .svg-wrapper {
   flex-shrink: 0;
   height: 1.3rem;
   margin-right: 0.5rem;
@@ -1824,13 +1840,13 @@ input[type='checkbox'] {
 }
 
 .form__message--large .icon,
-.customer .form__message svg {
+.customer .form__message .svg-wrapper {
   height: 1.5rem;
   width: 1.5rem;
   margin-right: 1rem;
 }
 
-.customer .field .form__message svg {
+.customer .field .form__message .svg-wrapper {
   align-self: start;
 }
 
@@ -1932,7 +1948,7 @@ input[type='checkbox'] {
   margin-right: calc(var(--inputs-border-width));
 }
 
-.quantity__button svg {
+.quantity__button .svg-wrapper {
   width: 1rem;
   pointer-events: none;
 }
@@ -2510,6 +2526,11 @@ input[type='checkbox'] {
   height: 100%;
 }
 
+.header__icon .svg-wrapper {
+  width: 44px;
+  height: 44px;
+}
+
 .header__icon::after {
   content: none;
 }
@@ -2551,6 +2572,14 @@ input[type='checkbox'] {
 
 .header__icon--account shop-user-avatar {
   --shop-avatar-size: 2.8rem;
+}
+
+details .header__icon-close {
+  display: none;
+}
+
+details[open] .header__icon-close {
+  display: inline-block;
 }
 
 account-icon {
@@ -3226,7 +3255,7 @@ details-disclosure > details {
 }
 
 .animate--zoom-in > img,
-.animate--zoom-in > svg {
+.animate--zoom-in > .svg-wrapper {
   transition: scale var(--duration-short) linear;
   scale: var(--zoom-in-ratio);
 }
@@ -3235,7 +3264,7 @@ details-disclosure > details {
 
 @media (prefers-reduced-motion: no-preference) {
   .animate--ambient > img,
-  .animate--ambient > svg {
+  .animate--ambient > .svg-wrapper {
     animation: animateAmbient 30s linear infinite;
   }
 
