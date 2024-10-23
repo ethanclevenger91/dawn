@@ -172,44 +172,6 @@
         "padding_bottom": 52
       }
     },
-    "16312348604f33da59": {
-      "type": "image-with-text",
-      "blocks": {
-        "46e3e185-32d9-4cc2-b51a-2a6ac7f15d2f": {
-          "type": "heading",
-          "settings": {
-            "heading": "Words of Wisdom...",
-            "heading_size": "h1"
-          }
-        },
-        "16312348604f33da59-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Just had the greatest clothing purchase experience of my life. The sales associate was very knowledgeable and friendly. He was patient and helpful throughout the entire process. To any man wanting to experience what true customer service is all about, and complete their wardrobe, head to Porterhouse. You WON'T be disappointed.</p><p><em>- James, a smart fella</em></p><p><br/><br/></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "46e3e185-32d9-4cc2-b51a-2a6ac7f15d2f",
-        "16312348604f33da59-1"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/DSCF6074.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_LztjPm": {
       "type": "image-with-text",
       "blocks": {
@@ -251,6 +213,44 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "",
         "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16312348604f33da59": {
+      "type": "image-with-text",
+      "blocks": {
+        "46e3e185-32d9-4cc2-b51a-2a6ac7f15d2f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Words of Wisdom...",
+            "heading_size": "h1"
+          }
+        },
+        "16312348604f33da59-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Just had the greatest clothing purchase experience of my life. The sales associate was very knowledgeable and friendly. He was patient and helpful throughout the entire process. To any man wanting to experience what true customer service is all about, and complete their wardrobe, head to Porterhouse. You WON'T be disappointed.</p><p><em>- James, a smart fella</em></p><p><br/><br/></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "46e3e185-32d9-4cc2-b51a-2a6ac7f15d2f",
+        "16312348604f33da59-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/DSCF6074.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -603,8 +603,8 @@
     "8e5e019b-f4a1-4e9b-8555-bc52e5b4e734",
     "16288076191b5a1fb7",
     "608a42a8-1c64-466d-b712-b82a8cb23680",
-    "16312348604f33da59",
     "image_with_text_LztjPm",
+    "16312348604f33da59",
     "bc288656-e576-4498-b5de-a5c58f607191",
     "16288074329a8902e0",
     "162880743707132227",
