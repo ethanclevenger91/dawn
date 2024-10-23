@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -204,6 +204,53 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "",
         "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_LztjPm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9RWT8e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Personal Styling Appointment",
+            "heading_size": "h2"
+          }
+        },
+        "text_Reg6F9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To enhance your shopping experience, we are excited to offer personalized appointments. This unique opportunity allows you to enjoy up to two hours of our undivided attention in a private setting, with the entire shop dedicated to you.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_dVYHWR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book Appointment",
+            "button_link": "shopify://pages/personal-styling-appointment",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9RWT8e",
+        "text_Reg6F9",
+        "button_dVYHWR"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/77EC7661-7FF7-4B30-8C27-91B0A39771F8-69972-00001830C515CBB3_2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -557,6 +604,7 @@
     "16288076191b5a1fb7",
     "608a42a8-1c64-466d-b712-b82a8cb23680",
     "16312348604f33da59",
+    "image_with_text_LztjPm",
     "bc288656-e576-4498-b5de-a5c58f607191",
     "16288074329a8902e0",
     "162880743707132227",
