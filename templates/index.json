@@ -192,7 +192,7 @@
         "button_dVYHWR": {
           "type": "button",
           "settings": {
-            "button_label": "Book Appointment",
+            "button_label": "Book an Appointment",
             "button_link": "shopify://pages/personal-styling-appointment",
             "button_style_secondary": false
           }
