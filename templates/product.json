@@ -21,8 +21,7 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "a97d63b7-e61a-48b4-8b81-c98e3b27a37a": {
           "type": "custom_liquid",
@@ -32,9 +31,8 @@
         },
         "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign sale = product.collections | where: 'handle', \"labor-day-sale-2024\"\n%}\n{% if sale != blank %}\n<h2>Labor Day Sale</h2>\n<p>Through Thursday, 9/5, this piece is 30% off.</p>\n<p>This sale is a Last Call sale. <a href=\"https://porterhouseclothing.com/policies/refund-policy\">Per our return policy</a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.</p>\n<p>Final price shown in cart.</p>\n{% endif %}\n</div>"
+            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign sale = product.collections | where: 'handle', \"black-friday-2024\"\n%}\n{% if sale != blank %}\n<h2>Black Friday Sale</h2>\n<p>Starting Friday, through Monday, this product is 25% off. Buy two markdown items, get 35% off. Buy 3 and get 50% off.</p>\n<p>This sale is a Last Call sale. <a href=\"https://porterhouseclothing.com/policies/refund-policy\">Per our return policy</a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.</p>\n<p>Final price shown in cart.</p>\n{% endif %}\n</div>"
           }
         },
         "77c7897c-3d5a-4215-b174-ec7fbefc8322": {
@@ -75,13 +73,11 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "subscriptions_app_block_FeKWU4": {
           "type": "shopify://apps/subscriptions/blocks/app-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
@@ -148,8 +144,7 @@
       "blocks": {
         "judge_me_reviews_review_widget_MNjQjr": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -179,9 +174,7 @@
     },
     "391e2e91-61cd-4cc9-a04b-b762d429e21b": {
       "type": "custom-liquid",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "custom_liquid": "<script src=\"https://a.klaviyo.com/media/js/onsite/onsite.js\"></script>\n<script>var klaviyo = klaviyo || [];\n    klaviyo.init({\n      account: \"Yddtvc\",\n      platform: \"shopify\",\n      include_on_tags: 'Core'\n    });\n    klaviyo.enable(\"backinstock\",{ \n    trigger: {\n      product_page_text: \"Notify Me When Available\",\n      product_page_class: \"button button--full-width button--primary\",\n      product_page_text_align: \"center\",\n      product_page_margin: \"0px\",\n      replace_anchor: false\n    },\n    modal: {\n     headline: \"{product_name}\",\n     body_content: \"Register to receive a notification when this item comes back in stock.\",\n     email_field_label: \"Email\",\n     button_label: \"Notify me when available\",\n     subscription_success_label: \"You're in! We'll let you know when it's back.\",\n     footer_content: '',\n     additional_styles: \"@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Staatliches&display=swap');.btn { font-family:Staatliches;font-weight:400;letter-spacing:1.1px; }\",\n     drop_background_color: \"#000\",\n     background_color: \"#fff\",\n     close_button_color: \"#ccc\",\n     error_background_color: \"#fcd6d7\",\n     error_text_color: \"#C72E2F\",\n     success_background_color: \"#d3efcd\",\n     success_text_color: \"#1B9500\",\n     button_background_color: \"rgb(214, 74, 40)\",\n     button_text_color: \"white\",\n    }\n  });\n</script>",
         "color_scheme": "background-1",
