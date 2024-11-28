@@ -18,7 +18,7 @@
           "type": "announcement",
           "settings": {
             "text": "Black Friday promotions start Friday",
-            "link": ""
+            "link": "shopify://collections/black-friday-2024"
           }
         }
       },
