@@ -32,7 +32,7 @@
         "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign sale = product.collections | where: 'handle', \"black-friday-2024\"\n%}\n{% if sale != blank %}\n<h2>Black Friday Sale</h2>\n<p>Starting Friday, through Monday, this product is 25% off. Buy two markdown items, get 35% off. Buy 3 and get 50% off.</p>\n<p>This sale is a Last Call sale. <a href=\"https://porterhouseclothing.com/policies/refund-policy\">Per our return policy</a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.</p>\n<p>Final price shown in cart.</p>\n{% endif %}\n</div>"
+            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign sale = product.collections | where: 'handle', \"black-friday-2024\"\n%}\n{% if sale != blank %}\n<h2>Black Friday Sale</h2>\n<p>Starting Friday in-store and Saturday at 6pm pacific time, through Monday, this product is 25% off. Buy two markdown items, get 35% off. Buy 3 and get 50% off.</p>\n<p>This sale is a Last Call sale. <a href=\"https://porterhouseclothing.com/policies/refund-policy\">Per our return policy</a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.</p>\n<p>Final price shown in cart.</p>\n{% endif %}\n</div>"
           }
         },
         "77c7897c-3d5a-4215-b174-ec7fbefc8322": {
