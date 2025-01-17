@@ -48,7 +48,7 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Website_Sale.jpg",
+        "image": "shopify://shop_images/Website_Sale2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "top-right",
