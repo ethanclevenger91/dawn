@@ -1,8 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/ph_print_full-logo_textured_black_1.png",
+    "logo": "shopify://shop_images/ph_print_full-logo_textured_black_1.png",
     "logo_width": 150,
-    "favicon": "shopify:\/\/shop_images\/ph_web_head_textured_black.png",
+    "favicon": "shopify://shop_images/ph_web_head_textured_brick.png",
     "type_header_font": "sans-serif",
     "heading_scale": 120,
     "type_body_font": "crimson_text_n4",
@@ -18,14 +27,14 @@
     "card_color_scheme": "background-1",
     "blog_card_color_scheme": "accent-1",
     "media_border_thickness": 0,
-    "social_facebook_link": "https:\/\/facebook.com\/porterhouseclothing",
-    "social_instagram_link": "https:\/\/instagram.com\/porterhouseclothing",
+    "social_facebook_link": "https://facebook.com/porterhouseclothing",
+    "social_instagram_link": "https://instagram.com/porterhouseclothing",
     "predictive_search_show_vendor": true,
     "currency_code_enabled": false,
     "cart_type": "drawer",
     "show_vendor": true,
     "cart_drawer_collection": "core",
-    "checkout_logo_image": "shopify:\/\/shop_images\/ph_web_full-logo_textured_black_b304ed38-2581-4abf-9296-056a4243b16a.png",
+    "checkout_logo_image": "shopify://shop_images/ph_web_full-logo_textured_black_b304ed38-2581-4abf-9296-056a4243b16a.png",
     "checkout_accent_color": "#d64a28",
     "checkout_button_color": "#d64a28",
     "accent_icons": "text",
@@ -37,15 +46,14 @@
             "type": "announcement",
             "settings": {
               "text": "End of Season Sale. 25-35% off. Shop the collection.",
-              "link": "shopify:\/\/collections\/autumn-winter-2022-end-of-season-sale"
+              "link": "shopify://collections/autumn-winter-2022-end-of-season-sale"
             }
           }
         },
         "block_order": [
           "ccebe915-73c3-4f89-bac1-b02dc6a09043"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
@@ -68,7 +76,7 @@
             "type": "text",
             "settings": {
               "heading": "At The Quackenbush",
-              "subtext": "<p>160 E Broadway Ste B<br\/>Eugene, OR 97401<br\/><br\/><strong>Mo-Fr<\/strong> 11am-6pm<br\/><strong>Sa<\/strong> 10am-6pm<br\/><strong>Su<\/strong> 12pm-5pm<\/p>"
+              "subtext": "<p>160 E Broadway Ste B<br/>Eugene, OR 97401<br/><br/><strong>Mo-Fr</strong> 11am-6pm<br/><strong>Sa</strong> 10am-6pm<br/><strong>Su</strong> 12pm-5pm</p>"
             }
           },
           "footer-0": {
@@ -109,24 +117,20 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "6174324309569838175": {
-        "type": "shopify:\/\/apps\/smile-rewards-loyalty\/blocks\/smile-shopify-app\/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
+        "type": "shopify://apps/smile-rewards-loyalty/blocks/smile-shopify-app/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#d64a28",
@@ -138,10 +142,9 @@
         }
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     },
     "color_schemes": {
