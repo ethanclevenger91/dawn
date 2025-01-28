@@ -69,7 +69,7 @@
           "settings": {
             "image": "shopify://shop_images/DSCF7451_1.jpg",
             "title": "Casual Suiting",
-            "text": "<p>Colder weather is the perfect time to experiment with a bit of suiting. Explore a collection of wool suits that put in the work at either casual or more upscale settings. </p>",
+            "text": "<p>Casual wool suits that put in the work in both casual and more upscale settings. Buy the set or buy them separate.</p>",
             "link_label": "Shop Now",
             "link": "shopify://collections/casual-suiting"
           }
@@ -79,7 +79,7 @@
           "settings": {
             "image": "shopify://shop_images/DSCF6203.jpg",
             "title": "Sweater Shop Now Open",
-            "text": "<p>You deserve a knit that will always feel like a warm hug every time you put it on. </p>",
+            "text": "<p>Knits that go on like a warm hug every time. </p>",
             "link_label": "View Now",
             "link": "shopify://collections/the-sweater-shop"
           }
@@ -88,8 +88,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/DSCF3456.jpg",
-            "title": "Portuguese Flannel AW24",
-            "text": "<p>The first cold weather drop from Portuguese Flannel is now live on the shop floor and the website. Explore a collection of brushed cotton and wool. Ready for now for fall. </p>",
+            "title": "Warm Winter Flannel",
+            "text": "<p>Portuguese Flannel's collection of brushed cotton, wool and more is perfect for winter.</p>",
             "link_label": "Shop Now",
             "link": "shopify://collections/portuguese-flannel-fall-winter-2024"
           }
