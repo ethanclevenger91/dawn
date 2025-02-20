@@ -77,11 +77,11 @@
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSCF6203.jpg",
-            "title": "Sweater Shop Now Open",
-            "text": "<p>Knits that go on like a warm hug every time. </p>",
-            "link_label": "View Now",
-            "link": "shopify://collections/the-sweater-shop"
+            "image": "shopify://shop_images/DSCF9821.jpg",
+            "title": "Wider. Bigger. Roomier.",
+            "text": "<p>We've noticed a need from our customers for denim with wider legs and more room. We've heard your feedback and have started to incorporate roomier cuts with wider leg openings. Check out our current offerings if you've been wanting some denim with more width and room. </p>",
+            "link_label": "Shop wide",
+            "link": "shopify://collections/wide-leg-denim"
           }
         },
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-2": {
