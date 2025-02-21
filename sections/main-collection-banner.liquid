@@ -41,8 +41,7 @@
           height="{{ collection.image.height }}"
           style="object-position:{{ collection.image.image_presentation.focal_point }};"
         >
-        {% assign focal_x = collection.image.image_presentation %}
-        {{  focal_x }}
+        {{ collection | image_url: width: 200 | image_tag }}
       </div>
     {%- endif -%}
   </div>
