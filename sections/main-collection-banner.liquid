@@ -41,7 +41,8 @@
           height="{{ collection.image.height }}"
           style="object-position:{{ collection.image.presentation.focal_point }};"
         >
-        {{ collection.image.presentation }}
+        {% assign focal_x = collection.image.presentation.focal_point.x %}
+        {{  focal_x }}
       </div>
     {%- endif -%}
   </div>
