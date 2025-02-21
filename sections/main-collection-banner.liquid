@@ -39,9 +39,9 @@
           alt="{{ collection.image.alt | escape }}"
           width="{{ collection.image.width }}"
           height="{{ collection.image.height }}"
-          style="object-position:{{ collection.image.presentation.focal_point }};"
+          style="object-position:{{ collection.image.image_presentation.focal_point }};"
         >
-        {% assign focal_x = collection.image.presentation.focal_point.x %}
+        {% assign focal_x = collection.image.image_presentation.focal_point.x %}
         {{  focal_x }}
       </div>
     {%- endif -%}
