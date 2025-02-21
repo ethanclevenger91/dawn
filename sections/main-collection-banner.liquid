@@ -39,9 +39,7 @@
           alt="{{ collection.image.alt | escape }}"
           width="{{ collection.image.width }}"
           height="{{ collection.image.height }}"
-          style="object-position:{{ collection.image.image_presentation.focal_point }};"
         >
-        {{ collection | image_url: width: 200 | image_tag }}
       </div>
     {%- endif -%}
   </div>
