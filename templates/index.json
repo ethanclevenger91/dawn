@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Love & Peace",
+            "heading": "Universal Works Spring '25",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Flip the cuff and spread some love!",
+            "text": "Warm weather threads from the UK.",
             "text_style": "body"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections/love-peace-selvedge",
+            "button_link_1": "shopify://collections/universal-works-spring-summer-2025",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -48,7 +48,7 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/DSCF2056_1.jpg",
+        "image": "shopify://shop_images/DSCF4987_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "top-right",
