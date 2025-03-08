@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Universal Works",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "Warm weather styles are here from the UK-based brand",
             "text_style": "body"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections/sale",
+            "button_link_1": "shopify://collections/universal-works-spring-summer-2025",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -51,7 +51,7 @@
         "image": "shopify://shop_images/DSCF4987_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
