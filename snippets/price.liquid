@@ -85,13 +85,11 @@
               | t: minimum: money_price_min, maximum: money_price_max
             -}}
           </span>
-        {%- else -%}  
-          {% unless product.tags contains 'Bundle' %}
-            <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
-            <span class="price-item price-item--regular">
-              {{ money_price }}
-            </span>
-          {% endunless %}
+        {%- else -%}
+          <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+          <span class="price-item price-item--regular">
+            {{ money_price }}
+          </span>
         {%- endif -%}
       </div>
       <div class="price__sale">
@@ -130,9 +128,12 @@
       </small>
     </div>
     {%- if show_badges -%}
-      <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
-        {{ 'products.product.on_sale' | t }}
-      </span>
+      
+      {% unless product.tags contains 'Bundle' %}
+        <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
+          {{ 'products.product.on_sale' | t }}
+        </span>
+      {% endunless %}
 
       <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}">
         {{ 'products.product.sold_out' | t }}
