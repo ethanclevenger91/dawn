@@ -85,11 +85,13 @@
               | t: minimum: money_price_min, maximum: money_price_max
             -}}
           </span>
-        {%- else -%}
-          <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
-          <span class="price-item price-item--regular">
-            {{ money_price }}
-          </span>
+        {%- else -%}  
+          {% unless product.tags contains 'Bundle' %}
+            <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
+            <span class="price-item price-item--regular">
+              {{ money_price }}
+            </span>
+          {% endunless %}
         {%- endif -%}
       </div>
       <div class="price__sale">
