@@ -143,6 +143,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_TptnfK": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"product__description rte quick-add-hidden\" {{ block.shopify_attributes }}>\n  {{ product.description }}\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "163484510562bb2d8e": {
       "type": "apps",
       "blocks": {
@@ -198,6 +207,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_TptnfK",
     "163484510562bb2d8e",
     "related-products",
     "391e2e91-61cd-4cc9-a04b-b762d429e21b",
