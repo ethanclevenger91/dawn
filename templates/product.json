@@ -164,7 +164,8 @@
             "title": "About {{ product.vendor }}",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "custom_liquid": "{% assign vendor_collection_handle = product.vendor | handle %}\n{% for c in product.collections %}\n{% if c.handle == vendor_collection_handle and c.description != blank %}\n{{ c.description }}\n{% endif %}\n{% endfor %}"
           }
         },
         "column_4ijWgF": {
@@ -173,7 +174,8 @@
             "title": "Shipping & Returns",
             "text": "<p>Items leave our shop Monday-Friday. Shipping method can be selected at checkout. Applicable customs or duties are not included and must be paid by the customer separately.</p><p>Please double-check your size.</p><p>Most items may only be returned for store credit. Exceptions apply. Please review <a href=\"/policies/refund-policy\" title=\"Refund Policy\">our refund policy</a> for full details.</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "custom_liquid": ""
           }
         }
       },
