@@ -44,15 +44,6 @@
             "btn_text": "Size Guide"
           }
         },
-        "collapsible_tab_KgEkeB": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Description",
-            "icon": "pants",
-            "content": "<p>{{ product.description }}</p>",
-            "page": ""
-          }
-        },
         "custom_liquid_wX9EhW": {
           "type": "custom_liquid",
           "settings": {
@@ -117,7 +108,6 @@
         "a97d63b7-e61a-48b4-8b81-c98e3b27a37a",
         "0e04ab17-38a9-4d69-911d-b546f7feda3c",
         "77c7897c-3d5a-4215-b174-ec7fbefc8322",
-        "collapsible_tab_KgEkeB",
         "custom_liquid_wX9EhW",
         "ae065407-6136-400b-a6f0-0d595d57dd32",
         "variant_picker",
@@ -146,10 +136,56 @@
     "custom_liquid_TptnfK": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"product__description rte quick-add-hidden\" {{ block.shopify_attributes }}>\n  {{ product.description }}\n</div>",
+        "custom_liquid": "<div class=\"page-width\">\n<div class=\"product__description rte quick-add-hidden\" {{ block.shopify_attributes }}>\n  {{ product.description }}\n</div>\n</div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "multicolumn_r4JBYh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QjbdkB": {
+          "type": "column",
+          "settings": {
+            "title": "About {{ product.vendor }}",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4ijWgF": {
+          "type": "column",
+          "settings": {
+            "title": "Shipping & Returns",
+            "text": "<p>Items leave our shop Monday-Friday. Shipping method can be selected at checkout. Applicable customs or duties are not included and must be paid by the customer separately.</p><p>Please double-check your size.</p><p>Most items may only be returned for store credit. Exceptions apply. Please review <a href=\"/policies/refund-policy\" title=\"Refund Policy\">our refund policy</a> for full details.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QjbdkB",
+        "column_4ijWgF"
+      ],
+      "custom_css": [
+        "p {margin-block-end: initial;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "163484510562bb2d8e": {
@@ -208,6 +244,7 @@
   "order": [
     "main",
     "custom_liquid_TptnfK",
+    "multicolumn_r4JBYh",
     "163484510562bb2d8e",
     "related-products",
     "391e2e91-61cd-4cc9-a04b-b762d429e21b",
