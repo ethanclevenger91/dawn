@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Knickerbocker NY",
+            "heading": "It's Eugene Marathon Weekend!",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "New styles ready for warm weekends & getaways",
+            "text": "Bring your race bib in for 15% off all weekend long",
             "text_style": "body"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections/knickerbocker-ny-ss25",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -71,7 +71,8 @@
             "title": "Freenote Cloth Spring & Summer",
             "text": "<p>Based out of sunny San Juan Capistrano, the Freenote crew know how to make some great  threads ready for warmer days. From transitional wool pieces to straight up tanks - the spring summer collection from Freenote is only growing from here til summer is out. </p>",
             "link_label": "Shop Now",
-            "link": "shopify://collections/freenote-cloth-warm-weather-collection-2025"
+            "link": "shopify://collections/freenote-cloth-warm-weather-collection-2025",
+            "custom_liquid": ""
           }
         },
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-1": {
@@ -81,7 +82,8 @@
             "title": "Wider. Bigger. Roomier.",
             "text": "<p>We've noticed a need from our customers for denim with wider legs and more room. We've heard your feedback and have started to incorporate roomier cuts with wider leg openings. Check out our current offerings if you've been wanting some denim with more width and room. </p>",
             "link_label": "Shop Wide",
-            "link": "shopify://collections/wide-leg-denim"
+            "link": "shopify://collections/wide-leg-denim",
+            "custom_liquid": ""
           }
         },
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-2": {
@@ -91,7 +93,8 @@
             "title": "Warm Weather Threads from Portugal",
             "text": "<p>The first drop from our Portuguese Flannel spring summer collection is here. It is the strongest collection we've ever done and it won't last long. </p>",
             "link_label": "Shop Now",
-            "link": "shopify://collections/portuguese-flannel-spring-summer-2025"
+            "link": "shopify://collections/portuguese-flannel-spring-summer-2025",
+            "custom_liquid": ""
           }
         }
       },
@@ -267,7 +270,8 @@
             "title": "Nic's Picks",
             "text": "",
             "link_label": "Browse Nic's Picks",
-            "link": "shopify://collections/sams-picks"
+            "link": "shopify://collections/sams-picks",
+            "custom_liquid": ""
           }
         },
         "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-2": {
@@ -277,7 +281,8 @@
             "title": "Ethan's Picks",
             "text": "",
             "link_label": "Browse Ethan's Picks",
-            "link": "shopify://collections/ethans-picks"
+            "link": "shopify://collections/ethans-picks",
+            "custom_liquid": ""
           }
         },
         "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-3": {
@@ -287,7 +292,8 @@
             "title": "Omar's Picks",
             "text": "",
             "link_label": "Browse Omar's Picks",
-            "link": "shopify://collections/omars-picks"
+            "link": "shopify://collections/omars-picks",
+            "custom_liquid": ""
           }
         }
       },
@@ -434,7 +440,8 @@
             "title": "Natural & Responsible Materials",
             "text": "<p>There's more to clothing than cotton. Mankind has been making clothes from a variety of natural materials for millenia. Linen, hemp, wool and more all find a home in our shop, used intentionally in garments suited for a variety of applications.</p>",
             "link_label": "More About Clothing Materials",
-            "link": "shopify://pages/natural-materials"
+            "link": "shopify://pages/natural-materials",
+            "custom_liquid": ""
           }
         },
         "164953719215a0a6df-1": {
@@ -444,7 +451,8 @@
             "title": "Made in the USA",
             "text": "<p>The road from seed to shirt is long, and it's a tall task for anyone to understand the entire supply chain. But we do our best, and work with brands who are transparent about their products. When we can't keep our dollars at home, we still strive to know where items come from.</p>",
             "link_label": "The Made in the USA Clothing Renaissance",
-            "link": "shopify://pages/made-in-the-usa"
+            "link": "shopify://pages/made-in-the-usa",
+            "custom_liquid": ""
           }
         },
         "164953719215a0a6df-2": {
@@ -454,7 +462,8 @@
             "title": "Buy Nice, Not Twice",
             "text": "<p>Americans buy more clothes than any other nation. It costs a bit more to shop the way we do, but by focusing on durable and versatile clothing in classic styles, our goal is for you to buy fewer things, like them better, and wear them more often.</p>",
             "link_label": "Your Clothing's Footprint",
-            "link": "shopify://pages/buy-nice-not-twice"
+            "link": "shopify://pages/buy-nice-not-twice",
+            "custom_liquid": ""
           }
         }
       },
