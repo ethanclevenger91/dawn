@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "It's Eugene Marathon Weekend!",
+            "heading": "Spring and Summer Knickerbocker",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Bring your race bib in for 15% off all weekend long",
+            "text": "Fun patterns, modern and casual fits.",
             "text_style": "body"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections/all",
+            "button_link_1": "shopify://collections/knickerbocker",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -53,7 +53,7 @@
         "image_height": "medium",
         "desktop_content_position": "middle-right",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "right",
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
