@@ -51,7 +51,19 @@
       ],
       "name": "Shop the Look",
       "settings": {
-        "image": "shopify://shop_images/FreenoteProduct202414421_54bb181f-bb22-41fe-9952-fbced14c5155.jpg"
+        "image": "shopify://shop_images/FreenoteProduct202414421_54bb181f-bb22-41fe-9952-fbced14c5155.jpg",
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "button_label": "Button label",
+        "button_link": "",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_desktop": 1,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_XATCFy": {
