@@ -181,8 +181,13 @@
         "title": "Harga Volume",
         "note": "Harga volume tersedia",
         "minimum": "{{ quantity }}+",
+<<<<<<< HEAD
         "price_at_each": "harga {{ price }}\/satuan",
         "price_range": "{{ minimum }} - {{ maximum }}"
+=======
+        "price_range": "{{ minimum }} - {{ maximum }}",
+        "price_at_each_html": "di {{ price }}/satuan"
+>>>>>>> v15.3.0
       },
       "taxes_included": "Termasuk pajak.",
       "duties_included": "Termasuk bea cukai.",

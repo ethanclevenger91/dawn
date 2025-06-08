@@ -182,8 +182,13 @@
         "title": "Popust na količinu",
         "note": "Dostupan je popust na količinu",
         "minimum": "Više od {{ quantity }}",
+<<<<<<< HEAD
         "price_at_each": "po cijeni od {{ price }}\/ea",
         "price_range": "{{ minimum }} – {{ maximum }}"
+=======
+        "price_range": "{{ minimum }} – {{ maximum }}",
+        "price_at_each_html": "po cijeni od {{ price }}/ea"
+>>>>>>> v15.3.0
       },
       "taxes_included": "Porezi su uključeni.",
       "duties_included": "Carina je uključena.",

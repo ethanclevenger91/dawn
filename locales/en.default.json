@@ -155,7 +155,11 @@
         "title": "Volume Pricing",
         "note": "Volume pricing available",
         "minimum": "{{ quantity }}+",
+<<<<<<< HEAD
         "price_at_each": "at {{ price }}\/ea",
+=======
+        "price_at_each_html": "at {{ price }}/ea",
+>>>>>>> v15.3.0
         "price_range": "{{ minimum }} - {{ maximum }}"
       },
       "pickup_availability": {
