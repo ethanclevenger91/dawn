@@ -34,11 +34,20 @@
             "top": 90,
             "left": 15
           }
+        },
+        "product_aCcH4Q": {
+          "type": "product",
+          "settings": {
+            "product": "ainsworth-distressed-dark-walnut-antique-brass-grey-polarized",
+            "top": 20,
+            "left": 10
+          }
         }
       },
       "block_order": [
         "product_ALMjED",
-        "product_YYt9Ea"
+        "product_YYt9Ea",
+        "product_aCcH4Q"
       ],
       "name": "Shop the Look",
       "settings": {
