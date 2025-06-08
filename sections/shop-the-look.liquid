@@ -194,7 +194,7 @@
       const dotPoints = document.querySelectorAll(
         ".shop-the-look-container .left-side .img-dot"
       );
-      const mySlider = document.getElementById("osamaslider2");
+      const mySlider = document.getElementById("Slider-{{ section.id }}");
       dotPoints.forEach((element) => {
         mySlider.setSlidePosition(2);
       });
@@ -202,7 +202,7 @@
     
     function selectSliderItem(dot) {
       var index = dot.getAttribute("data-index");
-      var slider = document.getElementById("osamaslider2");
+      var slider = document.getElementById("Slider-{{ section.id }}");
       slider.querySelectorAll("li").forEach(function (item, i) {
         if (i == index) {
           var position = item.offsetLeft;
