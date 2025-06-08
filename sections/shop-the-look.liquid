@@ -123,7 +123,7 @@
             <slider-component class="slider-mobile-gutter slider-component-full-width slider-component-desktop  scroll-trigger animate--slide-in">
               <ul
                 id="shop-the-look-slider-{{ section.id }}"
-                class="grid product-grid contains-card contains-card--product{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid--{{ section.settings.columns_desktop }}-col-desktop{% if section.settings.collection == blank %} grid--2-col-tablet-down{% else %} grid--{{ section.settings.columns_mobile }}-col-tablet-down{% endif %} slider slider--desktop slider--tablet grid--peek"
+                class="grid product-grid contains-card contains-card--product{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid--1-col-desktop slider slider--desktop slider--tablet grid--peek"
                 role="list"
                 data-autoplay="true"
                 aria-label="{{ 'general.slider.name' | t }}"
