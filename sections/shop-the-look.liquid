@@ -210,7 +210,7 @@
             left: position,
             behavior: "smooth",
           });
-          document.querySelectorAll(".shop-the-look-container #shop-the-look-{{ section.id }}-1 .img-dot.active").classList.remove('active')
+          document.querySelector(".shop-the-look-container #shop-the-look-{{ section.id }}-1 .img-dot.active").classList.remove('active')
           dot.classList.add('active')
         }
       });
