@@ -735,7 +735,7 @@ class SliderComponent extends HTMLElement {
     this.pageTotalElement = this.querySelector('.slider-counter--total');
     this.prevButton = this.querySelector('button[name="previous"]');
     this.nextButton = this.querySelector('button[name="next"]');
-
+  console.log(this.slider);console.log(this.nextButton);
     if (!this.slider || !this.nextButton) return;
 
     this.initPages();
