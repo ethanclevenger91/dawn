@@ -121,10 +121,10 @@
           {% endif %}
         >
           <div class="slider-container">
-            <slider-component class="slider-mobile-gutter slider-component-full-width slider-component-desktop  scroll-trigger animate--slide-in">
+            <slider-component class="slider-mobile-gutter slider-component-desktop{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
               <ul
                 id="Slider-{{ section.id }}"
-                class="grid grid--{{ section.settings.columns_mobile }}-col-tablet-down grid--{{ section.settings.columns_desktop }}-col-desktop slider slider--tablet grid--peek"
+                class="grid product-grid contains-card contains-card--product{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid--{{ section.settings.columns_desktop }}-col-desktop grid--{{ section.settings.columns_mobile }}-col-tablet-down slider slider--desktop slider--tablet grid--peek"
                 role="list"
                 data-autoplay="true"
                 aria-label="{{ 'general.slider.name' | t }}"
