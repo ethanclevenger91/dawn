@@ -202,8 +202,7 @@
     
     function selectSliderItem(dot) {
       var index = dot.getAttribute("data-index");
-      console.log(dot.closest('li'));
-      var slider = dot.closest('li').nextSibling.querySelector('.product-grid');
+      var slider = dot.closest('li').nextElementSibling.querySelector('.product-grid');
       slider.querySelectorAll("li").forEach(function (item, i) {
         if (i == index) {
           var position = item.offsetLeft;
