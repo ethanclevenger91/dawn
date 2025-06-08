@@ -196,7 +196,6 @@
       );
       const mySlider = document.getElementById("Slider-{{ section.id }}");
       dotPoints.forEach((element) => {
-        console.log(mySlider);
         mySlider.setSlidePosition(2);
       });
     });
@@ -204,7 +203,6 @@
     function selectSliderItem(dot) {
       var index = dot.getAttribute("data-index");
       var slider = dot.closest('li').nextSibling.querySelector('.product-grid');
-      console.log(slider)
       slider.querySelectorAll("li").forEach(function (item, i) {
         if (i == index) {
           var position = item.offsetLeft;
