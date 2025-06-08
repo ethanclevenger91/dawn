@@ -194,7 +194,7 @@
       const dotPoints = document.querySelectorAll(
         ".shop-the-look-container #shop-the-look-{{ section.id }}-1 .img-dot"
       );
-      const mySlider = document.getElementById("Slider-{{ section.id }}");
+      const mySlider = document.getElementById("Slider-{{ section.id }}").closest('slider-component');
       dotPoints.forEach((element) => {
         mySlider.setSlidePosition(2);
       });
