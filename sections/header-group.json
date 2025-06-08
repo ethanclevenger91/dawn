@@ -53,40 +53,10 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "shop_the_look_B4MJRB": {
-      "type": "shop-the-look",
-      "blocks": {
-        "product_T9QEdp": {
-          "type": "product",
-          "settings": {
-            "product": "easy-shirt-in-blue-linen-cats",
-            "top": 10,
-            "left": 10
-          }
-        },
-        "product_C6UGPi": {
-          "type": "product",
-          "settings": {
-            "product": "naked-famous-true-guy-in-high-noon-selvedge",
-            "top": 10,
-            "left": 10
-          }
-        }
-      },
-      "block_order": [
-        "product_T9QEdp",
-        "product_C6UGPi"
-      ],
-      "name": "Shop the Look",
-      "settings": {
-        "image": "shopify://shop_images/120126811_A_1100x_f0ac414c-ac3c-4bd7-ba4e-ab867317dcd7.jpg"
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "shop_the_look_B4MJRB"
+    "header"
   ]
 }
