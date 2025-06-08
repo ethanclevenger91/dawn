@@ -23,16 +23,16 @@
           "type": "product",
           "settings": {
             "product": "cats-in-space-in-blue",
-            "top": 10,
-            "left": 10
+            "top": 30,
+            "left": 15
           }
         },
         "product_YYt9Ea": {
           "type": "product",
           "settings": {
             "product": "ph-p10101l-jepson-in-hickory-plaid",
-            "top": 10,
-            "left": 10
+            "top": 90,
+            "left": 15
           }
         }
       },
@@ -97,15 +97,70 @@
         "background_style": "primary",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "slideshow_FT9K3x": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_dc8PaY": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_x8GPN7": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_dc8PaY",
+        "slide_x8GPN7"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     }
   },
   "order": [
     "main",
     "shop_the_look_F7BKgj",
-    "multicolumn_XATCFy"
+    "multicolumn_XATCFy",
+    "slideshow_FT9K3x"
   ]
 }
