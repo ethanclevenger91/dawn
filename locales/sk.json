@@ -183,13 +183,8 @@
         "title": "Objemové ceny",
         "note": "Dostupné objemové ceny",
         "minimum": "{{ quantity }}+",
-<<<<<<< HEAD
-        "price_at_each": "{{ price }}\/kus",
-        "price_range": "{{ minimum }} – {{ maximum }}"
-=======
         "price_range": "{{ minimum }} – {{ maximum }}",
         "price_at_each_html": "{{ price }}/kus"
->>>>>>> v15.3.0
       },
       "taxes_included": "Vrátane daní.",
       "duties_included": "Vrátane ciel.",

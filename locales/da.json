@@ -180,13 +180,8 @@
         "title": "Mængderabat",
         "note": "Mængderabat tilgængelig",
         "minimum": "Mere end {{ quantity }}",
-<<<<<<< HEAD
-        "price_at_each": "til {{ price }}\/stk",
-        "price_range": "{{ minimum }} – {{ maximum }}"
-=======
         "price_range": "{{ minimum }} – {{ maximum }}",
         "price_at_each_html": "til {{ price }} pr. stk."
->>>>>>> v15.3.0
       },
       "product_variants": "Produktvarianter",
       "taxes_included": "Inklusive skatter.",

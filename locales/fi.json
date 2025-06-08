@@ -180,13 +180,8 @@
         "title": "Volyymihinnoittelu",
         "note": "Volyymihinnoittelu saatavilla",
         "minimum": "Yli {{ quantity }}",
-<<<<<<< HEAD
-        "price_at_each": "{{ price }}\/kpl",
-        "price_range": "{{ minimum }} - {{ maximum }}"
-=======
         "price_range": "{{ minimum }} - {{ maximum }}",
         "price_at_each_html": "{{ price }}/kpl"
->>>>>>> v15.3.0
       },
       "product_variants": "Tuoteversiot",
       "taxes_included": "Sisältää verot.",

@@ -181,13 +181,8 @@
         "title": "Preços por volume",
         "note": "Os preços por volume estão disponíveis",
         "minimum": "Mais de {{ quantity }}",
-<<<<<<< HEAD
-        "price_at_each": "{{ price }}\/cada",
-        "price_range": "{{ minimum }} – {{ maximum }}"
-=======
         "price_range": "{{ minimum }} – {{ maximum }}",
         "price_at_each_html": "{{ price }}/cada"
->>>>>>> v15.3.0
       },
       "product_variants": "Variantes do produto",
       "taxes_included": "Tributos incluídos.",

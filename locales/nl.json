@@ -180,13 +180,8 @@
         "title": "Volumeprijsstelling",
         "note": "Volumeprijsstelling beschikbaar",
         "minimum": "Meer dan {{ quantity }}",
-<<<<<<< HEAD
-        "price_at_each": "{{ price }}\/st.",
-        "price_range": "{{ minimum }} - {{ maximum }}"
-=======
         "price_range": "{{ minimum }} - {{ maximum }}",
         "price_at_each_html": "{{ price }}/st."
->>>>>>> v15.3.0
       },
       "product_variants": "Productvarianten",
       "taxes_included": "Belastingen inbegrepen.",

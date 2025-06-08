@@ -180,13 +180,8 @@
         "title": "Toplu Alım Bazlı Fiyatlandırma",
         "note": "Toplu alım bazlı fiyatlandırma kullanılabilir",
         "minimum": "{{ quantity }}+",
-<<<<<<< HEAD
-        "price_at_each": "{{ price }}\/adet",
-        "price_range": "{{ minimum }} - {{ maximum }}"
-=======
         "price_range": "{{ minimum }} - {{ maximum }}",
         "price_at_each_html": "{{ price }}/adet"
->>>>>>> v15.3.0
       },
       "product_variants": "Ürün varyasyonları",
       "taxes_included": "Vergiler dahil.",

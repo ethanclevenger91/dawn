@@ -40,12 +40,7 @@
       "name": "字體",
       "settings": {
         "type_header_font": {
-<<<<<<< HEAD
-          "label": "字型",
-          "info": "選取不同字型會影響商店速度。[深入瞭解系統字型。](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
-=======
           "label": "字型"
->>>>>>> v15.3.0
         },
         "header__1": {
           "content": "標題"
@@ -54,12 +49,7 @@
           "content": "內文"
         },
         "type_body_font": {
-<<<<<<< HEAD
-          "label": "字型",
-          "info": "選取不同字型會影響商店速度。[深入瞭解系統字型。](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
-=======
           "label": "字型"
->>>>>>> v15.3.0
         },
         "heading_scale": {
           "label": "縮放比例"
@@ -249,11 +239,7 @@
     },
     "variant_pills": {
       "name": "子類藥丸",
-<<<<<<< HEAD
-      "paragraph": "子類藥丸是顯示商品子類選項的一種方式。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
-=======
       "paragraph": "子類圓鈕是顯示[商品子類](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types/product-pages#variant-picker-block)的一種方式"
->>>>>>> v15.3.0
     },
     "inputs": {
       "name": "輸入"
@@ -497,28 +483,6 @@
         "change_slides_speed": {
           "label": "變更頻率"
         },
-<<<<<<< HEAD
-        "header__1": {
-          "content": "社群媒體圖示",
-          "info": "若要顯示社群媒體帳號，請在您的 [佈景主題設定](\/editor?context=theme&category=social%20media) 中連接帳號。"
-        },
-        "header__2": {
-          "content": "公告"
-        },
-        "show_social": {
-          "label": "在電腦版顯示圖示"
-        },
-        "header__3": {
-          "content": "國家\/地區選擇器",
-          "info": "若要新增國家\/地區，請前往 [市場設定](\/admin\/settings\/markets)"
-        },
-        "enable_country_selector": {
-          "label": "啟用國家\/地區選擇器"
-        },
-        "header__4": {
-          "content": "語言選擇器",
-          "info": "若要新增語言，請前往 [語言設定。](\/admin\/settings\/languages)"
-=======
         "show_social": {
           "label": "社群媒體圖示",
           "info": "[管理社群帳號](/editor?context=theme&category=social%20media)"
@@ -526,7 +490,6 @@
         "enable_country_selector": {
           "label": "國家/地區選擇器",
           "info": "[管理國家/地區](/admin/settings/markets)"
->>>>>>> v15.3.0
         },
         "enable_language_selector": {
           "label": "語言選擇器",
@@ -653,12 +616,7 @@
           },
           "options__3": {
             "label": "正方形"
-<<<<<<< HEAD
-          },
-          "info": "編輯您的商品系列以新增圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/products\/collections)"
-=======
           }
->>>>>>> v15.3.0
         },
         "swipe_on_mobile": {
           "label": "輪播"
@@ -742,12 +700,7 @@
           "info": "當網誌的貼文數量超過顯示數量時將可見"
         },
         "show_image": {
-<<<<<<< HEAD
-          "label": "顯示精選圖片",
-          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           "label": "主要圖片"
->>>>>>> v15.3.0
         },
         "show_date": {
           "label": "日期"
@@ -808,13 +761,8 @@
           "label": "廠商"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "顯示產品評等",
-          "info": "新增產品評等應用程式，即可顯示評等。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-collection-show-product-rating)"
-=======
           "label": "商品評價",
           "info": "應用程式須有評分。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-collection-show-product-rating)"
->>>>>>> v15.3.0
         },
         "enable_quick_buy": {
           "label": "快速新增"
@@ -916,22 +864,11 @@
           "name": "品牌資訊",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "此區塊將顯示您的品牌資訊。[編輯品牌資訊。](\/editor?context=theme&category=brand%20information)"
-            },
-            "header__1": {
-              "content": "社群媒體圖示"
-            },
-            "show_social": {
-              "label": "顯示社群媒體圖示",
-              "info": "若要顯示您的社群媒體帳號，請在您的 [佈景主題設定](\/editor?context=theme&category=social%20media) 中連接帳號。"
-=======
               "content": "在[佈景主題設定](/editor?context=theme&category=brand%20information)管理品牌資訊"
             },
             "show_social": {
               "label": "社群媒體圖示",
               "info": "[管理社群帳號](/editor?context=theme&category=social%20media)"
->>>>>>> v15.3.0
             }
           }
         }
@@ -945,32 +882,6 @@
           "default": "訂閱我們的電子郵件"
         },
         "header__1": {
-<<<<<<< HEAD
-          "info": "訂閱者已自動新增至您的「接受行銷」顧客名單。[瞭解詳情](https:\/\/help.shopify.com\/manual\/customers\/manage-customers)",
-          "content": "電子郵件訂閱"
-        },
-        "header__2": {
-          "content": "社群媒體圖示",
-          "info": "若要顯示您的社群媒體帳號，請在您的 [佈景主題設定](\/editor?context=theme&category=social%20media) 中連接帳號。"
-        },
-        "show_social": {
-          "label": "顯示社群媒體圖示"
-        },
-        "header__3": {
-          "content": "國家\/地區選擇器"
-        },
-        "header__4": {
-          "info": "若要新增國家\/地區，請前往 [市場設定](\/admin\/settings\/markets)。"
-        },
-        "enable_country_selector": {
-          "label": "啟用國家\/地區選擇器"
-        },
-        "header__5": {
-          "content": "語言選擇器"
-        },
-        "header__6": {
-          "info": "若要新增語言，請前往 [language settings](\/admin\/settings\/languages)。"
-=======
           "info": "註冊新增[顧客個檔](https://help.shopify.com/manual/customers/manage-customers)",
           "content": "電子郵件訂閱"
         },
@@ -981,7 +892,6 @@
         "enable_country_selector": {
           "label": "國家/地區選擇器",
           "info": "[管理國家/地區](/admin/settings/markets)"
->>>>>>> v15.3.0
         },
         "enable_language_selector": {
           "label": "語言選擇器",
@@ -993,24 +903,12 @@
         "margin_top": {
           "label": "上方邊界"
         },
-<<<<<<< HEAD
-        "header__8": {
-          "content": "政策連結",
-          "info": "若要新增商店政策，請前往 [政策設定](\/admin\/settings\/legal)]。"
-        },
-=======
->>>>>>> v15.3.0
         "show_policy": {
           "label": "政策連結",
           "info": "[管理政策](/admin/settings/legal)"
         },
         "header__9": {
-<<<<<<< HEAD
-          "content": "在 Shop 上追蹤",
-          "info": "若要允許顧客透過您的店面在 Shop 應用程式上追蹤您的商店，您必須啟用 Shop Pay。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
-=======
           "content": "公用事業"
->>>>>>> v15.3.0
         },
         "enable_follow_on_shop": {
           "label": "在 Shop 上追蹤",
@@ -1067,11 +965,7 @@
           }
         },
         "logo_help": {
-<<<<<<< HEAD
-          "content": "在 [編輯佈景主題設定](\/editor?context=theme&category=logo) 中編輯標誌。"
-=======
           "content": "在[佈景主題設定](/editor?context=theme&category=logo)中編輯標誌"
->>>>>>> v15.3.0
         },
         "sticky_header_type": {
           "label": "固定式頁首",
@@ -1088,26 +982,9 @@
             "label": "永遠顯示，縮小標誌尺寸"
           }
         },
-<<<<<<< HEAD
-        "header__3": {
-          "content": "國家\/地區選擇器"
-        },
-        "header__4": {
-          "info": "若要新增國家\/地區，請前往 [市場設定](\/admin\/settings\/markets)"
-        },
-        "enable_country_selector": {
-          "label": "啟用國家\/地區選擇器"
-        },
-        "header__5": {
-          "content": "語言選擇器"
-        },
-        "header__6": {
-          "info": "若要新增語言，請前往 [語言設定。](\/admin\/settings\/languages)"
-=======
         "enable_country_selector": {
           "label": "國家/地區選擇器",
           "info": "[管理國家/地區](/admin/settings/markets)"
->>>>>>> v15.3.0
         },
         "enable_language_selector": {
           "label": "語言選擇器",
@@ -1119,13 +996,6 @@
         "menu_color_scheme": {
           "label": "選單顏色配置"
         },
-<<<<<<< HEAD
-        "header__7": {
-          "content": "顧客帳號登入",
-          "info": "若要管理顧客帳號，請前往您的[顧客帳號設定](\/admin\/settings\/customer_accounts)。"
-        },
-=======
->>>>>>> v15.3.0
         "enable_customer_avatar": {
           "label": "顧客帳號大頭貼",
           "info": "僅在顧客登入 Shop 時可見。[管理顧客帳號](/admin/settings/customer_accounts)"
@@ -1167,10 +1037,6 @@
           "options__3": {
             "label": "中"
           },
-<<<<<<< HEAD
-          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
-=======
->>>>>>> v15.3.0
           "options__4": {
             "label": "大"
           }
@@ -1412,13 +1278,8 @@
         "text": {
           "settings": {
             "text": {
-<<<<<<< HEAD
-              "label": "內容",
-              "default": "<p>文字搭配圖片，以便強調特定商品、商品系列或網誌文章。您可以加上各種有關可用性、樣式的詳細資料，甚至可以提供使用心得。<\/p>"
-=======
               "label": "文字",
               "default": "<p>文字搭配圖片，以便強調特定商品、商品系列或網誌文章。您可以加上各種有關可用性、樣式的詳細資料，甚至可以提供使用心得。</p>"
->>>>>>> v15.3.0
             },
             "text_style": {
               "label": "樣式",
@@ -1499,10 +1360,6 @@
               "options__3": {
                 "label": "中等"
               },
-<<<<<<< HEAD
-              "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
-=======
->>>>>>> v15.3.0
               "options__4": {
                 "label": "大"
               }
@@ -1527,15 +1384,6 @@
         "share": {
           "name": "分享",
           "settings": {
-<<<<<<< HEAD
-            "featured_image_info": {
-              "content": "若您在社群媒體貼文加入連結，則此頁面的主要圖片會顯示為預覽圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)。"
-            },
-            "title_info": {
-              "content": "商店名稱和說明包含在預覽圖片中。[瞭解詳情](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
-            },
-=======
->>>>>>> v15.3.0
             "text": {
               "label": "文字",
               "default": "分享"
@@ -1548,14 +1396,7 @@
       "name": "網誌文章",
       "settings": {
         "show_image": {
-<<<<<<< HEAD
-          "label": "顯示精選圖片"
-        },
-        "paragraph": {
-          "content": "編輯您的網誌文章以變更摘要。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
-=======
           "label": "主要圖片"
->>>>>>> v15.3.0
         },
         "show_date": {
           "label": "日期"
@@ -1585,12 +1426,7 @@
           },
           "options__4": {
             "label": "大"
-<<<<<<< HEAD
-          },
-          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           }
->>>>>>> v15.3.0
         }
       }
     },
@@ -1612,22 +1448,13 @@
       "name": "商品系列橫幅",
       "settings": {
         "paragraph": {
-<<<<<<< HEAD
-          "content": "編輯您的商品系列以新增說明或圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
-=======
           "content": "商品系列詳情會由[您的管理員面板](https://help.shopify.com/manual/products/collections/collection-layout)管理"
->>>>>>> v15.3.0
         },
         "show_collection_description": {
           "label": "說明"
         },
         "show_collection_image": {
-<<<<<<< HEAD
-          "label": "顯示商品系列圖片",
-          "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           "label": "圖片"
->>>>>>> v15.3.0
         }
       }
     },
@@ -1659,21 +1486,12 @@
           "content": "篩選與排序"
         },
         "enable_tags": {
-<<<<<<< HEAD
-          "label": "啟用篩選",
-          "info": "使用 Search & Discovery 應用程式來自訂篩選條件。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
-        },
-        "enable_filtering": {
-          "label": "啟用篩選",
-          "info": "使用 Search & Discovery 應用程式來自訂篩選條件。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
-=======
           "label": "篩選條件",
           "info": "使用 [Search & Discovery 應用程式](https://help.shopify.com/manual/online-store/search-and-discovery/filters)自訂篩選條件"
         },
         "enable_filtering": {
           "label": "篩選條件",
           "info": "使用 [Search & Discovery 應用程式](https://help.shopify.com/manual/online-store/search-and-discovery/filters)自訂篩選條件"
->>>>>>> v15.3.0
         },
         "enable_sorting": {
           "label": "排序"
@@ -1682,13 +1500,8 @@
           "content": "產品卡"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "顯示產品評等",
-          "info": "新增產品評等應用程式，即可顯示評等。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-grid-section-settings)"
-=======
           "label": "商品評價",
           "info": "應用程式須有商品評價。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types/collection-pages#product-grid-show-product-rating)"
->>>>>>> v15.3.0
         },
         "columns_desktop": {
           "label": "欄"
@@ -1762,12 +1575,7 @@
           },
           "options__3": {
             "label": "正方形"
-<<<<<<< HEAD
-          },
-          "info": "編輯您的商品系列以新增圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/products\/collections)"
-=======
           }
->>>>>>> v15.3.0
         },
         "columns_desktop": {
           "label": "欄"
@@ -1838,11 +1646,7 @@
             },
             "swatch_shape": {
               "label": "色樣",
-<<<<<<< HEAD
-              "info": "為商品選項啟用 [色樣](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches)。",
-=======
               "info": "瞭解為商品選項啟用 [色樣](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches)的詳情。",
->>>>>>> v15.3.0
               "options__1": {
                 "label": "圓形"
               },
@@ -1858,36 +1662,18 @@
         "buy_buttons": {
           "settings": {
             "show_dynamic_checkout": {
-<<<<<<< HEAD
-              "label": "顯示動態結帳按鈕",
-              "info": "顧客可以使用您商店可用的付款方式，看見其偏好選項，如 PayPal 或 Apple Pay 。[深入瞭解相關資訊](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
-            },
-            "show_gift_card_recipient": {
-              "label": "顯示禮品卡的收件人資訊表單",
-              "info": "允許買家在排定的日期傳送禮品卡及個人化訊息。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
-=======
               "label": "動態結帳按鈕",
               "info": "顧客將看到自己偏好的付款選項。[瞭解詳情](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": " 禮品卡傳送選項",
               "info": "顧客可新增個人訊息並安排傳送的日期。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
->>>>>>> v15.3.0
             }
           },
           "name": "購買按鈕"
         },
         "share": {
           "settings": {
-<<<<<<< HEAD
-            "featured_image_info": {
-              "content": "若您在社群媒體貼文加入連結，則此頁面的主要圖片會顯示為預覽圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)。"
-            },
-            "title_info": {
-              "content": "商店名稱和說明包含在預覽圖片中。[瞭解詳情](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
-            },
-=======
->>>>>>> v15.3.0
             "text": {
               "label": "文字",
               "default": "分享"
@@ -2076,11 +1862,7 @@
           "name": "產品評等",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "新增產品評等應用程式，即可顯示評等。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
-=======
               "content": "應用程式須有商品評價。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types/product-pages#product-rating-block)"
->>>>>>> v15.3.0
             }
           }
         },
@@ -2088,11 +1870,7 @@
           "name": "配套商品",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "若要選取配套商品，請新增 Search & Discovery 應用程式。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
-=======
               "content": "透過 [Search & Discovery 應用程式](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)管理配套商品"
->>>>>>> v15.3.0
             },
             "heading": {
               "label": "標題",
@@ -2233,12 +2011,7 @@
       },
       "settings": {
         "header": {
-<<<<<<< HEAD
-          "content": "多媒體檔案",
-          "info": "深入瞭解 [多媒體檔案類型。](https:\/\/help.shopify.com\/manual\/products\/product-media)"
-=======
           "content": "多媒體檔案"
->>>>>>> v15.3.0
         },
         "enable_video_looping": {
           "label": "循環播放影片"
@@ -2357,13 +2130,8 @@
           "label": "作者"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "顯示產品評等",
-          "info": "新增產品評等應用程式，即可顯示評等。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#search-results-section-settings)"
-=======
           "label": "商品評價",
           "info": "應用程式須有商品評價。[瞭解詳情](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types/search-page)"
->>>>>>> v15.3.0
         },
         "columns_desktop": {
           "label": "欄"
@@ -2506,11 +2274,7 @@
           "label": "全寬度"
         },
         "paragraph": {
-<<<<<<< HEAD
-          "content": "每筆電子郵件訂閱都會建立顧客帳號。[瞭解詳情](https:\/\/help.shopify.com\/manual\/customers)"
-=======
           "content": "註冊新增[顧客個檔](https://help.shopify.com/manual/customers/manage-customers)"
->>>>>>> v15.3.0
         }
       },
       "blocks": {
@@ -2526,13 +2290,8 @@
         "paragraph": {
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "label": "說明",
-              "default": "<p>搶先收到新商品系列和專屬優惠的消息。<\/p>"
-=======
               "label": "文字",
               "default": "<p>搶先收到新商品系列和專屬優惠的消息。</p>"
->>>>>>> v15.3.0
             }
           },
           "name": "文字"
@@ -2600,13 +2359,8 @@
         "text": {
           "settings": {
             "text": {
-<<<<<<< HEAD
-              "label": "說明",
-              "default": "<p>和顧客分享品牌資訊、描述商品、進行公告，或歡迎顧客光臨您的商店。<\/p>"
-=======
               "label": "文字",
               "default": "<p>和顧客分享品牌資訊、描述商品、進行公告，或歡迎顧客光臨您的商店。</p>"
->>>>>>> v15.3.0
             }
           },
           "name": "文字"
@@ -2705,11 +2459,7 @@
         },
         "description": {
           "label": "影片替代文字",
-<<<<<<< HEAD
-          "info": "為使用螢幕助讀程式的顧客說明該影片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video)"
-=======
           "info": "為使用螢幕助讀程式的顧客說明影片內容"
->>>>>>> v15.3.0
         },
         "image_padding": {
           "label": "新增圖片邊框間距",
@@ -2788,11 +2538,7 @@
             },
             "swatch_shape": {
               "label": "色樣",
-<<<<<<< HEAD
-              "info": "為商品選項啟用 [色樣](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches)。",
-=======
               "info": "瞭解為商品選項啟用 [色樣](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches)的詳情。",
->>>>>>> v15.3.0
               "options__1": {
                 "label": "圓形"
               },
@@ -2809,13 +2555,8 @@
           "name": "購買按鈕",
           "settings": {
             "show_dynamic_checkout": {
-<<<<<<< HEAD
-              "label": "顯示動態結帳按鈕",
-              "info": "顧客可透過您商店的可用付款方式，看到其偏好選項 (如 PayPal 或 Apple Pay)。[瞭解詳情](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
-=======
               "label": "動態結帳按鈕",
               "info": "顧客將看到自己偏好的付款選項。[瞭解詳情](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
->>>>>>> v15.3.0
             }
           }
         },
@@ -2841,11 +2582,7 @@
           "name": "產品評等",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "新增產品評等應用程式，即可顯示評等。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-product-rating)"
-=======
               "content": "應用程式須有商品評價。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-product-rating)"
->>>>>>> v15.3.0
             }
           }
         },
@@ -2875,12 +2612,7 @@
           "label": "次要背景"
         },
         "header": {
-<<<<<<< HEAD
-          "content": "多媒體檔案",
-          "info": "深入瞭解 [多媒體檔案類型](https:\/\/help.shopify.com\/manual\/products\/product-media)"
-=======
           "content": "多媒體檔案"
->>>>>>> v15.3.0
         },
         "enable_video_looping": {
           "label": "循環播放影片"
@@ -2907,11 +2639,7 @@
       "name": "電子郵件訂閱橫幅",
       "settings": {
         "paragraph": {
-<<<<<<< HEAD
-          "content": "每筆電子郵件訂閱都會建立顧客帳號。[瞭解詳情](https:\/\/help.shopify.com\/manual\/customers)"
-=======
           "content": "註冊新增[顧客個檔](https://help.shopify.com/manual/customers/manage-customers)"
->>>>>>> v15.3.0
         },
         "image": {
           "label": "背景圖片"
@@ -2926,12 +2654,7 @@
           "label": "疊加層不透明度"
         },
         "show_text_below": {
-<<<<<<< HEAD
-          "label": "在行動版圖片下方顯示內容",
-          "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           "label": "將文字堆疊在圖片下方"
->>>>>>> v15.3.0
         },
         "image_height": {
           "label": "高度",
@@ -2946,12 +2669,7 @@
           },
           "options__4": {
             "label": "大"
-<<<<<<< HEAD
-          },
-          "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           }
->>>>>>> v15.3.0
         },
         "desktop_content_position": {
           "options__4": {
@@ -3031,13 +2749,8 @@
           "name": "文字",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "label": "說明",
-              "default": "<p>搶先收到產品發佈消息。<\/p>"
-=======
               "label": "文字",
               "default": "<p>搶先收到產品發佈消息。</p>"
->>>>>>> v15.3.0
             },
             "text_style": {
               "options__1": {
@@ -3488,11 +3201,7 @@
           "label": "欄"
         },
         "paragraph__1": {
-<<<<<<< HEAD
-          "content": "動態推薦會使用訂單和商品資訊，以隨著時間改變與改進。[瞭解詳情](https:\/\/help.shopify.com\/themes\/development\/recommended-products)",
-=======
           "content": "可使用 [Search & Discovery 應用程式](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)管理相關商品",
->>>>>>> v15.3.0
           "default": "您也可能喜歡"
         },
         "header__2": {
@@ -3517,16 +3226,8 @@
           "label": "廠商"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "顯示商品評等",
-          "info": "新增商品評等應用程式，即可顯示評等。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
-        },
-        "header_mobile": {
-          "content": "行動版版面配置"
-=======
           "label": "商品評價",
           "info": "應用程式須有商品評價。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-product-recommendations)"
->>>>>>> v15.3.0
         },
         "columns_mobile": {
           "label": "行動裝置欄",

@@ -182,13 +182,8 @@
         "title": "Ceny zależne od wolumenu",
         "note": "Ceny zależne od wolumenu są dostępne",
         "minimum": "{{ quantity }}+",
-<<<<<<< HEAD
-        "price_at_each": "{{ price }}\/szt.",
-        "price_range": "{{ minimum }} - {{ maximum }}"
-=======
         "price_range": "{{ minimum }} - {{ maximum }}",
         "price_at_each_html": "{{ price }}/szt."
->>>>>>> v15.3.0
       },
       "product_variants": "Warianty produktów",
       "taxes_included": "Z wliczonymi podatkami.",

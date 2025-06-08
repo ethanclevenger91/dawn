@@ -40,12 +40,7 @@
       "name": "Typografi",
       "settings": {
         "type_header_font": {
-<<<<<<< HEAD
-          "label": "Typsnitt",
-          "info": "Om du väljer ett annat typsnitt kan det påverka butikshastigheten. [Lär dig mer om typsnitt i system.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
-=======
           "label": "Typsnitt"
->>>>>>> v15.3.0
         },
         "header__1": {
           "content": "Rubriker"
@@ -54,12 +49,7 @@
           "content": "Brödtext"
         },
         "type_body_font": {
-<<<<<<< HEAD
-          "label": "Typsnitt",
-          "info": "Om du väljer ett annat typsnitt kan det påverka butikshastigheten. [Lär dig mer om typsnitt i system.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
-=======
           "label": "Typsnitt"
->>>>>>> v15.3.0
         },
         "heading_scale": {
           "label": "Skala"
@@ -235,11 +225,7 @@
     },
     "variant_pills": {
       "name": "Variantkapslar",
-<<<<<<< HEAD
-      "paragraph": "Variantpiller är ett sätt att visa produktvarianter på. [Mer information](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
-=======
       "paragraph": "Variantpiller är ett sätt att visa dina [produktvarianter](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types/product-pages#variant-picker-block)"
->>>>>>> v15.3.0
     },
     "inputs": {
       "name": "Inmatningar"
@@ -497,28 +483,6 @@
         "change_slides_speed": {
           "label": "Byt varje"
         },
-<<<<<<< HEAD
-        "header__1": {
-          "content": "Sociala medier-ikoner",
-          "info": "Visa dina sociala medier-konton genom att länka dem i dina [tema-inställningar](\/editor?context=theme&category=social%20media)."
-        },
-        "header__2": {
-          "content": "Meddelanden"
-        },
-        "show_social": {
-          "label": "Visa ikoner på skrivbordet"
-        },
-        "header__3": {
-          "content": "Land-\/regionväljare",
-          "info": "Om du vill lägga till land\/region så går du till [marknadsinställningar.](\/admin\/settings\/markets)"
-        },
-        "enable_country_selector": {
-          "label": "Aktivera land\/regionväljare"
-        },
-        "header__4": {
-          "content": "Språkväljare",
-          "info": "Om du vill lägga till ett språk så går du till [språkinställningar.](\/admin\/settings\/languages)"
-=======
         "show_social": {
           "label": "Sociala medier-ikoner",
           "info": "[Hantera sociala konton](/editor?context=theme&category=social%20media)"
@@ -526,7 +490,6 @@
         "enable_country_selector": {
           "label": "Land-/regionväljare",
           "info": "[Hantera länder/regioner](/admin/settings/markets)"
->>>>>>> v15.3.0
         },
         "enable_language_selector": {
           "label": "Språkväljare",
@@ -653,12 +616,7 @@
           },
           "options__3": {
             "label": "Fyrkantig"
-<<<<<<< HEAD
-          },
-          "info": "Lägg till bilder genom att redigera dina produktserier. [Mer information](https:\/\/help.shopify.com\/manual\/products\/collections)"
-=======
           }
->>>>>>> v15.3.0
         },
         "swipe_on_mobile": {
           "label": "Karusell"
@@ -742,12 +700,7 @@
           "info": "Synligt om bloggen har fler poster än vad som visas"
         },
         "show_image": {
-<<<<<<< HEAD
-          "label": "Visa framhävd bild",
-          "info": "Använd en bild med bildformat 3:2, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           "label": "Utvald bild"
->>>>>>> v15.3.0
         },
         "show_date": {
           "label": "Datum"
@@ -808,13 +761,8 @@
           "label": "Säljare"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "Visa produktbetyg",
-          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-collection-show-product-rating)"
-=======
           "label": "Produktbetyg",
           "info": "En app krävs för bedömningar. [Mer information](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-collection-show-product-rating)"
->>>>>>> v15.3.0
         },
         "enable_quick_buy": {
           "label": "Lägg till direkt"
@@ -916,22 +864,11 @@
           "name": "Varumärkesinformation",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "Detta block kommer visa din varumärkesinformation. [Redigera varumärkesinformation.](\/editor?context=theme&category=brand%20information)"
-            },
-            "header__1": {
-              "content": "Sociala medier-ikoner"
-            },
-            "show_social": {
-              "label": "Visa sociala medier-ikoner",
-              "info": "För att visa dina sociala medier-konton, länka dem i dina [tema-inställningar](\/editor?context=theme&category=social%20media)."
-=======
               "content": "Hantera varumärkesinformation i [temainställningarna](/editor?context=theme&category=brand%20information)"
             },
             "show_social": {
               "label": "Sociala medier-ikoner",
               "info": "[Hantera sociala konton](/editor?context=theme&category=social%20media)"
->>>>>>> v15.3.0
             }
           }
         }
@@ -945,32 +882,6 @@
           "default": "Prenumerera på e-post från oss"
         },
         "header__1": {
-<<<<<<< HEAD
-          "info": "Prenumeranter som lagts till automatiskt till listan med ”accepterar marknadsföring”. [Mer information](https:\/\/help.shopify.com\/manual\/customers\/manage-customers)",
-          "content": "E-postregistrering"
-        },
-        "header__2": {
-          "content": "Sociala medier-ikoner",
-          "info": "För att visa dina sociala medier-konton, länka dem i dina [tema-inställningar](\/editor?context=theme&category=social%20media)."
-        },
-        "show_social": {
-          "label": "Visa sociala medier-ikoner"
-        },
-        "header__3": {
-          "content": "Land\/region-väljare"
-        },
-        "header__4": {
-          "info": "Om du vill lägga till land\/region går du till dina [marknadsinställningar.](\/admin\/settings\/markets)"
-        },
-        "enable_country_selector": {
-          "label": "Aktivera land\/region-väljare"
-        },
-        "header__5": {
-          "content": "Språkväljare"
-        },
-        "header__6": {
-          "info": "Om du vill lägga till ett språk går du till dina [språkinställningar.](\/admin\/settings\/languages)"
-=======
           "info": "Lägg till registreringar [kundprofiler](https://help.shopify.com/manual/customers/manage-customers)",
           "content": "E-postregistrering"
         },
@@ -981,7 +892,6 @@
         "enable_country_selector": {
           "label": "Land-/regionväljare",
           "info": "[Hantera länder/regioner](/admin/settings/markets)"
->>>>>>> v15.3.0
         },
         "enable_language_selector": {
           "label": "Språkväljare",
@@ -993,24 +903,12 @@
         "margin_top": {
           "label": "Övre marginal"
         },
-<<<<<<< HEAD
-        "header__8": {
-          "content": "Policylänkar",
-          "info": "Gå till dina [policyinställningar ](\/admin\/settings\/legal) för att lägga till butikspolicyer."
-        },
-=======
->>>>>>> v15.3.0
         "show_policy": {
           "label": "Policylänkar",
           "info": "[Hantera policyer](/admin/settings/legal)"
         },
         "header__9": {
-<<<<<<< HEAD
-          "content": "Följ på Shop",
-          "info": "Shop Pay måste aktiveras för att kunder ska kunna följa din butik i Shop-appen från ditt skyltfönster. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
-=======
           "content": "Verktyg"
->>>>>>> v15.3.0
         },
         "enable_follow_on_shop": {
           "label": "Följ på Shop",
@@ -1067,11 +965,7 @@
           }
         },
         "logo_help": {
-<<<<<<< HEAD
-          "content": "Redigera din logotyp i [temainställningarna](\/editor?context=theme&category=logo)."
-=======
           "content": "Redigera din logotyp i [temainställningarna](/editor?context=theme&category=logo)"
->>>>>>> v15.3.0
         },
         "sticky_header_type": {
           "label": "Fast sidhuvud",
@@ -1088,26 +982,9 @@
             "label": "Alltid, minska logotypstorlek"
           }
         },
-<<<<<<< HEAD
-        "header__3": {
-          "content": "Land\/region-väljare"
-        },
-        "header__4": {
-          "info": "Om du vill lägga till land\/region går du till dina [marknadsinställningar.](\/admin\/settings\/markets)"
-        },
-        "enable_country_selector": {
-          "label": "Aktivera land\/region-väljare"
-        },
-        "header__5": {
-          "content": "Språkväljare"
-        },
-        "header__6": {
-          "info": "Om du vill lägga till ett språk går du till dina [språkinställningar.](\/admin\/settings\/languages)"
-=======
         "enable_country_selector": {
           "label": "Land-/regionväljare",
           "info": "[Hantera länder/regioner](/admin/settings/markets)"
->>>>>>> v15.3.0
         },
         "enable_language_selector": {
           "label": "Språkväljare",
@@ -1119,13 +996,6 @@
         "menu_color_scheme": {
           "label": "Färgschema för meny"
         },
-<<<<<<< HEAD
-        "header__7": {
-          "content": "Inloggning till kundkonton",
-          "info": "Gå till [kundkontoinställningar](\/admin\/settings\/customer_accounts) för att hantera kundkonton."
-        },
-=======
->>>>>>> v15.3.0
         "enable_customer_avatar": {
           "label": "Avatar för kundkonto",
           "info": "Visas endast när kunder är inloggade med Shop. [Hantera kundkonton](/admin/settings/customer_accounts)"
@@ -1167,10 +1037,6 @@
           "options__3": {
             "label": "Medel"
           },
-<<<<<<< HEAD
-          "info": "Använd en bild med bildformat 3:2, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
-=======
->>>>>>> v15.3.0
           "options__4": {
             "label": "Stor"
           }
@@ -1412,13 +1278,8 @@
         "text": {
           "settings": {
             "text": {
-<<<<<<< HEAD
-              "label": "Innehåll",
-              "default": "<p>Para ihop text med en bild för att ge fokus åt vald produkt, produktserie eller blogginlägg. Lägg till information om tillgänglighet, stil eller tillhandahåll en recension.<\/p>"
-=======
               "label": "Text",
               "default": "<p>Para ihop text med en bild för att ge fokus åt vald produkt, produktserie eller blogginlägg. Lägg till information om tillgänglighet, stil eller tillhandahåll en recension.</p>"
->>>>>>> v15.3.0
             },
             "text_style": {
               "label": "Stil",
@@ -1499,10 +1360,6 @@
               "options__3": {
                 "label": "Medel"
               },
-<<<<<<< HEAD
-              "info": "Använd en bild med bildformat 16:9, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
-=======
->>>>>>> v15.3.0
               "options__4": {
                 "label": "Stor"
               }
@@ -1527,15 +1384,6 @@
         "share": {
           "name": "Dela",
           "settings": {
-<<<<<<< HEAD
-            "featured_image_info": {
-              "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Läs mer](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
-            },
-            "title_info": {
-              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
-            },
-=======
->>>>>>> v15.3.0
             "text": {
               "label": "Text",
               "default": "Dela"
@@ -1548,14 +1396,7 @@
       "name": "Blogginlägg",
       "settings": {
         "show_image": {
-<<<<<<< HEAD
-          "label": "Visa framhävd bild"
-        },
-        "paragraph": {
-          "content": "Ändra utdrag genom att redigera dina blogginlägg. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
-=======
           "label": "Utvald bild"
->>>>>>> v15.3.0
         },
         "show_date": {
           "label": "Datum"
@@ -1585,12 +1426,7 @@
           },
           "options__4": {
             "label": "Stor"
-<<<<<<< HEAD
-          },
-          "info": "Använd en bild med bildformat 3:2, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           }
->>>>>>> v15.3.0
         }
       }
     },
@@ -1612,22 +1448,13 @@
       "name": "Banner för produktserie",
       "settings": {
         "paragraph": {
-<<<<<<< HEAD
-          "content": "Lägg till en beskrivning eller en bild genom att redigera din produktserie. [Mer information](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
-=======
           "content": "Inhämtningsuppgifter [hanteras i admin](https://help.shopify.com/manual/products/collections/collection-layout)"
->>>>>>> v15.3.0
         },
         "show_collection_description": {
           "label": "Beskrivning"
         },
         "show_collection_image": {
-<<<<<<< HEAD
-          "label": "Visa produktseriebild",
-          "info": "Använd en bild med bildformat 16:9, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           "label": "Bild"
->>>>>>> v15.3.0
         }
       }
     },
@@ -1659,21 +1486,12 @@
           "content": "Filtrering och sortering"
         },
         "enable_tags": {
-<<<<<<< HEAD
-          "label": "Aktivera filtrering",
-          "info": "Anpassa filter med Search & Discovery-appen. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
-        },
-        "enable_filtering": {
-          "label": "Aktivera filtrering",
-          "info": "Anpassa filter med Search & Discovery-appen. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
-=======
           "label": "Filter",
           "info": "Anpassa filter med [Search & Discovery-appen](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
         },
         "enable_filtering": {
           "label": "Filter",
           "info": "Anpassa filter med [Search & Discovery-appen](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
->>>>>>> v15.3.0
         },
         "enable_sorting": {
           "label": "Sortering"
@@ -1682,13 +1500,8 @@
           "content": "Produktkort"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "Visa produktbetyg",
-          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-grid-section-settings)"
-=======
           "label": "Produktbetyg",
           "info": "En app krävs för produktbedömningar. [Mer information](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types/collection-pages#product-grid-show-product-rating)"
->>>>>>> v15.3.0
         },
         "columns_desktop": {
           "label": "Kolumner"
@@ -1762,12 +1575,7 @@
           },
           "options__3": {
             "label": "Fyrkantig"
-<<<<<<< HEAD
-          },
-          "info": "Lägg till bilder genom att redigera dina produktserier. [Mer information](https:\/\/help.shopify.com\/manual\/products\/collections)"
-=======
           }
->>>>>>> v15.3.0
         },
         "columns_desktop": {
           "label": "Kolumner"
@@ -1838,11 +1646,7 @@
             },
             "swatch_shape": {
               "label": "Prov",
-<<<<<<< HEAD
-              "info": "Aktivera [swatches](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) på produktalternativ.",
-=======
               "info": "Läs mer om [swatches](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) på produktalternativ",
->>>>>>> v15.3.0
               "options__1": {
                 "label": "Cirkel"
               },
@@ -1858,36 +1662,18 @@
         "buy_buttons": {
           "settings": {
             "show_dynamic_checkout": {
-<<<<<<< HEAD
-              "label": "Visa dynamiska utcheckningsknappar",
-              "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
-            },
-            "show_gift_card_recipient": {
-              "label": "Visa mottagarformulär för presentkort",
-              "info": "Låter köpare skicka presentkort och ett personligt meddelande på ett planerat datum. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
-=======
               "label": "Dynamiska kassaknappar",
               "info": "Kunder kommer att se sitt föredragna betalningsalternativ. [Mer information](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": " Alternativ för att skicka presentkort",
               "info": "Kunder kan lägga till ett personligt meddelande och schemalägga datum för skickande. [Mer information](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
->>>>>>> v15.3.0
             }
           },
           "name": "Köpknappar"
         },
         "share": {
           "settings": {
-<<<<<<< HEAD
-            "featured_image_info": {
-              "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Läs mer](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
-            },
-            "title_info": {
-              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
-            },
-=======
->>>>>>> v15.3.0
             "text": {
               "label": "Text",
               "default": "Dela"
@@ -2076,11 +1862,7 @@
           "name": "Produktbetyg",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
-=======
               "content": "En app krävs för produktbedömningar. [Mer information](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types/product-pages#product-rating-block)"
->>>>>>> v15.3.0
             }
           }
         },
@@ -2088,11 +1870,7 @@
           "name": "Kompletterande produkter",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "Lägg till appen Search & Discovery för att välja tilläggsprodukter. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
-=======
               "content": "Hantera kompletterande produkter i [Search & Discovery-appen](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
->>>>>>> v15.3.0
             },
             "heading": {
               "label": "Rubrik",
@@ -2233,12 +2011,7 @@
       },
       "settings": {
         "header": {
-<<<<<<< HEAD
-          "content": "Media",
-          "info": "Mer information om [mediatyper.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
-=======
           "content": "Media"
->>>>>>> v15.3.0
         },
         "enable_video_looping": {
           "label": "Slinga video"
@@ -2357,13 +2130,8 @@
           "label": "Författare"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "Visa produktbetyg",
-          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#search-results-section-settings)"
-=======
           "label": "Produktbetyg",
           "info": "En app krävs för produktbedömningar. [Mer information](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types/search-page)"
->>>>>>> v15.3.0
         },
         "columns_desktop": {
           "label": "Kolumner"
@@ -2506,11 +2274,7 @@
           "label": "Full bredd"
         },
         "paragraph": {
-<<<<<<< HEAD
-          "content": "Varje e-postprenumeration skapar ett kundkonto. [Mer information](https:\/\/help.shopify.com\/manual\/customers)"
-=======
           "content": "Lägg till registreringar [kundprofiler](https://help.shopify.com/manual/customers/manage-customers)"
->>>>>>> v15.3.0
         }
       },
       "blocks": {
@@ -2526,13 +2290,8 @@
         "paragraph": {
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "label": "Beskrivning",
-              "default": "<p>Var först med att få veta om nya produktserier och exklusiva erbjudanden.<\/p>"
-=======
               "label": "Text",
               "default": "<p>Var först med att få veta om nya produktserier och exklusiva erbjudanden.</p>"
->>>>>>> v15.3.0
             }
           },
           "name": "Text"
@@ -2600,13 +2359,8 @@
         "text": {
           "settings": {
             "text": {
-<<<<<<< HEAD
-              "label": "Beskrivning",
-              "default": "<p>Dela information om ditt varumärke med dina kunder. Beskriv en produkt, gör tillkännagivanden eller välkomna kunder till din butik.<\/p>"
-=======
               "label": "Text",
               "default": "<p>Dela information om ditt varumärke med dina kunder. Beskriv en produkt, gör tillkännagivanden eller välkomna kunder till din butik.</p>"
->>>>>>> v15.3.0
             }
           },
           "name": "Text"
@@ -2705,11 +2459,7 @@
         },
         "description": {
           "label": "Alternativtext för video",
-<<<<<<< HEAD
-          "info": "Beskriv videon för kunder som använder skärmläsare. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video)"
-=======
           "info": "Beskriv videon för användere av skärmläsare"
->>>>>>> v15.3.0
         },
         "image_padding": {
           "label": "Lägg till bild-padding",
@@ -2788,11 +2538,7 @@
             },
             "swatch_shape": {
               "label": "Prov",
-<<<<<<< HEAD
-              "info": "Aktivera [swatches](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) på produktalternativ.",
-=======
               "info": "Läs mer om [swatches](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) på produktalternativ",
->>>>>>> v15.3.0
               "options__1": {
                 "label": "Cirkel"
               },
@@ -2809,13 +2555,8 @@
           "name": "Köpknappar",
           "settings": {
             "show_dynamic_checkout": {
-<<<<<<< HEAD
-              "label": "Visa dynamiska kassaknappar",
-              "info": "Genom att använda de betalningsmetoder som finns tillgängliga i din butik kan kunder se det alternativ de föredrar, som PayPal eller Apple Pay. [Mer information](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
-=======
               "label": "Dynamiska kassaknappar",
               "info": "Kunder kommer att se sitt föredragna betalningsalternativ. [Mer information](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
->>>>>>> v15.3.0
             }
           }
         },
@@ -2841,11 +2582,7 @@
           "name": "Produktbetyg",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-product-rating)"
-=======
               "content": "En app krävs för produktbedömningar. [Mer information](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-product-rating)"
->>>>>>> v15.3.0
             }
           }
         },
@@ -2875,12 +2612,7 @@
           "label": "Sekundär bakgrund"
         },
         "header": {
-<<<<<<< HEAD
-          "content": "Media",
-          "info": "Läs mer om [mediatyper](https:\/\/help.shopify.com\/manual\/products\/product-media)"
-=======
           "content": "Media"
->>>>>>> v15.3.0
         },
         "enable_video_looping": {
           "label": "Slinga video"
@@ -2907,11 +2639,7 @@
       "name": "Banner för e-postregistrering",
       "settings": {
         "paragraph": {
-<<<<<<< HEAD
-          "content": "Varje e-postprenumeration skapar ett kundkonto. [Mer information](https:\/\/help.shopify.com\/manual\/customers)"
-=======
           "content": "Lägg till registreringar [kundprofiler](https://help.shopify.com/manual/customers/manage-customers)"
->>>>>>> v15.3.0
         },
         "image": {
           "label": "Bakgrundsbild"
@@ -2926,12 +2654,7 @@
           "label": "Överlagring av opacitet"
         },
         "show_text_below": {
-<<<<<<< HEAD
-          "label": "Visa innehåll under bild på mobil",
-          "info": "Använd en bild med bildformat 16:9, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           "label": "Stapla text under bild"
->>>>>>> v15.3.0
         },
         "image_height": {
           "label": "Höjd",
@@ -2946,12 +2669,7 @@
           },
           "options__4": {
             "label": "Stor"
-<<<<<<< HEAD
-          },
-          "info": "Använd en bild med bildformat 16:9, för bästa resultat. [Mer information](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           }
->>>>>>> v15.3.0
         },
         "desktop_content_position": {
           "options__4": {
@@ -3031,13 +2749,8 @@
           "name": "Text",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "label": "Beskrivning",
-              "default": "<p>Var först med att få veta när vi kör igång.<\/p>"
-=======
               "label": "Text",
               "default": "<p>Var först med att få veta när vi kör igång.</p>"
->>>>>>> v15.3.0
             },
             "text_style": {
               "options__1": {
@@ -3488,11 +3201,7 @@
           "label": "Kolumner"
         },
         "paragraph__1": {
-<<<<<<< HEAD
-          "content": "Dynamiska rekommendationer använder order- och produktinformation för att ändras och förbättras över tid. [Mer information](https:\/\/help.shopify.com\/themes\/development\/recommended-products)",
-=======
           "content": "Relaterade produkter kan hanteras i [Search & Discovery-appen](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)",
->>>>>>> v15.3.0
           "default": "Du kanske också gillar"
         },
         "header__2": {
@@ -3517,16 +3226,8 @@
           "label": "Säljare"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "Visa produktbetyg",
-          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
-        },
-        "header_mobile": {
-          "content": "Mobil layout"
-=======
           "label": "Produktbetyg",
           "info": "En app krävs för produktbedömningar. [Mer information](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-product-recommendations)"
->>>>>>> v15.3.0
         },
         "columns_mobile": {
           "label": "Mobila kolumner",
