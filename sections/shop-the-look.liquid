@@ -152,7 +152,7 @@
                 {%- endfor -%}
               </ul>
               
-              {% comment %} Uncomment this if you also need the slider arrows
+              {% comment %} Uncomment this if you also need the slider arrows {% endcomment %}
               
               <div class="slider-buttons no-js-hidden" style="display: none;">
               <button
@@ -162,7 +162,7 @@
               aria-label="{{ 'general.slider.previous_slide' | t }}"
               aria-controls="Slider-{{ section.id }}"
               >
-              {% render 'icon-caret' %}
+              prev
               </button>
               <div class="slider-counter caption">
               <span class="slider-counter--current">1</span>
@@ -177,9 +177,9 @@
               aria-label="{{ 'general.slider.next_slide' | t }}"
               aria-controls="Slider-{{ section.id }}"
               >
-              {% render 'icon-caret' %}
+              next
               </button>
-              </div> {% endcomment %}
+              </div> 
             </slider-component>
           </div>
         </li>
