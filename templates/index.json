@@ -15,22 +15,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Warm Weather Threads",
+            "heading": "Mid-Season Sale",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "Easy going layers for those long balmy days ahead.",
+            "text": "25% off most seasonal styles, new and old",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections/spring-summer-2025",
+            "button_label_1": "Shop The Sale",
+            "button_link_1": "shopify://collections/summer-sale-2025",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -48,11 +48,11 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/DSCF7024-3_1.jpg",
+        "image": "shopify://shop_images/483356258_18060760363989073_5285018688039958984_n.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "image_behavior": "none",
-        "desktop_content_position": "middle-right",
+        "desktop_content_position": "bottom-right",
         "desktop_content_alignment": "right",
         "show_text_box": true,
         "color_scheme": "background-2",
