@@ -31,9 +31,8 @@
         },
         "0e04ab17-38a9-4d69-911d-b546f7feda3c": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign sale = product.collections | where: 'handle', \"summer-sale-2025\"\n%}\n{% if sale != blank %}\n<h2>Mid-Season Sale</h2>\n<p>Now through Saturday, June 28th at midnight Pacific, this product is 25% off.</p>\n<!-- <p>This sale is a Last Call sale. <a href=\"https://porterhouseclothing.com/policies/refund-policy\">Per our return policy</a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.</p> -->\n<p>Final price shown in cart.</p>\n{% endif %}\n</div>"
+            "custom_liquid": "<div class=\"rte\">\n{% liquid\n  assign sale = product.collections | where: 'handle', \"summer-sale-2025\"\n%}\n{% if sale != blank %}\n<h2>End of Summer Sale</h2>\n<p>Now through Friday, August 22nd at midnight Pacific, this product is 35% off.</p>\n<p>This sale is a Last Call sale. <a href=\"https://porterhouseclothing.com/policies/refund-policy\">Per our return policy</a>, products purchased on Last Call are not eligible for return. Please contact us with questions about sizing prior to purchase.</p>\n<p>Final price shown in cart.</p>\n{% endif %}\n</div>"
           }
         },
         "77c7897c-3d5a-4215-b174-ec7fbefc8322": {
@@ -196,7 +195,10 @@
       "blocks": {
         "judge_me_reviews_review_widget_MNjQjr": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
         }
       },
       "block_order": [
