@@ -17,8 +17,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "35% off seasonal items live now",
-            "link": "shopify://collections/summer-sale-2025"
+            "text": "Free Domestic Shipping On Orders Over $250",
+            "link": ""
           }
         }
       },
