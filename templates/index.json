@@ -67,11 +67,11 @@
         "template--14168137728072__8e5e019b-f4a1-4e9b-8555-bc52e5b4e734-16749495649e219b52-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSCF4355_1.jpg",
-            "title": "Freenote Cloth Spring & Summer",
-            "text": "<p>Based out of sunny San Juan Capistrano, the Freenote crew know how to make some great  threads ready for warmer days. From transitional wool pieces to straight up tanks - the spring summer collection from Freenote is only growing from here til summer is out. </p>",
+            "image": "shopify://shop_images/DSCF8764.jpg",
+            "title": "Portuguese Flannel AW25",
+            "text": "<p>Rich warm textures from our favorite outfit out of Portugal. The first drop of Portuguese Flannel autumn/winter 2025 is available now. </p>",
             "link_label": "Shop Now",
-            "link": "shopify://collections/freenote-cloth-warm-weather-collection-2025",
+            "link": "shopify://collections/portuguese-flannel-spring-summer-2024",
             "custom_liquid": ""
           }
         },
@@ -600,7 +600,7 @@
     "16281190877da4b4bf": {
       "type": "instafeed",
       "settings": {
-        "heading_font": "helvetica_n4",
+        "heading_font": "sans_serif_n4",
         "heading_size": 20,
         "feed_width": 95,
         "html_area": ""
