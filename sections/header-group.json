@@ -14,8 +14,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_WtHKFq": {
+          "type": "announcement",
+          "settings": {
+            "text": "Black Friday Select Sale Starts Friday",
+            "link": "https://porterhouseclothing.com/collections/the-black-friday-select-sale"
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Free Domestic Shipping On Orders Over $250",
             "link": ""
@@ -23,6 +31,7 @@
         }
       },
       "block_order": [
+        "announcement_WtHKFq",
         "announcement-bar-0"
       ],
       "settings": {
