@@ -15,22 +15,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "THE LEGENDARY PECOS",
+            "heading": "The Holidays Have Arrived",
             "heading_size": "h1"
           }
         },
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b": {
           "type": "text",
           "settings": {
-            "text": "A Red Wing icon returns",
+            "text": "Shop the Men's Gift Guide",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify://products/pecos-8060-hawthorne-muleskinner",
+            "button_label_1": "Give Better Gifts",
+            "button_link_1": "shopify://blogs/news/porterhouse-2025-mens-gift-guide",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -48,11 +48,11 @@
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/DSCF1234.jpg",
+        "image": "shopify://shop_images/DSCF8706.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "image_behavior": "none",
-        "desktop_content_position": "top-center",
+        "desktop_content_position": "bottom-right",
         "desktop_content_alignment": "center",
         "show_text_box": true,
         "color_scheme": "background-2",
