@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_WtHKFq": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Black Friday Select Sale Happening Now",
             "link": "https://porterhouseclothing.com/collections/the-black-friday-select-sale"
@@ -23,7 +24,6 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Free Domestic Shipping On Orders Over $250",
             "link": ""
