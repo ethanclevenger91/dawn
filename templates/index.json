@@ -266,10 +266,9 @@
         "template--14168137728072__bc288656-e576-4498-b5de-a5c58f607191-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSCF7157.jpg",
-            "title": "Nic's Picks",
+            "title": "Grace's Picks",
             "text": "",
-            "link_label": "Browse Nic's Picks",
+            "link_label": "Browse Grace's Picks",
             "link": "shopify://collections/sams-picks",
             "custom_liquid": ""
           }
