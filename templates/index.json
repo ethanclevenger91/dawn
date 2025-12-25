@@ -43,12 +43,65 @@
         "c8db42a2-464a-407e-8bb2-ce24f8cad42b",
         "button"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: white;}",
         "@media screen and (min-width: 750px) {h2, p {color: white; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/DSCF8706.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "bottom-right",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-2",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "image_banner_AghfQJ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_x4RQkG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Merry Christmas",
+            "heading_size": "h1"
+          }
+        },
+        "text_anzzMG": {
+          "type": "text",
+          "settings": {
+            "text": "From the Porterhouse family",
+            "text_style": "body"
+          }
+        },
+        "buttons_i6zVnC": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Enjoy the Playlist",
+            "button_link_1": "https://open.spotify.com/playlist/18l6L2ObiBLByPLLTgG9ko?si=dhaig0FpTfq6yjm6fzegbQ&pi=KTJTf4P2SkK8B",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_x4RQkG",
+        "text_anzzMG",
+        "buttons_i6zVnC"
+      ],
+      "custom_css": [
+        "a {color: white;}",
+        "@media screen and (min-width: 750px) {h2, p {color: white; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_0367.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "image_behavior": "none",
@@ -608,6 +661,7 @@
   },
   "order": [
     "image_banner",
+    "image_banner_AghfQJ",
     "8e5e019b-f4a1-4e9b-8555-bc52e5b4e734",
     "16288076191b5a1fb7",
     "608a42a8-1c64-466d-b712-b82a8cb23680",
